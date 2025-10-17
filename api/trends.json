@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T18:21:05.177138+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2025-10-17T19:17:03.043778+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 112,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -79,11 +79,12 @@
             5,
             9,
             13,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时02分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时02分 ~ 19时17分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -109,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时02分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时02分 ~ 19时17分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -124,6 +125,20 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            5,
+            11,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时17分]"
+        },
+        {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
           "source": "澎湃新闻",
@@ -131,11 +146,24 @@
             15,
             16,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时02分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时02分 ~ 19时17分]"
+        },
+        {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时17分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -150,28 +178,15 @@
           "time_info": "[11时02分 ~ 16时26分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
           "ranks": [
-            5,
-            11,
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时21分]"
-        },
-        {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时17分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -212,6 +227,28 @@
           "time_info": "[09时18分 ~ 13时17分]"
         },
         {
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "知情人士透露，特朗普前国家安全顾问博尔顿预计将于周五自首，并将首次出庭受审。",
+          "url": "https://flash.jin10.com/detail/20251017184628451800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
           "url": "https://wallstreetcn.com/articles/3757263",
           "source": "华尔街见闻",
@@ -222,17 +259,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时21分]"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -263,22 +289,24 @@
           "url": "https://flash.jin10.com/detail/20251017181319099800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "市场消息：福克斯商业频道采访特朗普的片段将于周日播出。",
           "url": "https://flash.jin10.com/detail/20251017180918455800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -371,6 +399,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时20分]"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
+          "title": "克里姆林宫：特朗普与普京峰会前，俄罗斯外长拉夫罗夫和美国国务卿鲁比奥仍需首先解决许多问题。",
+          "url": "https://flash.jin10.com/detail/20251017180745398800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -568,28 +619,6 @@
           "time_info": "[05时16分 ~ 06时13分]"
         },
         {
-          "title": "克里姆林宫：特朗普与普京峰会前，俄罗斯外长拉夫罗夫和美国国务卿鲁比奥仍需首先解决许多问题。",
-          "url": "https://flash.jin10.com/detail/20251017180745398800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "美国总统特朗普：美国不会从任何方式上遵守全球碳税。",
           "url": "https://wallstreetcn.com/livenews/2989158",
           "source": "华尔街见闻-快讯",
@@ -738,6 +767,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "欧盟发言人：如果美国总统特朗普与俄罗斯总统普京的拟议会晤有助于乌克兰的和平，我们表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251017182147274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：（2025年夏季）与俄罗斯总统普京在阿拉斯加会面（为后续沟通）奠定基础。 对俄罗斯的制裁法案恐怕并非完美时机。",
@@ -1029,6 +1069,28 @@
           "time_info": "06时14分"
         },
         {
+          "title": "评论普京与特朗普通话，马斯克用了一个词：“令人鼓舞”",
+          "url": "https://wallstreetcn.com/livenews/2989681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "俄方证实普京与特朗普或于两周内举行会晤",
+          "url": "https://wallstreetcn.com/livenews/2989678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -1252,7 +1314,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -1359,6 +1421,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 06时13分]"
+        },
+        {
+          "title": "担忧情绪笼罩美股 避险模式成收官主调",
+          "url": "https://flash.jin10.com/detail/20251017182711314800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
@@ -1566,7 +1639,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -1593,17 +1666,6 @@
           "time_info": "[13时17分 ~ 16时26分]"
         },
         {
-          "title": "汇丰：预测2026年金价可能达到每盎司5,000美元。 将2026年黄金均价预测将从3,950美元/盎司上调至4,600美元/盎司。 金价可能在2026年上半年就达到每盎司5,000美元的高位。 预计2027年金价平均为3,950美元/盎司(此前预期为3,600美元/盎司)，2028年为3,630美元/盎司(此前预期为3,330美元/盎司)。",
-          "url": "https://wallstreetcn.com/livenews/2989651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "金十图示：2025年10月17日（周五）上海金早盘价为990.35元/克，较国际金价(991.18元/克)，低0.83元/克",
           "url": "https://flash.jin10.com/detail/20251017102909542800",
           "source": "金十数据",
@@ -1624,6 +1686,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "汇丰：预测2026年金价可能达到每盎司5,000美元。 将2026年黄金均价预测将从3,950美元/盎司上调至4,600美元/盎司。 金价可能在2026年上半年就达到每盎司5,000美元的高位。 预计2027年金价平均为3,950美元/盎司(此前预期为3,600美元/盎司)，2028年为3,630美元/盎司(此前预期为3,330美元/盎司)。",
+          "url": "https://wallstreetcn.com/livenews/2989651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -1673,6 +1747,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时40分]"
+        },
+        {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1765,8 +1850,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 19时17分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1792,8 +1877,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时02分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时02分 ~ 19时17分]"
         },
         {
           "title": "机构：美债收益率下行开始，或预示市场情绪将发生重大转变",
@@ -1807,6 +1892,18 @@
           "time_info": "[14时26分 ~ 14时27分]"
         },
         {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
           "url": "https://wallstreetcn.com/livenews/2989216",
           "source": "华尔街见闻-快讯",
@@ -1817,17 +1914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时17分]"
-        },
-        {
-          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "美联储人员发现 开曼群岛对冲基金的美债持仓数据出入达1.4万亿美元",
@@ -1905,39 +1991,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
-          "url": "https://www.zhihu.com/question/1961867297695166783",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 18时21分]"
-        },
-        {
-          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
-          "url": "https://wallstreetcn.com/livenews/2989420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数16日下跌",
@@ -1952,6 +2007,17 @@
           "time_info": "[06时13分 ~ 06时14分]"
         },
         {
+          "title": "避险情绪主导市场 美元指数一度跌至七月来最低",
+          "url": "https://flash.jin10.com/detail/20251017183415838800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "周四（10月16日）纽约尾盘，ICE美元指数跌0.46%，报98.338点，日内交投区间为98.701-98.208点，全天处于下跌状态，北京时间20:00以来持续走低。 彭博美元指数跌0.30%，报1207.28点，日内交投区间为1210.51-1206.81点。",
           "url": "https://wallstreetcn.com/livenews/2989175",
           "source": "华尔街见闻-快讯",
@@ -1962,6 +2028,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
+          "url": "https://www.zhihu.com/question/1961867297695166783",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 19时17分]"
+        },
+        {
+          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
+          "url": "https://wallstreetcn.com/livenews/2989420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时17分]"
         }
       ]
     }
