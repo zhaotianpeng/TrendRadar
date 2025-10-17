@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T05:17:31.301142+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-10-18T06:18:36.401318+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -41,8 +41,60 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
+        },
+        {
+          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            17,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "time_info": "[00时23分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普又被告",
+          "url": "https://www.douyin.com/hot/2273463",
+          "source": "抖音",
+          "ranks": [
+            26,
+            2,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -59,64 +111,15 @@
           "time_info": "[00时23分 ~ 05时17分]"
         },
         {
-          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普又被告",
-          "url": "https://www.douyin.com/hot/2273463",
-          "source": "抖音",
-          "ranks": [
-            26,
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
           "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
           "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "特朗普重新起诉《纽约时报》",
@@ -130,6 +133,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "泽连斯基建议用乌克兰无人机换取美制“战斧”导弹，特朗普称美国也需要“战斧”",
+          "url": "https://wallstreetcn.com/livenews/2989922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
@@ -203,6 +217,18 @@
           "time_info": "[03时17分 ~ 04时20分]"
         },
         {
+          "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
+          "url": "https://wallstreetcn.com/livenews/2989907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren再次呼呼特朗普政府在美联储10月份货币政策会议之前发布9月非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/2989857",
           "source": "华尔街见闻-快讯",
@@ -239,6 +265,29 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
+          "title": "Salesforce的首席执行官（CEO）为自己说“美国总统特朗普应当向旧金山派遣国民警卫队”道歉。",
+          "url": "https://wallstreetcn.com/livenews/2989900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "市场消息：特朗普政府请求美国最高法院介入，以推动向伊利诺伊州部署国民警卫队的行动。",
+          "url": "https://flash.jin10.com/detail/20251018040701072800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
           "title": "特朗普前助理博尔顿否认不当处理机密信息指控",
           "url": "https://flash.jin10.com/detail/20251018003329664800",
           "source": "金十数据",
@@ -250,6 +299,39 @@
           "time_info": "[01时15分 ~ 01时16分]"
         },
         {
+          "title": "市场消息：特朗普与泽连斯基的会晤在白宫结束，泽连斯基在与特朗普会面后离开白宫。",
+          "url": "https://flash.jin10.com/detail/20251018035936473800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "市场消息：“海军陆战队一号” 直升机停在白宫准备送特朗普离开，但在起飞时其并未载上总统本人。",
+          "url": "https://flash.jin10.com/detail/20251018035516283800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "“停摆”持续 特朗普政府再冻结110亿美元基建资金",
+          "url": "https://flash.jin10.com/detail/20251018035009858800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
           "title": "特朗普与泽连斯基再度会面 就美供乌“战斧”等问题表态",
           "url": "https://flash.jin10.com/detail/20251018022430142800",
           "source": "金十数据",
@@ -259,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 03时17分]"
-        },
-        {
-          "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
-          "url": "https://wallstreetcn.com/livenews/2989907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：马杜罗“已向美国提供了一切”。",
@@ -305,17 +376,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "Salesforce的首席执行官（CEO）为自己说“美国总统特朗普应当向旧金山派遣国民警卫队”道歉。",
-          "url": "https://wallstreetcn.com/livenews/2989900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美国总统特朗普：对俄罗斯至阿拉斯加隧道不满。",
           "url": "https://flash.jin10.com/detail/20251018021030833800",
           "source": "金十数据",
@@ -336,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普见泽连斯基，排除美俄乌三方会",
+          "url": "https://wallstreetcn.com/livenews/2989921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "美国总统特朗普：（谈及从俄罗斯通往阿拉斯加的隧道）我们得考虑一下这个问题。",
@@ -382,17 +453,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "市场消息：特朗普政府请求美国最高法院介入，以推动向伊利诺伊州部署国民警卫队的行动。",
-          "url": "https://flash.jin10.com/detail/20251018040701072800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美国总统特朗普：我们袭击了一艘潜艇，一艘载有毒品的潜艇。",
           "url": "https://flash.jin10.com/detail/20251018020810788800",
           "source": "金十数据",
@@ -402,17 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "市场消息：特朗普与泽连斯基的会晤在白宫结束，泽连斯基在与特朗普会面后离开白宫。",
-          "url": "https://flash.jin10.com/detail/20251018035936473800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：巴基斯坦和阿富汗问题对我来说很容易解决。",
@@ -448,17 +497,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "市场消息：“海军陆战队一号” 直升机停在白宫准备送特朗普离开，但在起飞时其并未载上总统本人。",
-          "url": "https://flash.jin10.com/detail/20251018035516283800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
           "url": "https://flash.jin10.com/detail/20251018020457284800",
           "source": "金十数据",
@@ -468,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "“停摆”持续 特朗普政府再冻结110亿美元基建资金",
-          "url": "https://flash.jin10.com/detail/20251018035009858800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "乌克兰总统泽连斯基：特朗普很清楚战场上发生的事情。",
@@ -515,11 +542,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -530,8 +558,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -573,20 +601,21 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
           "url": "https://wallstreetcn.com/livenews/2989891",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
@@ -595,9 +624,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
@@ -606,9 +635,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         }
       ]
     },
@@ -624,11 +653,12 @@
             9,
             7,
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "金价",
@@ -637,11 +667,12 @@
           "ranks": [
             29,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 06时18分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -693,6 +724,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时18分]"
+        },
+        {
+          "title": "两年期美债收益率本周跌超4个基点",
+          "url": "https://wallstreetcn.com/livenews/2989920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -710,20 +770,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
+          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
+          "url": "https://wallstreetcn.com/articles/3757376",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4
+            10
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -738,9 +797,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         }
       ]
     },
@@ -757,8 +816,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 06时18分]"
         }
       ]
     }
