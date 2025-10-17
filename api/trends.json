@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T16:26:34.891942+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2025-10-17T17:21:43.301689+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -77,11 +77,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 17时21分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -98,6 +99,19 @@
           "time_info": "[09时18分 ~ 16时26分]"
         },
         {
+          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
+          "url": "https://wallstreetcn.com/articles/3757333",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 17时21分]"
+        },
+        {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
           "url": "https://news.ifeng.com/c/8nVihEC18zq",
           "source": "凤凰网",
@@ -109,38 +123,26 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
-          "title": "博尔顿遭起诉，特朗普：他是个坏人",
-          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时26分]"
-        },
-        {
-          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
-          "url": "https://wallstreetcn.com/articles/3757333",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时26分]"
-        },
-        {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 17时21分]"
+        },
+        {
+          "title": "博尔顿遭起诉，特朗普：他是个坏人",
+          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -226,11 +228,23 @@
           "source": "抖音",
           "ranks": [
             5,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 17时21分]"
+        },
+        {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -286,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 17时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
@@ -372,17 +397,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 06时14分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 16时26分]"
         },
         {
           "title": "特朗普推鼓励生育措施 药企降价换关税豁免",
@@ -578,6 +592,18 @@
           "time_info": "[07时17分 ~ 09时18分]"
         },
         {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
           "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
           "url": "https://wallstreetcn.com/livenews/2989141",
           "source": "华尔街见闻-快讯",
@@ -669,6 +695,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时18分]"
+        },
+        {
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "据华尔街日报：美国商会起诉特朗普政府，指控其新出台的H-1B签证收费政策。",
@@ -913,17 +951,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
-          "url": "https://www.cls.cn/detail/2172177",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -962,17 +989,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "你如何看待特朗普建凯旋门",
-          "url": "https://www.toutiao.com/trending/7561714764305907758/",
-          "source": "今日头条",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1029,7 +1045,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1128,7 +1144,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1332,7 +1348,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1343,7 +1359,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1365,7 +1381,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1387,7 +1403,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1420,7 +1436,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1660,8 +1676,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 17时21分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1683,11 +1699,12 @@
             9,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 17时21分]"
         },
         {
           "title": "机构：美债收益率下行开始，或预示市场情绪将发生重大转变",
@@ -1800,8 +1817,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 17时21分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
