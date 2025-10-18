@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T19:14:17.685564+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-10-18T20:32:27.756085+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时14分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[09时14分 ~ 20时32分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时54分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时54分 ~ 20时32分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -154,8 +154,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时54分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时54分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
+          "url": "https://news.ifeng.com/c/8nYLhA743YV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时32分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -201,26 +212,33 @@
           "time_info": "[09时14分 ~ 14时29分]"
         },
         {
-          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
-          "url": "https://news.ifeng.com/c/8nYLhA743YV",
-          "source": "凤凰网",
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
-        },
-        {
-          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
-          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
-          "source": "凤凰网",
-          "ranks": [
+            2,
+            3,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
+          "url": "https://flash.jin10.com/detail/20251018144513725800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            11,
+            14,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时32分]"
         },
         {
           "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
@@ -233,21 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时17分 ~ 09时14分]"
-        },
-        {
-          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
-          "url": "https://flash.jin10.com/detail/20251018144513725800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时14分]"
         },
         {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
@@ -263,18 +266,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时14分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
         },
         {
           "title": "可怜的泽连斯基，又被特朗普戏弄了",
@@ -297,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时32分]"
         },
         {
           "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -341,17 +344,6 @@
           "time_info": "[00时23分 ~ 03时17分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
-          "url": "https://flash.jin10.com/detail/20251018175601637800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
           "url": "https://news.ifeng.com/c/8nY5myFfFkF",
           "source": "凤凰网",
@@ -383,6 +375,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时18分 ~ 19时14分]"
+        },
+        {
+          "title": "美乌总统会晤，特朗普数次语气强硬",
+          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://wallstreetcn.com/livenews/2990050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
@@ -437,19 +465,6 @@
           "time_info": "[09时14分 ~ 12时21分]"
         },
         {
-          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://wallstreetcn.com/livenews/2990050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
-        },
-        {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
           "url": "https://wallstreetcn.com/livenews/2989865",
           "source": "华尔街见闻-快讯",
@@ -461,6 +476,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
+          "url": "https://flash.jin10.com/detail/20251018175601637800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "特朗普签署行政令，对进口中型和重型卡车征收25%关税",
@@ -771,6 +798,17 @@
           "time_info": "[03时16分 ~ 03时17分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：马杜罗“已向美国提供了一切”。",
           "url": "https://flash.jin10.com/detail/20251018021425444800",
           "source": "金十数据",
@@ -998,8 +1036,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时17分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时17分 ~ 20时32分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -1064,6 +1102,30 @@
           "time_info": "[07时17分 ~ 09时14分]"
         },
         {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251018040735282800",
           "source": "金十数据",
@@ -1119,28 +1181,6 @@
           "time_info": "[01时15分 ~ 01时16分]"
         },
         {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
-        },
-        {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
           "url": "https://wallstreetcn.com/livenews/2989891",
           "source": "华尔街见闻-快讯",
@@ -1167,7 +1207,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -1204,11 +1244,12 @@
           "url": "https://www.toutiao.com/trending/7562444745599880713/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时32分]"
         },
         {
           "title": "金价",
@@ -1272,13 +1313,24 @@
           "time_info": "[09时14分 ~ 10时54分]"
         },
         {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "黄金价格“抛物线式”上涨",
           "url": "https://www.toutiao.com/trending/7562476629914553883/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1292,6 +1344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "金价暴涨下的水贝",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%8B%E7%9A%84%E6%B0%B4%E8%B4%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26realpos%3D29%26pos%3D29%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%258B%25E7%259A%2584%25E6%25B0%25B4%25E8%25B4%259D%26c_type%3D31%26dgr%3D0%26band_rank%3D29%26display_time%3D1760789755%26pre_seqid%3D176078975592901906337123",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
@@ -1307,8 +1370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时14分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[09时14分 ~ 20时32分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1349,7 +1412,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
@@ -1377,6 +1440,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 16时22分]"
+        },
+        {
+          "title": "伊朗副外长：协议规定的期限和施加的限制到期后，伊朗将摆脱安理会实施的制裁。",
+          "url": "https://flash.jin10.com/detail/20251018200946209800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
