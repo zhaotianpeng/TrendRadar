@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T17:21:12.874610+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2025-10-20T18:21:48.653465+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -96,8 +96,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 17时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 18时21分]"
         },
         {
           "title": "特朗普：不确定是否会介入纽约市长选举。不愿支持民主党候选人。",
@@ -153,8 +153,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 18时21分]"
         },
         {
           "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
@@ -271,11 +271,23 @@
             16,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 17时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普：不想伤害中国，愿意降低关税水平",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -294,17 +306,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普：不想伤害中国，愿意降低关税水平",
-          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
@@ -542,17 +543,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
-          "url": "https://wallstreetcn.com/livenews/2990578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -605,6 +595,29 @@
           "time_info": "11时16分"
         },
         {
+          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
+          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
+        },
+        {
           "title": "美17州检察长起诉特朗普政府说明啥",
           "url": "https://www.toutiao.com/trending/7563083390186950170/",
           "source": "今日头条",
@@ -641,15 +654,16 @@
           "time_info": "[00时19分 ~ 03时14分]"
         },
         {
-          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
-          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
-          "source": "凤凰网",
+          "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
+          "url": "https://wallstreetcn.com/livenews/2990578",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时21分]"
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "“特朗普全程在骂人”，上周五与泽连斯基再现“白宫争执”",
@@ -664,18 +678,6 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时21分]"
-        },
-        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://flash.jin10.com/detail/20251020043953182800",
           "source": "金十数据",
@@ -686,6 +688,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普政府为何悄悄放松关税政策",
+          "url": "https://www.toutiao.com/trending/7563192486479269386/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -700,16 +715,16 @@
           "time_info": "[09时21分 ~ 12时25分]"
         },
         {
-          "title": "特朗普政府为何悄悄放松关税政策",
-          "url": "https://www.toutiao.com/trending/7563192486479269386/",
-          "source": "今日头条",
+          "title": "特朗普与泽连斯基再度激烈争吵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D24%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D25%26flag%3D1%26stream_entry_id%3D31%26realpos%3D24%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E5%2586%258D%25E5%25BA%25A6%25E6%25BF%2580%25E7%2583%2588%25E4%25BA%2589%25E5%2590%25B5%2523%26dgr%3D0%26display_time%3D1760951945%26pre_seqid%3D176095194518102732930104",
+          "source": "微博",
           "ranks": [
-            13,
-            19
+            24,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "特朗普称努力让美国变得伟大",
@@ -901,17 +916,6 @@
           "time_info": "[15时20分 ~ 16时25分]"
         },
         {
-          "title": "特朗普与泽连斯基再度激烈争吵",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D24%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D25%26flag%3D1%26stream_entry_id%3D31%26realpos%3D24%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E5%2586%258D%25E5%25BA%25A6%25E6%25BF%2580%25E7%2583%2588%25E4%25BA%2589%25E5%2590%25B5%2523%26dgr%3D0%26display_time%3D1760951945%26pre_seqid%3D176095194518102732930104",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
           "url": "https://www.douyin.com/hot/2276127",
           "source": "抖音",
@@ -1025,22 +1029,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "当地时间10月19日18时45分，伊朗东南部克尔曼省安巴拉巴德县发生里氏4.3级地震，震源深度10公里。",
-          "url": "https://flash.jin10.com/detail/20251020030742560800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时19分 ~ 07时16分]"
-        },
         {
           "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
@@ -1054,8 +1044,22 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 18时21分]"
+        },
+        {
+          "title": "当地时间10月19日18时45分，伊朗东南部克尔曼省安巴拉巴德县发生里氏4.3级地震，震源深度10公里。",
+          "url": "https://flash.jin10.com/detail/20251020030742560800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时19分 ~ 07时16分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -1085,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：若遭挑衅将作出不同以往回应",
+          "url": "https://flash.jin10.com/detail/20251020181317256800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "伊朗逊尼派部族领袖遇害，革命卫队：以色列指使的",
@@ -1162,7 +1177,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1189,6 +1204,18 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
+          "title": "亚马逊美股盘前转跌，现跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
           "url": "https://flash.jin10.com/detail/20251020165037004800",
           "source": "金十数据",
@@ -1211,15 +1238,26 @@
           "time_info": "16时25分"
         },
         {
-          "title": "亚马逊美股盘前转跌，现跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/2990560",
-          "source": "华尔街见闻-快讯",
+          "title": "Alphabet(GOOG.O)美股盘前涨幅收窄，最新上涨0.1%；美国国家公路交通安全管理局已启动对约2000辆Waymo车辆的初步评估。",
+          "url": "https://flash.jin10.com/detail/20251020180900012800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时21分"
+        },
+        {
+          "title": "波音(BA.N)美股盘前上涨1.4%，此前美国联邦航空管理局（FAA）表示，波音公司可将737 MAX的月产量提升至42架。",
+          "url": "https://flash.jin10.com/detail/20251020180758113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
@@ -1236,8 +1274,31 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251020181236971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
         {
           "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
           "url": "https://flash.jin10.com/detail/20251020164600924800",
@@ -1261,15 +1322,15 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：正在观察受影响服务的恢复情况，我们正在密切关注。",
+          "url": "https://flash.jin10.com/detail/20251020174853570800",
+          "source": "金十数据",
           "ranks": [
-            14
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时21分"
         }
       ]
     },
@@ -1325,8 +1386,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
         }
       ]
     },
