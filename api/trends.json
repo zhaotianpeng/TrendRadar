@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T00:22:32.587165+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-21T01:18:09.272521+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
@@ -26,41 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
-          "url": "https://flash.jin10.com/detail/20251021001542000800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国总统特朗普：波音公司表现不错。",
-          "url": "https://wallstreetcn.com/livenews/2990770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
-          "url": "https://flash.jin10.com/detail/20251021001348500800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -70,41 +37,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
-          "title": "美国总统特朗普：正努力达成（俄乌）协议。",
-          "url": "https://flash.jin10.com/detail/20251021001233217800",
+          "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
+          "url": "https://flash.jin10.com/detail/20251021001542000800",
           "source": "金十数据",
           "ranks": [
-            6
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
-          "title": "关键矿物概念股NB涨10.8%，USAR涨6.1%，ETF XME涨3.9%，MP材料则跌1%。 美国总统特朗普声称，将与澳大利亚总理讨论贸易问题。 双方将签订关于关键矿物的协议。 美国将在大约一年之后拥有大量稀土材料。 澳大利亚总理Albanese表示，矿业协议将两国关系推至一个新的水平。",
-          "url": "https://wallstreetcn.com/livenews/2990766",
+          "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
+          "url": "https://flash.jin10.com/detail/20251021001348500800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "美国总统特朗普：波音公司表现不错。",
+          "url": "https://wallstreetcn.com/livenews/2990770",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国总统特朗普：与普京讨论了袭击平民问题，要求停止袭击平民。",
-          "url": "https://flash.jin10.com/detail/20251021001107157800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -114,19 +84,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
           "url": "https://www.zhihu.com/question/1963528380650614990",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "美国总统特朗普：正努力达成（俄乌）协议。",
+          "url": "https://flash.jin10.com/detail/20251021001233217800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -136,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -147,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
@@ -158,30 +141,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "美国总统特朗普：与普京讨论了袭击平民问题，要求停止袭击平民。",
+          "url": "https://flash.jin10.com/detail/20251021001107157800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
           "url": "https://www.douyin.com/hot/2276127",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：有多个国家打电话给我，要求我进入加沙解决哈马斯问题。我们不会在加沙部署美国军队，已经有59个国家签署了这项协议。",
           "url": "https://flash.jin10.com/detail/20251021000622297800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -191,96 +188,127 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：我们会给哈马斯一个机会",
           "url": "https://flash.jin10.com/detail/20251021000553784800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：还没有要求以色列重新进入加沙。",
           "url": "https://flash.jin10.com/detail/20251021000539060800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：目前，加沙停火掌握在别人手中。如果有必要，哈马斯将被消灭。",
           "url": "https://flash.jin10.com/detail/20251021000410130800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：正采取多项措施以维持停火。",
           "url": "https://flash.jin10.com/detail/20251021000329871800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：但我不认为他们（即乌克兰）会赢。",
           "url": "https://flash.jin10.com/detail/20251021000134822800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：乌克兰仍有可能获胜。一切皆有可能。",
           "url": "https://flash.jin10.com/detail/20251021000049648800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "特朗普：（谈及俄乌冲突）我认为我们会成功。",
           "url": "https://flash.jin10.com/detail/20251021000007478800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "关键矿物概念股NB涨10.8%，USAR涨6.1%，ETF XME涨3.9%，MP材料则跌1%。 美国总统特朗普声称，将与澳大利亚总理讨论贸易问题。 双方将签订关于关键矿物的协议。 美国将在大约一年之后拥有大量稀土材料。 澳大利亚总理Albanese表示，矿业协议将两国关系推至一个新的水平。",
+          "url": "https://wallstreetcn.com/livenews/2990766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
           "url": "https://wallstreetcn.com/livenews/2990750",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
@@ -338,17 +366,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
           "title": "美国总统特朗普：我们正在额外建造几艘潜艇，进展很快。",
           "url": "https://flash.jin10.com/detail/20251020235313095800",
           "source": "金十数据",
@@ -370,11 +387,12 @@
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -401,6 +419,45 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251021003251038800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251021003017938800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -409,11 +466,12 @@
           "url": "https://flash.jin10.com/detail/20251021000347745800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     },
@@ -426,11 +484,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31784199",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     },
@@ -446,25 +505,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2174932",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     },
@@ -480,8 +522,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     }
