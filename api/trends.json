@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T05:16:50.027352+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-10-24T06:18:15.452669+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -63,11 +63,12 @@
             9,
             14,
             7,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -80,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
@@ -93,39 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
-          "url": "https://wallstreetcn.com/livenews/2992762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
-          "url": "https://wallstreetcn.com/livenews/2992761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
-          "url": "https://flash.jin10.com/detail/20251024042517684800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -142,6 +110,31 @@
           "time_info": "[00时23分 ~ 03时16分]"
         },
         {
+          "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
+          "url": "https://flash.jin10.com/detail/20251024042517684800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：赦免币安创始人是应许多人的要求。",
+          "url": "https://wallstreetcn.com/livenews/2992754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时18分]"
+        },
+        {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
           "url": "https://wallstreetcn.com/livenews/2992710",
           "source": "华尔街见闻-快讯",
@@ -155,18 +148,6 @@
           "time_info": "[01时22分 ~ 03时16分]"
         },
         {
-          "title": "美国总统特朗普：赦免币安创始人是应许多人的要求。",
-          "url": "https://wallstreetcn.com/livenews/2992754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
           "title": "哥伦比亚总统佩特罗：美国总统特朗普不太可能对石油征收关税，哥伦比亚可以缓解对其他出口的影响。",
           "url": "https://flash.jin10.com/detail/20251024021527247800",
           "source": "金十数据",
@@ -178,6 +159,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时20分]"
+        },
+        {
+          "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
+          "url": "https://wallstreetcn.com/livenews/2992762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时18分]"
+        },
+        {
+          "title": "英特尔销售超预期，此前特朗普政府成为大股东",
+          "url": "https://wallstreetcn.com/livenews/2992750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时18分]"
+        },
+        {
+          "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
+          "url": "https://wallstreetcn.com/livenews/2992761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时18分]"
         },
         {
           "title": "特朗普称将取消向旧金山派出国民警卫队",
@@ -228,16 +246,16 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "英特尔销售超预期，此前特朗普政府成为大股东",
-          "url": "https://wallstreetcn.com/livenews/2992750",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们可能会就打击“陆上毒品”一事征求国会意见。",
+          "url": "https://flash.jin10.com/detail/20251024041732581800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            12
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时18分]"
         },
         {
           "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
@@ -251,6 +269,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时16分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
+          "url": "https://flash.jin10.com/detail/20251024041334710800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时18分]"
         },
         {
           "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
@@ -350,6 +380,17 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "英特尔(INTC.O)首席执行官：公司致力于推动特朗普恢复美国半导体生产的愿景。",
+          "url": "https://flash.jin10.com/detail/20251024050945821800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 06时18分]"
+        },
+        {
           "title": "特朗普称将取消向旧金山派出国民警卫队",
           "url": "https://wallstreetcn.com/livenews/2992733",
           "source": "华尔街见闻-快讯",
@@ -360,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "美国总统特朗普：（当谈及政府停摆）收到一名私人捐助者提供的1.3亿美元支票，用于支付军人薪资的任何不足，以应对政府停摆。",
+          "url": "https://flash.jin10.com/detail/20251024044832222800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 06时18分]"
         },
         {
           "title": "特朗普团队警告：政府停摆持续将加剧航班延误",
@@ -384,35 +436,13 @@
           "time_info": "04时20分"
         },
         {
-          "title": "美国总统特朗普：我们可能会就打击“陆上毒品”一事征求国会意见。",
-          "url": "https://flash.jin10.com/detail/20251024041732581800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
-          "url": "https://flash.jin10.com/detail/20251024041334710800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "美国总统特朗普：将很快对委内瑞拉采取陆地行动。",
           "url": "https://flash.jin10.com/detail/20251024041314260800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -434,7 +464,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -552,19 +582,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
           "url": "https://www.cls.cn/detail/2178825",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -582,11 +613,12 @@
           "url": "https://wallstreetcn.com/livenews/2992763",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时18分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -606,7 +638,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -617,7 +649,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -628,7 +660,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -639,7 +671,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -676,11 +708,12 @@
           "url": "https://wallstreetcn.com/livenews/2992760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时18分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -719,8 +752,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -730,8 +763,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -742,8 +775,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时18分]"
         }
       ]
     },
@@ -751,6 +784,18 @@
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数23日上涨",
+          "url": "https://flash.jin10.com/detail/20251024041524259800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时18分]"
+        },
         {
           "title": "周四（10月23日）纽约尾盘，ICE美元指数涨0.04%，报98.937点，日内交投区间为99.138-98.916点。 彭博美元指数涨0.01%，报1212.72点，日内交投区间为1214.59-1212.15点。",
           "url": "https://wallstreetcn.com/livenews/2992738",
@@ -762,17 +807,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "美元指数23日上涨",
-          "url": "https://flash.jin10.com/detail/20251024041524259800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         }
       ]
     },
