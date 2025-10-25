@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T18:18:34.910471+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2025-10-25T19:15:10.334741+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
@@ -41,19 +41,15 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
-          "title": "特朗普玩“军阀剧本”这波绝了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
-          "source": "贴吧",
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -67,8 +63,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时18分 ~ 18时18分]"
+          "appearance_count": 19,
+          "time_info": "[07时18分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普玩“军阀剧本”这波绝了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 19时15分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -81,11 +93,12 @@
             5,
             6,
             10,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时39分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时39分 ~ 19时15分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
@@ -99,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时18分 ~ 18时18分]"
+          "appearance_count": 19,
+          "time_info": "[07时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
@@ -140,19 +153,23 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 15时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 19时15分]"
         },
         {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
+          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
+          "url": "https://flash.jin10.com/detail/20251025145116076800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4,
+            10,
+            16,
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -194,18 +211,18 @@
           "time_info": "[12时22分 ~ 18时18分]"
         },
         {
-          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
-          "url": "https://flash.jin10.com/detail/20251025145116076800",
+          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251025151023791800",
           "source": "金十数据",
           "ranks": [
-            4,
-            10,
+            5,
+            11,
             16,
-            21
+            25
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时17分 ~ 18时18分]"
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
@@ -223,6 +240,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时18分 ~ 12时22分]"
+        },
+        {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 19时15分]"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普：（当被问及对委内瑞拉的袭击）我们拭目以待。",
@@ -265,17 +306,26 @@
           "time_info": "[12时21分 ~ 14时23分]"
         },
         {
-          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251025151023791800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
           "source": "金十数据",
           "ranks": [
-            5,
-            11,
-            16
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普据悉提名迈克尔·塞利格担任CFTC主席",
@@ -324,28 +374,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "为何特朗普把中美会晤放在行程最后",
+          "url": "https://www.toutiao.com/trending/7565044586163211839/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
           "url": "https://flash.jin10.com/detail/20251025171620948800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
@@ -527,6 +577,18 @@
           "time_info": "[15时17分 ~ 16时22分]"
         },
         {
+          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
+          "url": "https://www.toutiao.com/trending/7565063614768352822/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "加拿大安大略省长宣布：将暂停播放针对特朗普关税的广告",
           "url": "https://wallstreetcn.com/livenews/2993576",
           "source": "华尔街见闻-快讯",
@@ -588,17 +650,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
-          "url": "https://www.toutiao.com/trending/7565063614768352822/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "普京特使Kirill Dmitriev：各种力量，主要是英国和欧洲人，正试图破坏普京与特朗普之间的直接对话。",
           "url": "https://flash.jin10.com/detail/20251024234917674800",
           "source": "金十数据",
@@ -608,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "为何特朗普把中美会晤放在行程最后",
-          "url": "https://www.toutiao.com/trending/7565044586163211839/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "北约秘书长吕特：美国总统特朗普对俄罗斯实施的制裁表明了他结束战争的决心。",
@@ -649,7 +689,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -668,8 +708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 18时18分]"
+          "appearance_count": 18,
+          "time_info": "[09时17分 ~ 19时15分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -694,8 +734,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时18分 ~ 18时18分]"
+          "appearance_count": 19,
+          "time_info": "[07时18分 ~ 19时15分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
