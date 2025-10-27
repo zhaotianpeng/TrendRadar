@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:20:28.171943+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-10-27T16:25:01.109883+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -115,6 +115,17 @@
           "time_info": "[01时15分 ~ 07时18分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
           "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
           "url": "https://wallstreetcn.com/livenews/2993772",
           "source": "华尔街见闻-快讯",
@@ -151,17 +162,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时20分]"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -234,6 +234,18 @@
           "time_info": "[14时29分 ~ 15时20分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -294,16 +306,26 @@
           "time_info": "[14时29分 ~ 15时20分]"
         },
         {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
+          "title": "评论员：特朗普没想到莫迪不给面子",
+          "url": "https://www.toutiao.com/trending/7565757039905885723/",
+          "source": "今日头条",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时20分]"
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
@@ -316,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时20分]"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -348,7 +381,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -370,7 +403,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -458,7 +491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -469,7 +502,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -480,7 +513,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -491,7 +524,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -524,7 +557,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -568,7 +601,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -639,6 +672,17 @@
           "time_info": "12时30分"
         },
         {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "加拿大一则广告为何成特朗普心中痛",
           "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%88%99%E5%B9%BF%E5%91%8A%E4%B8%BA%E4%BD%95%E6%88%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%83%E4%B8%AD%E7%97%9B",
           "source": "百度热搜",
@@ -664,7 +708,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -695,11 +739,23 @@
           "source": "今日头条",
           "ranks": [
             29,
-            20
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
+          "title": "金价下跌是机会还是风险",
+          "url": "https://www.toutiao.com/trending/7565790096994078214/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时20分]"
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）上海金早盘价为932.11元/克，较国际金价(931.45元/克)，高0.66元/克",
@@ -727,7 +783,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -739,8 +795,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 16时25分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -767,6 +823,17 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
           "url": "https://flash.jin10.com/detail/20251027082830826800",
           "source": "金十数据",
@@ -776,6 +843,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -794,23 +889,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         }
       ]
     }
