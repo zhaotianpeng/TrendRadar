@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T09:26:17.582014+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2025-10-28T11:08:45.288055+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -31,6 +31,19 @@
           "time_info": "[00时23分 ~ 05时17分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 11时08分]"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -46,19 +59,6 @@
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时26分]"
         },
         {
@@ -95,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -117,7 +117,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -128,7 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -207,6 +207,40 @@
           "time_info": "[06时16分 ~ 07时18分]"
         },
         {
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时08分]"
+        },
+        {
+          "title": "特朗普：愿意延长亚洲行与金正恩会面",
+          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
+        },
+        {
+          "title": "特朗普再提2028参选可能，点名两个潜在接班人",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
+        },
+        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://flash.jin10.com/detail/20251028004039681800",
           "source": "金十数据",
@@ -219,27 +253,39 @@
           "time_info": "[01时29分 ~ 02时26分]"
         },
         {
-          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
-          "source": "澎湃新闻",
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19
+            22,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时26分]"
+          "time_info": "[09时26分 ~ 11时08分]"
         },
         {
-          "title": "特朗普：愿意延长亚洲行与金正恩会面",
-          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
-          "source": "凤凰网",
+          "title": "高市早苗欲送特朗普安倍球杆",
+          "url": "https://www.toutiao.com/trending/7566037915437141513/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "11时08分"
         },
         {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
@@ -248,7 +294,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -264,24 +310,13 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普再提2028参选可能，点名两个潜在接班人",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "日本首相高市早苗：欢迎特朗普访问日本。",
           "url": "https://wallstreetcn.com/livenews/2994630",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -292,9 +327,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普与高市早苗就稀土和关键矿物供应达成一致",
+          "url": "https://flash.jin10.com/detail/20251028102831714800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
@@ -303,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -314,7 +360,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -325,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -341,6 +387,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
+          "url": "https://flash.jin10.com/detail/20251028100012683800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
           "url": "https://wallstreetcn.com/livenews/2994435",
           "source": "华尔街见闻-快讯",
@@ -352,24 +409,13 @@
           "time_info": "00时23分"
         },
         {
-          "title": "高市早苗欲送特朗普安倍球杆",
-          "url": "https://www.toutiao.com/trending/7566037915437141513/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "特朗普出席日本欢迎仪式，与日本新任首相高市早苗会面。",
           "url": "https://flash.jin10.com/detail/20251028083708226800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -380,7 +426,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -413,7 +459,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -424,20 +470,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D23%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D23%26pos%3D24%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
+          "source": "微博",
           "ranks": [
-            22
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "高市早苗会见特朗普 现场奏美国国歌",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普与高市早苗签署美日关键矿产框架协议。",
+          "url": "https://wallstreetcn.com/livenews/2994672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -451,11 +519,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时08分]"
+        },
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时26分]"
+          "time_info": "[09时26分 ~ 11时08分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -467,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -582,11 +651,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
         }
       ]
     },
@@ -693,7 +763,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -702,9 +772,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -726,9 +796,20 @@
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时08分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20251028103346925800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "11时08分"
         }
       ]
     },
