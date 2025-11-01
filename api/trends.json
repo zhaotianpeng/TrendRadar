@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:18:48.811199+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-11-01T09:23:21.612558+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时23分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 03时14分]"
+        },
+        {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
@@ -175,6 +186,20 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
+          "url": "https://wallstreetcn.com/livenews/2997901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 09时23分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
           "url": "https://flash.jin10.com/detail/20251101031047264800",
           "source": "金十数据",
@@ -200,19 +225,6 @@
           "time_info": "[02时27分 ~ 04时22分]"
         },
         {
-          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
-          "url": "https://wallstreetcn.com/livenews/2997901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
           "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
           "url": "https://wallstreetcn.com/livenews/2997856",
           "source": "华尔街见闻-快讯",
@@ -236,6 +248,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
+          "url": "https://wallstreetcn.com/livenews/2997914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时23分]"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时23分]"
+        },
+        {
+          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
+          "url": "https://wallstreetcn.com/livenews/2997913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时23分]"
         },
         {
           "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
@@ -336,7 +384,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -352,17 +400,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
-          "url": "https://wallstreetcn.com/livenews/2997914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20251031235753945800",
           "source": "金十数据",
@@ -374,17 +411,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
-          "url": "https://wallstreetcn.com/livenews/2997913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
           "title": "美国总统特朗普：（被问及核试验）我们将进行一些试验。",
           "url": "https://flash.jin10.com/detail/20251031235611504800",
           "source": "金十数据",
@@ -394,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -429,6 +444,39 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美媒称美将打击委内瑞拉境内目标 特朗普：尚未决定 | 环球市场",
+          "url": "https://www.cls.cn/detail/2188505",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "美参议院否决特朗普关税政策意味啥",
+          "url": "https://www.toutiao.com/trending/7567416043790929444/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "美国总统特朗普：不会与加拿大重新谈判。",
           "url": "https://flash.jin10.com/detail/20251031234852745800",
           "source": "金十数据",
@@ -438,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国参议院否决特朗普关税说明什么",
+          "url": "https://www.toutiao.com/trending/7567526050167524883/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "美、布两油短线下挫0.5美元，特朗普称不打击委内瑞拉。",
@@ -498,7 +557,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -516,11 +575,12 @@
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时23分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -528,11 +588,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 09时23分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
@@ -540,11 +601,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 09时23分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -552,11 +614,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 09时23分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
@@ -564,11 +627,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 09时23分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -577,11 +641,36 @@
           "ranks": [
             4,
             9,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 09时23分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时23分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时23分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -619,26 +708,15 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
           "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "09时23分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -658,6 +736,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 09时23分]"
+        },
+        {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
           "url": "https://wallstreetcn.com/livenews/2997897",
           "source": "华尔街见闻-快讯",
@@ -669,18 +760,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时18分]"
         },
         {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
@@ -777,11 +856,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时23分]"
         }
       ]
     },
