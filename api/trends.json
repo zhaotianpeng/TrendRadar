@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T16:22:09.843881+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-02T17:18:14.869717+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -20,8 +20,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时18分]"
+        },
+        {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时18分]"
         },
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -47,6 +60,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时20分 ~ 13时19分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 17时18分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -85,19 +110,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时22分]"
-        },
-        {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
           "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
           "source": "凤凰网",
@@ -110,16 +122,15 @@
           "time_info": "[12时21分 ~ 15时17分]"
         },
         {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时18分]"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -135,6 +146,17 @@
           "time_info": "[13时18分 ~ 16时22分]"
         },
         {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -145,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -221,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时22分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[02时22分 ~ 17时18分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -237,6 +248,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时18分 ~ 11时15分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时18分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -255,19 +279,6 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时22分]"
-        },
-        {
           "title": "OpenAI重组对AI产业链意味着什么",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%87%8D%E7%BB%84%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -276,8 +287,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时18分]"
         }
       ]
     },
@@ -373,6 +384,46 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
+          "url": "https://wallstreetcn.com/livenews/2998105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
+          "url": "https://flash.jin10.com/detail/20251102162444112800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗总统：德黑兰将“以更强大的力量”重建其核设施。",
+          "url": "https://flash.jin10.com/detail/20251102160948763800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -387,23 +438,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
-          "url": "https://wallstreetcn.com/livenews/2998105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     }
