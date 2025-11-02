@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T18:18:56.450239+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2025-11-02T19:15:31.870173+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时15分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -74,19 +74,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 18时18分]"
-        },
-        {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
           "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
           "source": "凤凰网",
@@ -96,6 +83,31 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时23分 ~ 19时15分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -124,17 +136,6 @@
           "time_info": "[12时21分 ~ 15时17分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普下令“战争部”做好准备",
           "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
           "source": "凤凰网",
@@ -142,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -171,6 +172,17 @@
           "time_info": "[00时20分 ~ 01时14分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
+          "url": "https://flash.jin10.com/detail/20251102185206448800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
           "url": "https://www.toutiao.com/trending/7567991555080850985/",
           "source": "今日头条",
@@ -187,11 +199,12 @@
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -200,9 +213,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "美国考虑制作特朗普纪念币",
@@ -214,6 +227,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
+          "url": "https://wallstreetcn.com/livenews/2998105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时15分]"
+        },
+        {
+          "title": "伊朗政府：我们已收到恢复与华盛顿谈判的消息，我们将在适当时候透露细节。",
+          "url": "https://wallstreetcn.com/livenews/2998129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
+          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
+          "url": "https://flash.jin10.com/detail/20251102162444112800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
+          "title": "伊朗总统：德黑兰将“以更强大的力量”重建其核设施。",
+          "url": "https://flash.jin10.com/detail/20251102160948763800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
+          "title": "伊朗总统称将重建核设施",
+          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
+          "title": "市场消息：伊朗方面称其已收到恢复与华盛顿谈判的消息，将在适当的时候公布细节。",
+          "url": "https://flash.jin10.com/detail/20251102172812562800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
+          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
+          "url": "https://wallstreetcn.com/livenews/2998131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -259,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时15分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -303,82 +417,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时26分 ~ 17时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗政府：我们已收到恢复与华盛顿谈判的消息，我们将在适当时候透露细节。",
-          "url": "https://wallstreetcn.com/livenews/2998129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
-          "url": "https://wallstreetcn.com/livenews/2998105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
-          "url": "https://flash.jin10.com/detail/20251102162444112800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
-        },
-        {
-          "title": "伊朗总统：德黑兰将“以更强大的力量”重建其核设施。",
-          "url": "https://flash.jin10.com/detail/20251102160948763800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
-        },
-        {
-          "title": "伊朗总统称将重建核设施",
-          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "市场消息：伊朗方面称其已收到恢复与华盛顿谈判的消息，将在适当的时候公布细节。",
-          "url": "https://flash.jin10.com/detail/20251102172812562800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         }
       ]
     },
