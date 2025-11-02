@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T01:15:20.522896+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2025-11-03T02:22:01.695393+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -59,19 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
-          "url": "https://wallstreetcn.com/livenews/2998163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -81,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -90,11 +79,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
@@ -104,8 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
@@ -115,8 +105,47 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
+          "url": "https://wallstreetcn.com/livenews/2998163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗总统称将重建核设施",
+          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "伊朗已做好应对以色列再次袭击的准备",
+          "url": "https://www.toutiao.com/trending/7567289908600143926/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "time_info": "[02时21分 ~ 02时22分]"
         }
       ]
     },
@@ -133,8 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -151,25 +180,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗总统称将重建核设施",
-          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }
