@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T14:30:03.776628+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-11-03T15:20:53.627912+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 15时20分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -173,6 +173,17 @@
           "time_info": "[09时22分 ~ 14时30分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
           "url": "https://wallstreetcn.com/livenews/2998242",
           "source": "华尔街见闻-快讯",
@@ -182,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
+          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -210,6 +232,17 @@
           "time_info": "[05时14分 ~ 07时17分]"
         },
         {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -220,6 +253,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时20分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -266,17 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7567532659673727026/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "学者：特朗普抛G2概念是霸权算计",
@@ -481,11 +515,12 @@
             11,
             10,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -555,7 +590,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价",
@@ -568,6 +603,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时16分 ~ 13时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）上海金午盘价为919.45元/克，较国际金价(919.53元/克)，低0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251103150150080800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
