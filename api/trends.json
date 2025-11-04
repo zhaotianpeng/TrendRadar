@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T19:17:40.185655+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2025-11-04T20:40:02.551942+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -63,11 +63,12 @@
             8,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 19时17分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 20时40分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -177,6 +178,17 @@
           "time_info": "[12时20分 ~ 14时28分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时40分]"
+        },
+        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -186,17 +198,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时18分 ~ 19时17分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -392,6 +393,17 @@
           "time_info": "[04时23分 ~ 05时17分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -478,7 +490,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -607,7 +619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -617,8 +629,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时19分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -665,15 +677,26 @@
           "time_info": "14时28分"
         },
         {
-          "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/2999184",
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时40分"
+        },
+        {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -699,6 +722,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
+        },
+        {
+          "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/2999184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时40分]"
         },
         {
           "title": "可选消费ETF收涨超0.9%，和半导体ETF领跑美股行业ETF",
@@ -821,6 +856,28 @@
           "time_info": "[17时22分 ~ 18时21分]"
         },
         {
+          "title": "财报公布后，辉瑞(PFE.N)美股盘前拉升，现涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20251104195020935800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
+          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2999207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊涨4%创收盘历史新高，特斯拉和英伟达涨超2%，Meta则跌超2%",
           "url": "https://wallstreetcn.com/livenews/2998759",
           "source": "华尔街见闻-快讯",
@@ -841,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "法拉利第三季度营收17.7亿欧元，预估17.1亿欧元。 第三季度EBITDA 6.7亿欧元，预估6.45亿欧元。 第三季度息税前利润5.03亿欧元，预估4.71亿欧元。 第三季度交付量3401辆，预估3347辆。 法拉利美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2999193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
@@ -1060,8 +1128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时17分 ~ 19时17分]"
+          "appearance_count": 17,
+          "time_info": "[06时17分 ~ 20时40分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
