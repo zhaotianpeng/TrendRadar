@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T05:18:13.836283+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-11-06T06:20:22.729698+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -37,8 +37,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时20分]"
+        },
+        {
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时20分]"
         },
         {
           "title": "美最高法院关税案辩论进展：特朗普胜诉概率降低",
@@ -52,6 +65,17 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
+          "title": "特朗普再次对尼日利亚发出威胁",
+          "url": "https://flash.jin10.com/detail/20251106061021528800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
           "url": "https://wallstreetcn.com/livenews/3000013",
           "source": "华尔街见闻-快讯",
@@ -63,16 +87,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "纽约新市长为何成特朗普的“噩梦”",
-          "url": "https://www.toutiao.com/trending/7569209850954026547/",
-          "source": "今日头条",
+          "title": "特朗普：已指示国防部对核武器进行测试",
+          "url": "https://flash.jin10.com/detail/20251106060815768800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            30
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -81,7 +104,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -162,6 +185,17 @@
           "time_info": "[02时25分 ~ 04时21分]"
         },
         {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 06时20分]"
+        },
+        {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
           "url": "https://flash.jin10.com/detail/20251106000840561800",
           "source": "金十数据",
@@ -222,17 +256,6 @@
           "time_info": "[01时18分 ~ 02时25分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 05时18分]"
-        },
-        {
           "title": "白宫新闻发言人莱维特：特朗普下午1点（北京时间02:00）的重要演讲将围绕经济展开。",
           "url": "https://flash.jin10.com/detail/20251106002611278800",
           "source": "金十数据",
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时25分]"
+        },
+        {
+          "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
+          "url": "https://flash.jin10.com/detail/20251106054434301800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
@@ -356,6 +390,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "Pinterest（PINS）收跌21%，创该公司美国IPO以来第二最差单日表现，特朗普关税冲击到该公司广告收入。",
+          "url": "https://wallstreetcn.com/livenews/3000107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
           "url": "https://wallstreetcn.com/livenews/3000013",
           "source": "华尔街见闻-快讯",
@@ -365,6 +410,208 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3000098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时20分]"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普上任一年美股跑输全球大盘",
+          "url": "https://www.toutiao.com/trending/7569232858510790187/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 05时18分]"
+        },
+        {
+          "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2192280",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251106014154445800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时17分]"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251106014135995800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时17分]"
+        },
+        {
+          "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
+          "url": "https://flash.jin10.com/detail/20251106013722040800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时17分]"
+        },
+        {
+          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3000125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3000124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Metsera美股盘后涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
+          "url": "https://wallstreetcn.com/livenews/3000120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
+          "url": "https://wallstreetcn.com/livenews/3000117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051410709800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
+          "url": "https://wallstreetcn.com/livenews/3000106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051116318800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 超微电脑跌11%",
+          "url": "https://flash.jin10.com/detail/20251106050116805800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -382,17 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
-          "url": "https://wallstreetcn.com/livenews/3000096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
         },
         {
           "title": "OpenAI尚未为上市做准备",
@@ -419,16 +655,16 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
-          "url": "https://flash.jin10.com/detail/20251106033256495800",
-          "source": "金十数据",
+          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
+          "url": "https://wallstreetcn.com/livenews/3000096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            23
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 05时18分]"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时20分]"
         },
         {
           "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
@@ -437,6 +673,18 @@
           "ranks": [
             16,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 06时20分]"
+        },
+        {
+          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106033256495800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -460,7 +708,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
@@ -560,98 +808,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
-        },
-        {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普上任一年美股跑输全球大盘",
-          "url": "https://www.toutiao.com/trending/7569232858510790187/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时25分 ~ 05时18分]"
-        },
-        {
-          "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2192280",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014154445800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014135995800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
-        },
-        {
-          "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
-          "url": "https://flash.jin10.com/detail/20251106013722040800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -664,8 +820,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -686,7 +842,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -705,7 +861,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
@@ -727,9 +883,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美元指数5日微跌",
+          "url": "https://flash.jin10.com/detail/20251106052645207800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
