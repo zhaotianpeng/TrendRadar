@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T12:21:54.488678+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-11-05T13:19:58.347164+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时19分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -121,6 +121,18 @@
           "time_info": "[03时14分 ~ 04时22分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时19分]"
+        },
+        {
           "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
           "url": "https://wallstreetcn.com/livenews/2999332",
           "source": "华尔街见闻-快讯",
@@ -168,18 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时18分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
         },
         {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
@@ -357,6 +357,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
+          "url": "https://flash.jin10.com/detail/20251105123816370800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
           "url": "https://flash.jin10.com/detail/20251105064332489800",
           "source": "金十数据",
@@ -485,6 +496,18 @@
           "time_info": "[00时22分 ~ 07时18分]"
         },
         {
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时19分]"
+        },
+        {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2191076",
           "source": "财联社热门",
@@ -500,18 +523,6 @@
           "time_info": "[00时22分 ~ 11时12分]"
         },
         {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时21分]"
-        },
-        {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
           "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
@@ -519,8 +530,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时19分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -531,8 +542,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时19分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时19分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -568,18 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时18分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时21分]"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -667,7 +679,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -755,7 +767,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -827,6 +839,17 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时19分]"
+        },
+        {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
           "url": "https://wallstreetcn.com/livenews/2999380",
           "source": "华尔街见闻-快讯",
@@ -837,17 +860,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -1001,8 +1013,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 13时19分]"
         },
         {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
@@ -1033,9 +1045,38 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际原子能机构总干事格罗西：伊朗必须“认真改善”与联合国检查员的合作，以避免与西方的紧张关系加剧。",
+          "url": "https://flash.jin10.com/detail/20251105130320093800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时17分]"
         }
       ]
     },
@@ -1053,24 +1094,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
-          "url": "https://flash.jin10.com/detail/20251105032950258800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
         }
       ]
     }
