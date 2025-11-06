@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:22:05.217318+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2025-11-06T18:21:40.904097+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 18时21分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -32,18 +33,6 @@
           "time_info": "[00时23分 ~ 12时24分]"
         },
         {
-          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
-          "url": "https://wallstreetcn.com/articles/3758695",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时20分]"
-        },
-        {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
           "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
@@ -52,31 +41,16 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 18时21分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时17分 ~ 17时22分]"
-        },
-        {
-          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
-          "url": "https://www.cls.cn/detail/2192187",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -91,8 +65,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 18时21分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[05时17分 ~ 18时21分]"
+        },
+        {
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时20分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -518,6 +519,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
           "url": "https://flash.jin10.com/detail/20251106140101223800",
           "source": "金十数据",
@@ -650,6 +662,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普为何呼吁改革选举制度",
+          "url": "https://www.toutiao.com/trending/7569486558500228659/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -664,7 +687,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -740,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -839,6 +873,17 @@
           "time_info": "[02时25分 ~ 03时17分]"
         },
         {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
           "url": "https://wallstreetcn.com/livenews/3000120",
           "source": "华尔街见闻-快讯",
@@ -919,7 +964,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
@@ -1066,6 +1111,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
           "url": "https://flash.jin10.com/detail/20251106111258842800",
           "source": "金十数据",
@@ -1075,6 +1131,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -1266,17 +1344,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时22分]"
-        },
-        {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -1287,6 +1354,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 06时20分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 18时21分]"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
