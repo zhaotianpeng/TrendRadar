@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-07T20:38:17.167905+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2025-11-07T21:28:18.009238+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 79,
       "titles": [
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 21时28分]"
+        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 20时38分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -228,6 +228,17 @@
           "time_info": "[01时18分 ~ 07时18分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时28分]"
+        },
+        {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
           "url": "https://wallstreetcn.com/livenews/3000699",
           "source": "华尔街见闻-快讯",
@@ -314,6 +325,18 @@
           "time_info": "[11时09分 ~ 13时19分]"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普就美高院激辩关税表态",
           "url": "https://www.toutiao.com/trending/7569800305303359018/",
           "source": "今日头条",
@@ -372,17 +395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时27分 ~ 15时18分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时38分]"
         },
         {
           "title": "特朗普官宣降价后药企高管当场晕倒",
@@ -489,18 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时38分]"
         },
         {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
@@ -1228,8 +1228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时09分 ~ 20时38分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 21时28分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1325,7 +1325,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -1437,8 +1437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 20时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 21时28分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1527,8 +1527,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时24分 ~ 20时38分]"
+          "appearance_count": 18,
+          "time_info": "[06时24分 ~ 21时28分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
