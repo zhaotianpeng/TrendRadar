@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T09:19:41.758579+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-11-07T11:10:20.368408+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 61,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -42,6 +42,17 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
+          "title": "特朗普将于当地时间周五上午11:45会见匈牙利总理欧尔班。",
+          "url": "https://flash.jin10.com/detail/20251107105725161800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
           "url": "https://flash.jin10.com/detail/20251107024330534800",
           "source": "金十数据",
@@ -68,11 +79,12 @@
           "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时10分]"
         },
         {
           "title": "禁止特朗普绕过国会对委动武议案被否",
@@ -174,6 +186,17 @@
           "time_info": "[02时28分 ~ 04时29分]"
         },
         {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
           "url": "https://wallstreetcn.com/livenews/3000650",
           "source": "华尔街见闻-快讯",
@@ -196,6 +219,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "凯投宏观：如果特朗普关税政策被否决，财政问题将是投资者的首要担忧",
+          "url": "https://flash.jin10.com/detail/20251107103540030800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普：不担心航空旅行安全。",
@@ -246,6 +291,17 @@
           "time_info": "[04时29分 ~ 05时19分]"
         },
         {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
           "url": "https://flash.jin10.com/detail/20251107030006844800",
           "source": "金十数据",
@@ -282,6 +338,17 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
+          "url": "https://flash.jin10.com/detail/20251107102731934800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
           "url": "https://wallstreetcn.com/livenews/3000680",
           "source": "华尔街见闻-快讯",
@@ -304,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
+          "url": "https://flash.jin10.com/detail/20251107102715387800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
         },
         {
           "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
@@ -342,6 +420,17 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "男子在特朗普身边晕倒 发布会中断",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
           "url": "https://flash.jin10.com/detail/20251107013319980800",
           "source": "金十数据",
@@ -366,13 +455,35 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "美脱口秀节目就政府停摆整活特朗普",
+          "url": "https://www.toutiao.com/trending/7568727581982474303/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "特朗普：佩洛西退休对美国是大好事",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -383,7 +494,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -416,7 +527,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -427,7 +538,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -449,7 +560,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -471,9 +582,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
+          "url": "https://wallstreetcn.com/livenews/3000890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
@@ -482,7 +604,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -493,9 +615,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普回应佩洛西退休：对美国是件大好事",
+          "url": "https://wallstreetcn.com/livenews/3000884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
@@ -537,7 +670,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -548,7 +681,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -559,7 +692,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -578,7 +711,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -604,8 +737,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 11时10分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -620,6 +753,29 @@
           "time_info": "[06时24分 ~ 07时18分]"
         },
         {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时10分]"
+        },
+        {
+          "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251107103507218800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
           "url": "https://flash.jin10.com/detail/20251107055709083800",
           "source": "金十数据",
@@ -629,17 +785,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
@@ -766,7 +911,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -781,8 +926,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时10分]"
         },
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -793,8 +938,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时19分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 11时10分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -820,6 +965,29 @@
           "time_info": "[04时29分 ~ 05时19分]"
         },
         {
+          "title": "OpenAI高管言论引风暴 纳指跌近2%",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时10分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
           "url": "https://flash.jin10.com/detail/20251107032640209800",
           "source": "金十数据",
@@ -830,6 +998,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
@@ -854,17 +1033,98 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时10分]"
         },
         {
-          "title": "OpenAI高管言论引风暴 纳指跌近2%",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            17
+            26,
+            7,
+            6,
+            8,
+            21
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 11时10分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            28,
+            25,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
+          "url": "https://flash.jin10.com/detail/20251107105336180800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）上海金早盘价为916.35元/克，较国际金价(915.25元/克)，高1.1元/克",
+          "url": "https://flash.jin10.com/detail/20251107102416175800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "金价“冲高回落”，投资者关注美联储利率前景",
+          "url": "https://wallstreetcn.com/livenews/3000762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "06时24分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     },
@@ -904,9 +1164,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时10分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -957,78 +1217,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时19分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            7,
-            6,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时19分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            28,
-            25,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "金价“冲高回落”，投资者关注美联储利率前景",
-          "url": "https://wallstreetcn.com/livenews/3000762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -1039,8 +1229,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 11时10分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -1066,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
         }
       ]
     },
