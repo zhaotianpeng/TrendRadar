@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:20:35.579406+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2025-11-07T18:20:45.074011+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -38,11 +38,12 @@
             15,
             20,
             9,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时09分 ~ 18时20分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时09分 ~ 16时25分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -81,17 +94,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时09分 ~ 16时25分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -164,6 +166,18 @@
           "time_info": "07时18分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D4%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26dgr%3D0%26pos%3D4%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26realpos%3D4%26display_time%3D1762503864%26pre_seqid%3D176250386412101608034105&launchid=10000360-page_H5",
           "source": "微博",
@@ -199,18 +213,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 07时18分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
@@ -427,6 +429,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普：新的空中交通管制系统正在竞标中，未来六周将发布相关合同。",
@@ -749,17 +763,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "为何说特朗普处于重返白宫后最大困境",
-          "url": "https://www.toutiao.com/trending/7568788294771720243/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
           "url": "https://wallstreetcn.com/livenews/3001047",
           "source": "华尔街见闻-快讯",
@@ -780,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
@@ -843,7 +857,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -884,7 +898,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -927,6 +941,17 @@
           "time_info": "[09时19分 ~ 17时20分]"
         },
         {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/3000778",
           "source": "华尔街见闻-快讯",
@@ -967,7 +992,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -978,7 +1003,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1000,7 +1025,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1163,11 +1188,12 @@
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时09分 ~ 18时20分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1364,8 +1390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时19分 ~ 18时20分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1450,11 +1476,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时24分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[06时24分 ~ 18时20分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
