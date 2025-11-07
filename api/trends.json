@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:15:57.631540+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2025-11-07T20:38:17.167905+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 20时38分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -175,7 +175,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -374,6 +374,17 @@
           "time_info": "[14时27分 ~ 15时18分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普官宣降价后药企高管当场晕倒",
           "url": "https://www.toutiao.com/trending/7569788096678608905/",
           "source": "今日头条",
@@ -478,6 +489,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时38分]"
         },
         {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
@@ -633,17 +656,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "美国总统特朗普：美国需要保持高度流动性。",
           "url": "https://flash.jin10.com/detail/20251107090111234800",
           "source": "金十数据",
@@ -785,17 +797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
@@ -1189,7 +1190,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -1227,8 +1228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 20时38分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1316,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时19分]"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -1425,8 +1437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时19分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时19分 ~ 20时38分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1515,8 +1527,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时24分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[06时24分 ~ 20时38分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
