@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:23:42.686847+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-11-08T17:17:43.823090+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -77,11 +77,12 @@
             16,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 17时17分]"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -114,17 +115,6 @@
           "time_info": "[11时40分 ~ 15时16分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
           "url": "https://flash.jin10.com/detail/20251108084855810800",
           "source": "金十数据",
@@ -150,6 +140,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时01分 ~ 13时18分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -266,6 +267,18 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时17分]"
+        },
+        {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
           "url": "https://flash.jin10.com/detail/20251108020350624800",
           "source": "金十数据",
@@ -317,6 +330,17 @@
           "time_info": "[02时27分 ~ 04时20分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 17时17分]"
+        },
+        {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
           "url": "https://wallstreetcn.com/livenews/3001347",
           "source": "华尔街见闻-快讯",
@@ -352,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时23分]"
         },
         {
           "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
@@ -661,8 +674,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 16时23分]"
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 17时17分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -687,8 +700,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 16时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 17时17分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -908,48 +921,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时19分]"
-        },
-        {
-          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3001303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
-        },
-        {
-          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
-          "url": "https://wallstreetcn.com/articles/3758965",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -974,6 +947,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时16分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 06时19分]"
+        },
+        {
+          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3758965",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时17分]"
+        },
+        {
+          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3001303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         }
       ]
     },
