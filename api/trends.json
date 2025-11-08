@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T07:16:53.928407+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-11-08T09:16:06.689181+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 09时16分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -46,22 +46,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 09时16分]"
         },
         {
-          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
-          "url": "https://wallstreetcn.com/livenews/3001426",
-          "source": "华尔街见闻-快讯",
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
+          "url": "https://flash.jin10.com/detail/20251108084855810800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -76,6 +99,19 @@
           "time_info": "[01时18分 ~ 07时16分]"
         },
         {
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时16分]"
+        },
+        {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
           "url": "https://flash.jin10.com/detail/20251108021224420800",
           "source": "金十数据",
@@ -86,18 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
-        },
-        {
-          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
-          "url": "https://wallstreetcn.com/livenews/3001419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时16分]"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -172,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3001426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时16分]"
         },
         {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
@@ -284,6 +320,28 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普开启矿产外交为何中国不紧反松",
+          "url": "https://www.toutiao.com/trending/7570123970922434075/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
           "url": "https://flash.jin10.com/detail/20251108004617809800",
           "source": "金十数据",
@@ -383,6 +441,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
+          "url": "https://wallstreetcn.com/livenews/3001433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
           "url": "https://flash.jin10.com/detail/20251108014233004800",
           "source": "金十数据",
@@ -403,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普：希望在布达佩斯与普京会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
@@ -433,7 +513,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -441,7 +521,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -465,8 +545,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 09时16分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -475,7 +555,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -491,15 +571,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时16分]"
+        },
+        {
           "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
           "url": "https://wallstreetcn.com/livenews/3001428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时16分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -514,6 +607,39 @@
           "time_info": "[01时18分 ~ 02时27分]"
         },
         {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080807908800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080805463800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "美股周线结束三连涨，纳指本周累跌3%",
+          "url": "https://flash.jin10.com/detail/20251108080758770800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -525,15 +651,15 @@
           "time_info": "00时19分"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
+          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
+          "url": "https://wallstreetcn.com/livenews/3001443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "09时16分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -666,11 +792,12 @@
           "url": "https://wallstreetcn.com/livenews/3001422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时16分]"
         }
       ]
     },
