@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T14:25:46.461334+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-11-08T15:16:42.499611+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时16分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -68,6 +68,21 @@
           "time_info": "[00时19分 ~ 12时22分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时16分]"
+        },
+        {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
           "url": "https://flash.jin10.com/detail/20251108090128912800",
           "source": "金十数据",
@@ -83,18 +98,19 @@
           "time_info": "[09时15分 ~ 13时18分]"
         },
         {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18,
-            16,
-            15
+            5,
+            11,
+            13,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
@@ -137,20 +153,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 14时25分]"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时25分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -422,6 +424,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "美国总统特朗普：我完全支持人工智能。",
           "url": "https://flash.jin10.com/detail/20251108022405006800",
           "source": "金十数据",
@@ -464,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
@@ -615,6 +639,20 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时16分]"
+        },
+        {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -627,30 +665,18 @@
           "time_info": "[01时18分 ~ 06时19分]"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时25分]"
-        },
-        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
           "ranks": [
             12,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -841,9 +867,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时16分]"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
@@ -940,11 +966,12 @@
             2,
             8,
             10,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时16分]"
         }
       ]
     },
