@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T13:17:46.569205+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-11-09T14:24:52.028366+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -100,11 +100,36 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%8B%86%E5%8C%97%E7%BA%A6%E8%BD%B0%E7%82%B8%E9%81%97%E5%9D%80%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%85%92%E5%BA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25A1%259E%25E5%25B0%2594%25E7%25BB%25B4%25E4%25BA%259A%25E6%258B%2586%25E5%258C%2597%25E7%25BA%25A6%25E8%25BD%25B0%25E7%2582%25B8%25E9%2581%2597%25E5%259D%2580%25E5%25BB%25BA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2585%2592%25E5%25BA%2597%2523%26band_rank%3D4%26stream_entry_id%3D31%26pos%3D4%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1762665445%26pre_seqid%3D17626654456920246917178&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时24分]"
+        },
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://flash.jin10.com/detail/20251109135556039800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "14时24分"
+        },
+        {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时24分]"
         },
         {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
@@ -119,16 +144,16 @@
           "time_info": "[07时15分 ~ 09时23分]"
         },
         {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
+          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
+          "url": "https://flash.jin10.com/detail/20251109125212911800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时17分]"
+          "time_info": "[13时17分 ~ 14时24分]"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -142,15 +167,15 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
-          "url": "https://flash.jin10.com/detail/20251109125212911800",
-          "source": "金十数据",
+          "title": "若特朗普关税政策被推翻市场如何反应",
+          "url": "https://www.toutiao.com/trending/7570562355289919026/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "14时24分"
         },
         {
           "title": "特朗普开始调整“话术”以争取选民",
@@ -208,11 +233,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时24分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -221,11 +247,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时24分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -234,11 +261,12 @@
           "ranks": [
             3,
             7,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时24分]"
         },
         {
           "title": "伊朗总统：美国想让伊朗一直跪着",
@@ -246,11 +274,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时24分]"
         }
       ]
     },
@@ -308,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         }
       ]
     }
