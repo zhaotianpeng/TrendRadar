@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:17:04.030691+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-11-10T20:37:40.143923+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -60,6 +60,20 @@
           "time_info": "[00时19分 ~ 09时23分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 20时37分]"
+        },
+        {
           "title": "“特朗普外交政策，万变不离中国”",
           "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
           "source": "凤凰网",
@@ -83,20 +97,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
@@ -379,6 +379,18 @@
           "time_info": "[04时19分 ~ 06时16分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时37分]"
+        },
+        {
           "title": "专家：特朗普发钱一箭三雕",
           "url": "https://www.toutiao.com/trending/7570931158150565427/",
           "source": "今日头条",
@@ -389,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "特朗普：美政府“停摆”接近结束",
@@ -548,6 +549,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251110191854398800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
           "url": "https://wallstreetcn.com/livenews/3001790",
           "source": "华尔街见闻-快讯",
@@ -562,7 +574,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -587,11 +599,12 @@
             10,
             4,
             5,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时18分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 20时37分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -662,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -692,8 +716,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时37分]"
         },
         {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
@@ -748,6 +772,17 @@
           "time_info": "[04时19分 ~ 06时16分]"
         },
         {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时37分]"
+        },
+        {
           "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
           "url": "https://flash.jin10.com/detail/20251110185017704800",
           "source": "金十数据",
@@ -757,17 +792,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时17分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "伊朗货币改革将启动：删除4个0",
-          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
-          "source": "凤凰网",
+          "title": "超级AI临界点逼近：OpenAI发出警告",
+          "url": "https://www.toutiao.com/trending/7571055203147845126/",
+          "source": "今日头条",
           "ranks": [
-            7
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时37分"
+        },
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         }
       ]
     },
@@ -807,34 +870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
         }
       ]
     },
