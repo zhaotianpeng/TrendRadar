@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:20:53.417856+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-11-11T19:16:55.065224+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 18时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 19时16分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -79,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -225,17 +225,6 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
           "title": "换了件“马甲”，他见上特朗普了(图)",
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
@@ -243,8 +232,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -254,8 +243,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 07时19分]"
         },
         {
           "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
@@ -436,6 +436,17 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571253212158689290/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特朗普：如果不采取措施应对芝加哥的谋杀和犯罪问题 美国最好的购物中心将被迫关门",
           "url": "https://flash.jin10.com/detail/20251111135746280800",
           "source": "金十数据",
@@ -508,7 +519,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -590,6 +601,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "牛弹琴：特朗普又给美国最高法院施压",
+          "url": "https://www.toutiao.com/trending/7570354589443538971/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "市场消息：叙利亚领导人艾哈迈德·沙拉抵达白宫，准备与美国总统特朗普举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20251110235819595800",
           "source": "金十数据",
@@ -621,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
+          "url": "https://flash.jin10.com/detail/20251111183736123800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：向美国低收入和中等收入公民发放的2000美元款项（“关税红利”）若有结余，将全部用于大幅削减国家债务。",
@@ -670,7 +703,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -885,7 +918,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -896,7 +929,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -910,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "美股因停摆有望结束而上涨 历史数据显示有望迎来假日反弹",
+          "url": "https://flash.jin10.com/detail/20251111184320408800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股盘中）",
@@ -948,7 +992,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -991,9 +1035,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -1043,7 +1098,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
@@ -1092,8 +1147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -1118,6 +1173,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
+        },
+        {
+          "title": "德商银行：预计未来一年白银价格将为50美元/盎司，铂金价格将达到1,700美元/盎司，钯金价格将达到1,400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185400884800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "德商银行：预计未来一年黄金价格将达到4,200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185300227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "国际金价直线拉升",
@@ -1177,7 +1254,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
