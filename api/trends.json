@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T06:18:45.500242+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-11-13T07:18:28.959971+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 07时18分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -163,6 +164,18 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
+          "title": "特朗普“最恨的女人”要退休了",
+          "url": "https://www.toutiao.com/trending/7571102416779952154/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
           "url": "https://flash.jin10.com/detail/20251113023641093800",
           "source": "金十数据",
@@ -229,6 +242,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
+          "url": "https://flash.jin10.com/detail/20251113062840962800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
           "url": "https://flash.jin10.com/detail/20251112235256981800",
           "source": "金十数据",
@@ -262,17 +286,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "特朗普“最恨的女人”要退休了",
-          "url": "https://www.toutiao.com/trending/7571102416779952154/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
           "url": "https://flash.jin10.com/detail/20251113014622086800",
           "source": "金十数据",
@@ -287,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -301,6 +314,17 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251113050525386800",
           "source": "金十数据",
@@ -310,6 +334,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 05时18分]"
+        },
+        {
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "美股收盘：道指创新高 AMD涨9%",
@@ -323,24 +359,13 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
-          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3003643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
           "url": "https://wallstreetcn.com/livenews/3003637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -351,7 +376,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -377,22 +402,24 @@
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -420,8 +447,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -429,11 +456,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "中长期美债收益率跌约4个基点",
@@ -520,11 +548,12 @@
           "url": "https://wallstreetcn.com/livenews/3003639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -533,7 +562,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -551,8 +580,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -566,6 +595,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     }
