@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T20:38:13.832176+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-11-12T21:32:56.988781+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
@@ -157,11 +157,12 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 20时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 21时32分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
@@ -331,6 +332,18 @@
           "time_info": "[02时26分 ~ 03时15分]"
         },
         {
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时32分]"
+        },
+        {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
           "url": "https://wallstreetcn.com/livenews/3002989",
           "source": "华尔街见闻-快讯",
@@ -433,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
-          "url": "https://wallstreetcn.com/livenews/3003428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "特朗普发2000美元关税红包但预算说不",
@@ -551,7 +553,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -796,7 +798,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -810,6 +812,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时16分 ~ 15时19分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
@@ -860,6 +873,18 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时32分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
           "source": "华尔街见闻-快讯",
@@ -882,17 +907,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
-          "url": "https://wallstreetcn.com/livenews/3003429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -1149,6 +1163,57 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 21时32分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1201,48 +1266,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 20时38分]"
-        },
-        {
-          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
-          "url": "https://flash.jin10.com/detail/20251112162921044800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
@@ -1254,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗称：摧毁一个由美以领导的间谍网络",
