@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T09:21:46.239077+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-11-12T11:12:03.794087+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -83,11 +83,12 @@
           "ranks": [
             15,
             14,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时12分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -132,6 +133,29 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D4%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26c_type%3D31%26pos%3D4%26dgr%3D0%26cate%3D5001%26realpos%3D4%26display_time%3D1762917071%26pre_seqid%3D1762917071334025073123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
+        },
+        {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
           "url": "https://flash.jin10.com/detail/20251112043921399800",
           "source": "金十数据",
@@ -142,17 +166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 06时19分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
@@ -325,6 +338,17 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112101904646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
+        },
+        {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
           "url": "https://flash.jin10.com/detail/20251112045606789800",
           "source": "金十数据",
@@ -342,7 +366,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -364,9 +388,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3003110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "美国总统特朗普：我们将降低一些咖啡关税。",
@@ -375,7 +410,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -386,7 +421,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -408,7 +443,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -441,7 +476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -452,7 +487,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -463,7 +498,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -496,7 +531,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -512,11 +547,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时12分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -623,11 +659,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时12分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -660,7 +697,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -675,6 +712,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时15分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时12分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -699,17 +748,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         }
       ]
     },
@@ -832,7 +870,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -857,6 +895,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26pos%3D22%26dgr%3D0%26cate%3D5001%26realpos%3D21%26display_time%3D1762917071%26pre_seqid%3D1762917071334025073123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
         }
       ]
     },
@@ -899,9 +948,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时12分]"
         }
       ]
     }
