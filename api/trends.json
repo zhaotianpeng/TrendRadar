@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:17:19.916833+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-11-12T20:38:13.832176+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -151,6 +151,19 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 20时38分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
           "url": "https://flash.jin10.com/detail/20251112175252982800",
           "source": "金十数据",
@@ -195,18 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -390,6 +391,17 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://flash.jin10.com/detail/20251112200610797800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
           "url": "https://flash.jin10.com/detail/20251112101904646800",
           "source": "金十数据",
@@ -421,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "特朗普发2000美元关税红包但预算说不",
@@ -495,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -520,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://wallstreetcn.com/livenews/3003417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -762,7 +796,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -850,6 +884,17 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251112013235058800",
           "source": "金十数据",
@@ -893,11 +938,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26flag%3D1%26pos%3D4%26band_rank%3D4%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26dgr%3D0%26display_time%3D1762946113%26pre_seqid%3D176294611326401146898118&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时38分]"
         },
         {
           "title": "金价",
@@ -1052,6 +1098,19 @@
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 20时38分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.toutiao.com/trending/7571465266493702187/",
           "source": "今日头条",
           "ranks": [
@@ -1074,19 +1133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时28分 ~ 16时25分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1167,8 +1213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时21分 ~ 19时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时21分 ~ 20时38分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
