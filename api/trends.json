@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T07:18:28.959971+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2025-11-13T09:21:18.648863+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -16,11 +16,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 09时21分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -60,6 +61,17 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -81,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普拟定数小时后正式结束政府停摆",
+          "url": "https://flash.jin10.com/detail/20251113083457271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
         },
         {
           "title": "特朗普政府发布声明，称支持用于结束美国政府关门的立法草案，总统特朗普将（在参众两院都批准的草案上）签字——让该草案生效为法律。",
@@ -198,6 +221,17 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
+          "title": "美国交通部：特朗普政府周四将航班削减幅度冻结在6%，而非此前计划的上调至8%。",
+          "url": "https://flash.jin10.com/detail/20251113082755128800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3003570",
           "source": "华尔街见闻-快讯",
@@ -248,9 +282,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
+          "url": "https://wallstreetcn.com/livenews/3003722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
@@ -300,8 +345,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时21分]"
+        },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251113050551816800",
@@ -314,15 +371,15 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "09时21分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
@@ -384,7 +441,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -396,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 05时18分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -577,11 +645,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时21分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -609,7 +678,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -620,7 +689,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
