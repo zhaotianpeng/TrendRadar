@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T13:19:37.508114+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-11-13T14:28:24.041153+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时18分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时18分 ~ 14时28分]"
         },
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -31,8 +31,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 14时28分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -47,17 +58,6 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "特朗普罕见为中国留学生辩护",
           "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
           "source": "凤凰网",
@@ -68,17 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3003872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -99,11 +88,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 14时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：一旦政府重新开门，特朗普愿意就医疗保健问题展开对话。",
@@ -116,6 +118,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普送叙政权领导人自产香水",
+          "url": "https://www.toutiao.com/trending/7572030694445272627/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -269,17 +283,6 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
-          "title": "特朗普送叙政权领导人自产香水",
-          "url": "https://www.toutiao.com/trending/7572030694445272627/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时19分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
           "url": "https://flash.jin10.com/detail/20251113023641093800",
           "source": "金十数据",
@@ -319,9 +322,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -590,6 +604,105 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 05时18分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 13时19分]"
+        },
+        {
+          "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://flash.jin10.com/detail/20251113060235382800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://wallstreetcn.com/livenews/3003648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
+          "url": "https://flash.jin10.com/detail/20251113031402005800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 04时21分]"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时19分]"
+        },
+        {
+          "title": "孙正义为何抛弃英伟达转投OpenAI",
+          "url": "https://www.toutiao.com/trending/7571994755731574314/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
@@ -602,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -682,94 +795,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
-          "url": "https://flash.jin10.com/detail/20251113050804559800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 05时18分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时19分]"
-        },
-        {
-          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
-          "url": "https://flash.jin10.com/detail/20251113060235382800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
-          "url": "https://wallstreetcn.com/livenews/3003648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
-          "url": "https://flash.jin10.com/detail/20251113031402005800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
-        },
-        {
-          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
-          "url": "https://www.zhihu.com/question/1972154575545955995",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时19分]"
-        },
-        {
-          "title": "孙正义为何抛弃英伟达转投OpenAI",
-          "url": "https://www.toutiao.com/trending/7571994755731574314/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
         }
       ]
     },
@@ -989,11 +1014,12 @@
           "url": "https://flash.jin10.com/detail/20251113131413542800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时28分]"
         }
       ]
     }
