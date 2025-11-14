@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T14:28:11.836086+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-11-14T15:18:51.947321+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -39,8 +39,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
+          "url": "https://flash.jin10.com/detail/20251114151513055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -775,6 +786,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
+          "url": "https://flash.jin10.com/detail/20251114150805305800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
