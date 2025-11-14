@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T19:16:14.822142+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-11-14T20:37:23.238570+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 41,
       "titles": [
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时37分]"
+        },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
@@ -15,20 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 19时16分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 20时37分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -476,7 +477,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -599,6 +600,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
+          "url": "https://wallstreetcn.com/articles/3759375",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "应用材料美股盘后跌超4.5%。",
           "url": "https://wallstreetcn.com/livenews/3004422",
           "source": "华尔街见闻-快讯",
@@ -608,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美股抛售加剧 企业盈利乐观与AI泡沫担忧形成对冲",
+          "url": "https://flash.jin10.com/detail/20251114200402077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
@@ -654,6 +677,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "台积电美股盘前跌超2%，现报276.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3004834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美股创一个月最大单日跌幅，美国政府关门事件结束，经济数据推迟发布，投资者重估美联储12月降息前景",
           "url": "https://wallstreetcn.com/livenews/3004378",
           "source": "华尔街见闻-快讯",
@@ -690,7 +724,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -752,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "OpenAI：与爱尔兰企业、旅游和就业部将于2026年推出一项“中小企业助推计划”。",
+          "url": "https://flash.jin10.com/detail/20251114200449772800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -870,6 +915,45 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20251114165105993800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
+          "url": "https://wallstreetcn.com/livenews/3004760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "报道：伊朗武装部队在阿曼湾扣押一艘油轮",
+          "url": "https://flash.jin10.com/detail/20251114193627539800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -894,34 +978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
-          "url": "https://flash.jin10.com/detail/20251114165105993800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
-          "url": "https://wallstreetcn.com/livenews/3004760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         }
       ]
     },
