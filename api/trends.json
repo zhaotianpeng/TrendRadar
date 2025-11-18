@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T15:18:33.656346+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2025-11-18T16:25:19.590208+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -580,7 +580,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -591,8 +591,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 16时25分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -603,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时25分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -615,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 16时25分]"
         },
         {
           "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
@@ -757,6 +757,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
@@ -949,8 +960,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 16时25分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1065,8 +1076,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时25分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
