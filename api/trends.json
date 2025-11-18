@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T03:16:00.154745+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-11-19T04:22:05.174523+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 04时22分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时22分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -68,6 +69,32 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时22分]"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时22分]"
+        },
+        {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
           "url": "https://wallstreetcn.com/livenews/3006650",
           "source": "华尔街见闻-快讯",
@@ -78,30 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普：我想我已经知道我的美联储主席人选了",
-          "url": "https://wallstreetcn.com/livenews/3006686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
-        },
-        {
-          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
-          "url": "https://wallstreetcn.com/livenews/3006685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -126,6 +129,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3006680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时22分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -211,16 +227,37 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
-          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3006680",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普支持率跌至低点 生活成本与爱泼斯坦案引发不满",
+          "url": "https://flash.jin10.com/detail/20251119035446963800",
+          "source": "金十数据",
           "ranks": [
-            8,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "据路透社/益普索民调：26%的美国人认可特朗普处理生活成本问题的方式。",
+          "url": "https://flash.jin10.com/detail/20251119035025343800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "据路透社/益普索民调：特朗普的支持率跌至38%，是自重返白宫以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251119035012121800",
+          "source": "金十数据",
+          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
+          "time_info": "[04时21分 ~ 04时22分]"
         },
         {
           "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
@@ -246,6 +283,28 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
+          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
+          "url": "https://flash.jin10.com/detail/20251119031700998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普推进教育部解散计划 将多个办公室转移至其他机构",
+          "url": "https://flash.jin10.com/detail/20251119025758341800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
           "url": "https://flash.jin10.com/detail/20251119020538614800",
           "source": "金十数据",
@@ -255,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "特朗普称他“与家族业务没有任何关系”",
+          "url": "https://wallstreetcn.com/livenews/3006707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美国总统特朗普：我们有一些出人意料和一些意料之中的美联储主席人选。",
@@ -268,6 +338,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "特朗普政府：正采取行动来瓦解美国教育部。",
+          "url": "https://wallstreetcn.com/livenews/3006702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
           "title": "美国总统特朗普：我希望鲍威尔现在就下台，我想我已经知道新任美联储主席的人选了。",
           "url": "https://flash.jin10.com/detail/20251119020232871800",
           "source": "金十数据",
@@ -279,6 +360,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
+          "url": "https://wallstreetcn.com/livenews/3006706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
           "title": "美国总统特朗普出席与沙特阿拉伯王储的抵达欢迎仪式。",
           "url": "https://flash.jin10.com/detail/20251119002145049800",
           "source": "金十数据",
@@ -288,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
+          "url": "https://wallstreetcn.com/livenews/3006687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -337,8 +440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 04时22分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -349,8 +452,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -404,7 +507,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -414,8 +517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -425,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -436,8 +539,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -461,6 +564,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "E3草案显示，美国的决议称，国际原子能机构理事会“呼吁伊朗严格依照”国际原子能机构附加议定书行事，“并立即全面执行这一措施”。",
+          "url": "https://flash.jin10.com/detail/20251119040601094800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "E3草案显示，美国的决议指出，伊朗必须“毫不拖延地向国际原子能机构提供关于伊朗核材料衡算及受保障核设施的准确信息，并允许该机构充分进入相关场所，以核实这些信息”。",
+          "url": "https://flash.jin10.com/detail/20251119040528086800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "E3草案显示，美国的决议文本指出，国际原子能机构理事会敦促伊朗“向国际原子能机构提供充分且迅速的合作，包括提供该机构所要求的各类信息和准入”。",
+          "url": "https://flash.jin10.com/detail/20251119040337200800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "沙特王储：将尽最大努力推动伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20251119014943997800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
@@ -476,8 +640,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -502,23 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沙特王储：将尽最大努力推动伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20251119014943997800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
         }
       ]
     }
