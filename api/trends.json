@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:19:03.966853+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-11-19T23:20:18.644260+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时10分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[11时10分 ~ 23时20分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -59,8 +59,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时22分 ~ 23时20分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[17时20分 ~ 23时20分]"
         },
         {
           "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
@@ -100,6 +100,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时19分 ~ 17时21分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时20分]"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -180,17 +192,6 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时19分]"
-        },
-        {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
           "url": "https://wallstreetcn.com/livenews/3006688",
           "source": "华尔街见闻-快讯",
@@ -236,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -787,6 +799,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "特朗普缺席，美国警告南非不要在峰会上发表G20声明",
+          "url": "https://wallstreetcn.com/livenews/3007268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普呼吁就AI监管制定“统一的联邦标准”",
           "url": "https://wallstreetcn.com/livenews/3006752",
           "source": "华尔街见闻-快讯",
@@ -807,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普出席与沙特阿拉伯王储的抵达欢迎仪式。",
@@ -889,7 +923,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -1015,6 +1049,18 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "美股科技股遭抛售 英伟达跌近3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
           "source": "百度热搜",
@@ -1131,15 +1177,26 @@
           "time_info": "[04时21分 ~ 04时22分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3007260",
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1151,6 +1208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251119225522376800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国债市冲高回落，美股抛售一度带来避险需求",
@@ -1167,7 +1235,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1176,11 +1244,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时19分 ~ 22时19分]"
+          "appearance_count": 21,
+          "time_info": "[09时19分 ~ 23时20分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1194,8 +1263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时10分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[11时10分 ~ 23时20分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1273,8 +1342,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时18分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[15时18分 ~ 23时20分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1294,11 +1363,12 @@
           "url": "https://www.zhihu.com/question/1974273046480184125",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时20分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1405,6 +1475,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 06时19分]"
+        },
+        {
+          "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3007282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -1494,8 +1586,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时19分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时19分 ~ 23时20分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
