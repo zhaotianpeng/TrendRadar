@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T04:18:43.320569+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-11-20T05:15:06.592755+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -16,8 +16,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时15分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -31,17 +56,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
-        },
-        {
           "title": "克里姆林宫：如有需要，我们可立即安排俄罗斯总统普京与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251120023716214800",
           "source": "金十数据",
@@ -53,17 +67,17 @@
           "time_info": "03时15分"
         },
         {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
           "ranks": [
-            27,
-            28,
-            29
+            26,
+            24,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "time_info": "[02时27分 ~ 05时15分]"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -71,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -102,19 +117,6 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时18分]"
-        },
-        {
           "title": "美国总统特朗普：马斯克，我支持你。",
           "url": "https://wallstreetcn.com/livenews/3007365",
           "source": "华尔街见闻-快讯",
@@ -125,6 +127,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "马斯克发帖感谢特朗普",
+          "url": "https://flash.jin10.com/detail/20251120043942503800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
+        },
+        {
+          "title": "利率不降就炒贝森特鱿鱼，特朗普对财长的玩笑影射鲍威尔",
+          "url": "https://wallstreetcn.com/livenews/3007384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普：股市上扬正在提振美国经济。",
@@ -247,6 +272,17 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "市场消息：美国法官阻止了特朗普政府取消6100名叙利亚移民的临时合法居留身份的决定。",
+          "url": "https://flash.jin10.com/detail/20251120041450218800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
+        },
+        {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
           "url": "https://flash.jin10.com/detail/20251120021550939800",
           "source": "金十数据",
@@ -264,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -275,7 +311,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -291,24 +327,13 @@
           "time_info": "02时27分"
         },
         {
-          "title": "利率不降就炒贝森特鱿鱼，特朗普对财长的玩笑影射鲍威尔",
-          "url": "https://wallstreetcn.com/livenews/3007384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
           "title": "美国总统特朗普：我们将与沙特阿拉伯、阿联酋、埃及及其他中东伙伴合作，以结束苏丹的暴行。",
           "url": "https://flash.jin10.com/detail/20251120031735083800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -437,7 +462,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -447,8 +472,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -458,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -471,8 +496,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时15分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -486,20 +526,6 @@
           "time_info": "[01时17分 ~ 01时18分]"
         },
         {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时18分]"
-        },
-        {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
@@ -508,14 +534,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 05时15分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 谷歌创新高",
+          "url": "https://flash.jin10.com/detail/20251120050112244800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -526,8 +563,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
+        },
+        {
+          "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
+          "url": "https://wallstreetcn.com/livenews/3007408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
@@ -593,8 +641,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时15分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -633,48 +681,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",
-          "url": "https://wallstreetcn.com/livenews/3007311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3007390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险。",
-          "url": "https://flash.jin10.com/detail/20251119234834627800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -687,6 +695,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，ICE美元指数涨0.67%，报100.243点，日内交投区间为99.494-100.243点，北京时间22:00之前大致持稳于99.600点附近，之后持续、平滑地加速上扬。 彭博美元指数涨0.49%，报1225.34点，日内交投区间为1218.92-1225.87点。",
+          "url": "https://wallstreetcn.com/livenews/3007400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
@@ -709,6 +728,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3007390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",
+          "url": "https://wallstreetcn.com/livenews/3007311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险。",
+          "url": "https://flash.jin10.com/detail/20251119234834627800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
+          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         }
       ]
     },
