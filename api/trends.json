@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T16:25:18.782517+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-11-19T17:21:02.521859+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 17时21分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -50,11 +51,27 @@
             13,
             10,
             14,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21,
+            19,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 17时21分]"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -146,20 +163,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普与沙特王储握手露出尴尬表情",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时25分]"
         },
         {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
@@ -257,6 +260,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 17时21分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -434,17 +449,6 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
-        },
-        {
           "title": "据路透社/益普索民调：26%的美国人认可特朗普处理生活成本问题的方式。",
           "url": "https://flash.jin10.com/detail/20251119035025343800",
           "source": "金十数据",
@@ -454,6 +458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官黄仁勋现身特朗普与沙特王储的晚宴。",
@@ -576,6 +591,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
+          "title": "特朗普为何在爱泼斯坦案上罕见低头",
+          "url": "https://www.toutiao.com/trending/7574277845409598995/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "美国总统特朗普点评AI监管，宣称：呼吁在AI模型上推行一个联邦标准。",
@@ -790,7 +827,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -888,6 +925,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -1034,6 +1082,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 17时21分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -1050,6 +1110,19 @@
           "time_info": "[02时27分 ~ 09时20分]"
         },
         {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 17时21分]"
+        },
+        {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
@@ -1064,15 +1137,21 @@
           "time_info": "[11时10分 ~ 16时25分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            4,
+            12,
+            13,
+            6,
+            7,
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[09时19分 ~ 16时25分]"
+          "time_info": "[11时10分 ~ 17时21分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1100,34 +1179,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12,
-            13,
-            6,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 16时25分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 16时25分]"
-        },
-        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1137,6 +1188,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1173,18 +1237,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时25分]"
         },
         {
           "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
@@ -1363,8 +1415,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时19分 ~ 17时21分]"
         }
       ]
     },
