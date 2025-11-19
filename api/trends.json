@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T18:20:51.201864+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-11-19T19:17:01.314066+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 19时17分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -54,11 +54,12 @@
             14,
             19,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 19时17分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -74,6 +75,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时19分 ~ 17时21分]"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 19时17分]"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -214,16 +228,15 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9,
             10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -322,17 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时22分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -462,6 +464,17 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "据路透社/益普索民调：26%的美国人认可特朗普处理生活成本问题的方式。",
           "url": "https://flash.jin10.com/detail/20251119035025343800",
           "source": "金十数据",
@@ -571,6 +584,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周三中午在华盛顿举行的美沙投资论坛上发表讲话。",
@@ -771,17 +796,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁",
-          "url": "https://www.toutiao.com/trending/7574328835857023012/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "美国白宫：特朗普将于当地时间周三中午在华盛顿出席美沙投资论坛并发表讲话。",
           "url": "https://wallstreetcn.com/livenews/3006804",
           "source": "华尔街见闻-快讯",
@@ -840,7 +854,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -892,6 +906,30 @@
           "time_info": "[00时24分 ~ 11时11分]"
         },
         {
+          "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时17分]"
+        },
+        {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006756",
           "source": "华尔街见闻-快讯",
@@ -914,18 +952,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
@@ -1101,11 +1127,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 18时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 19时17分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1130,11 +1157,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 19时17分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1162,11 +1190,12 @@
             7,
             19,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 19时17分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1194,6 +1223,20 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时17分]"
+        },
+        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1203,19 +1246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1418,6 +1448,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国在9月份减持近400亿美元美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20251119062808557800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "中方再抛5亿美债传递出怎样的信号",
+          "url": "https://www.toutiao.com/trending/7574330336398544425/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1427,11 +1485,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时19分 ~ 19时17分]"
         }
       ]
     },
@@ -1449,23 +1508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国在9月份减持近400亿美元美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20251119062808557800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
         }
       ]
     }
