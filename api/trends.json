@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:21:09.010194+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-11-20T13:19:18.699318+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "url": "https://flash.jin10.com/detail/20251120120628966800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时19分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -105,6 +106,31 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 13时19分]"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 13时19分]"
+        },
+        {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
           "url": "https://wallstreetcn.com/livenews/3007379",
           "source": "华尔街见闻-快讯",
@@ -118,6 +144,17 @@
           "time_info": "[03时15分 ~ 05时15分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时19分]"
+        },
+        {
           "title": "特朗普：应起诉鲍威尔",
           "url": "https://news.ifeng.com/c/8oQBc00t0BE",
           "source": "凤凰网",
@@ -128,6 +165,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时18分 ~ 12时21分]"
+        },
+        {
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时19分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -152,40 +200,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -364,17 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "C罗随特朗普参观白宫开怀大笑",
-          "url": "https://www.toutiao.com/trending/7573905925644340755/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
         },
         {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
@@ -580,8 +583,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时17分 ~ 13时19分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[06时17分 ~ 12时21分]"
+          "time_info": "[07时17分 ~ 13时19分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -597,18 +612,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时24分 ~ 11时08分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时21分]"
         },
         {
           "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
@@ -809,8 +812,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 13时19分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -824,8 +827,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 12时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 13时19分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -838,8 +841,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时27分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 13时19分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -880,11 +883,12 @@
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时19分]"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
