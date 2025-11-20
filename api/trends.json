@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:20:32.172440+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-11-20T19:17:13.551950+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 19时17分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 13时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120183902087800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -360,6 +371,17 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "克里姆林宫就“乌克兰28点和平计划”的报道作出回应：除了在阿拉斯加举行的俄罗斯总统普京与美国总统特朗普峰会上所说的内容外，我们没有新的补充。",
+          "url": "https://flash.jin10.com/detail/20251120181150851800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普政府宣布拆解教育部计划",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
           "source": "百度热搜",
@@ -608,8 +630,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时17分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -737,7 +759,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -852,8 +874,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时17分 ~ 18时20分]"
+          "appearance_count": 24,
+          "time_info": "[01时17分 ~ 19时17分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -872,8 +894,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -887,8 +909,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时27分 ~ 18时20分]"
+          "appearance_count": 22,
+          "time_info": "[02时27分 ~ 19时17分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -1001,7 +1023,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1213,6 +1235,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时20分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
+          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
+          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
+        },
+        {
+          "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
+          "url": "https://wallstreetcn.com/livenews/3007872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1265,50 +1339,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
         {
-          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
-        },
-        {
-          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
-          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "title": "市场消息：国际原子能机构理事会通过决议，要求伊朗就其被炸毁的核设施和浓缩铀库存作出解释并允许其进入。",
+          "url": "https://flash.jin10.com/detail/20251120183757484800",
           "source": "金十数据",
           "ranks": [
-            25
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时15分]"
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
+          "title": "市场消息：国际原子能机构理事会通过一项决议，要求伊朗“毫不拖延地”向国际原子能机构通报其浓缩铀库存及受袭核设施的状况。",
+          "url": "https://flash.jin10.com/detail/20251120183719098800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
         {
           "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
           "url": "https://wallstreetcn.com/livenews/3007353",
