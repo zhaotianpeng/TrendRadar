@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T05:17:39.275252+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-11-21T06:17:37.604140+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -20,6 +20,17 @@
           "time_info": "[00时23分 ~ 04时21分]"
         },
         {
+          "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
+          "url": "https://flash.jin10.com/detail/20251121060251003800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
           "url": "https://wallstreetcn.com/livenews/3008134",
           "source": "华尔街见闻-快讯",
@@ -29,6 +40,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
@@ -88,6 +111,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美法官叫停特朗普政府在华盛顿特区部署国民警卫队计划",
+          "url": "https://flash.jin10.com/detail/20251121054813113800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251121005906259800",
           "source": "金十数据",
@@ -119,6 +153,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普的这项命令将适用于11月13日之后进入美国的商品。",
+          "url": "https://flash.jin10.com/detail/20251121054227778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
+          "url": "https://flash.jin10.com/detail/20251121053841010800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普修改对巴西商品关税范围",
+          "url": "https://wallstreetcn.com/livenews/3008195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
@@ -229,23 +296,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "特朗普“化缘”21万亿美元意味着啥",
-          "url": "https://www.toutiao.com/trending/7574747368273219114/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -254,44 +310,12 @@
           "ranks": [
             2,
             4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251121050621300800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251121050600915800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
-          "url": "https://wallstreetcn.com/livenews/3008179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -305,6 +329,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050621300800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050600915800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
+          "url": "https://wallstreetcn.com/livenews/3008179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -341,6 +401,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3008204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
@@ -352,13 +423,46 @@
           "time_info": "04时21分"
         },
         {
+          "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
+          "url": "https://wallstreetcn.com/livenews/3008202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3008201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
+          "url": "https://www.cls.cn/detail/2206810",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
           "url": "https://wallstreetcn.com/livenews/3008168",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -369,7 +473,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -380,9 +484,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3008193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -391,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -399,7 +514,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -409,8 +524,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -421,8 +536,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "Gemini3",
@@ -448,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
@@ -491,7 +617,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -564,7 +690,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -572,7 +698,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -595,15 +721,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时17分]"
+        },
+        {
+          "title": "美债价格在就业数据发布后反弹，风险资产下跌让投资者转向避险美债",
+          "url": "https://wallstreetcn.com/livenews/3008208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国计算机软件公司Intuit CEO：客户数据隐私与安全原则在与ChatGPT集成后“保持不变”；公司计划利用客户数据训练自己的大型语言模型。",
+          "url": "https://flash.jin10.com/detail/20251121055554104800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
         {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
@@ -619,7 +767,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
@@ -632,6 +780,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20251121052858642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }
