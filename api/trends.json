@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:27:21.900592+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-20T15:18:32.366025+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,29 @@
           "time_info": "[02时27分 ~ 07时17分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时18分]"
+        },
+        {
           "title": "共和党议员对特朗普“关税红利”计划持保留态度",
           "url": "https://flash.jin10.com/detail/20251120120628966800",
           "source": "金十数据",
@@ -71,18 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时27分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -116,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时27分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -200,6 +200,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -424,17 +436,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "美国总统特朗普：我们将与沙特阿拉伯、阿联酋、埃及及其他中东伙伴合作，以结束苏丹的暴行。",
           "url": "https://flash.jin10.com/detail/20251120031735083800",
           "source": "金十数据",
@@ -584,6 +585,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时18分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
           "url": "https://www.cls.cn/detail/2205612",
           "source": "财联社热门",
@@ -594,20 +607,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时17分 ~ 14时27分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 14时27分]"
+          "appearance_count": 11,
+          "time_info": "[06时17分 ~ 15时18分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -821,11 +822,12 @@
             9,
             11,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 14时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 15时18分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -836,11 +838,12 @@
             7,
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时17分 ~ 14时27分]"
+          "appearance_count": 18,
+          "time_info": "[01时17分 ~ 15时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -853,8 +856,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时27分 ~ 14时27分]"
+          "appearance_count": 16,
+          "time_info": "[02时27分 ~ 15时18分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -879,17 +882,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
@@ -901,6 +893,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时20分 ~ 14时27分]"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
@@ -1197,7 +1201,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
@@ -1209,6 +1213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
+        },
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
