@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T21:22:48.507377+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2025-11-23T22:15:44.547003+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -88,11 +88,12 @@
             13,
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时26分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时26分 ~ 22时15分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -128,6 +129,30 @@
           "time_info": "[00时20分 ~ 15时17分]"
         },
         {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普暗示“28点”计划方案有调整空间",
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
@@ -142,30 +167,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时31分 ~ 17时17分]"
-        },
-        {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 21时22分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -186,11 +187,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
@@ -208,15 +210,26 @@
           "time_info": "[13时17分 ~ 17时17分]"
         },
         {
-          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
-          "url": "https://flash.jin10.com/detail/20251123204843492800",
+          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
+          "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3009125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时15分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
@@ -250,11 +263,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 22时15分]"
+        },
+        {
+          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
+          "url": "https://flash.jin10.com/detail/20251123204843492800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时15分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -314,6 +340,17 @@
           "time_info": "[20时31分 ~ 20时32分]"
         },
         {
+          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
+          "url": "https://wallstreetcn.com/livenews/3009111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普为何突然施压泽连斯基停火",
           "url": "https://www.toutiao.com/trending/7575859447281487401/",
           "source": "今日头条",
@@ -323,6 +360,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
+          "url": "https://flash.jin10.com/detail/20251123214049380800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "特朗普向乌克兰下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -401,11 +460,12 @@
           "ranks": [
             20,
             23,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 22时15分]"
         }
       ]
     },
