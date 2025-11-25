@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-25T09:20:33.234085+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-11-25T11:14:43.913568+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
+        },
         {
           "title": "习近平同特朗普通电话",
           "url": "https://www.toutiao.com/trending/7576299047473397779/",
@@ -22,17 +33,6 @@
           "title": "习近平同特朗普通电话",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
@@ -71,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -85,8 +85,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -98,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -110,11 +110,12 @@
             7,
             9,
             6,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -125,8 +126,32 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.toutiao.com/trending/7575503024580431379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时20分]"
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
@@ -140,26 +165,26 @@
           "time_info": "03时13分"
         },
         {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.toutiao.com/trending/7575503024580431379/",
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://www.toutiao.com/trending/7576254631207043118/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时14分"
         },
         {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "特朗普在孟菲斯成立的特别工作组已逮捕数千人",
+          "url": "https://flash.jin10.com/detail/20251125105041252800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时14分"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -168,9 +193,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普要求与高市早苗通话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
@@ -195,6 +242,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "特朗普要求与高市早苗通话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
         },
         {
           "title": "美国白宫：特朗普启动程序，将部分穆斯林兄弟会分支机构列为外国恐怖主义组织和特别指定的全球恐怖分子。",
@@ -270,6 +329,30 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
+          "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
           "url": "https://wallstreetcn.com/livenews/3009755",
           "source": "华尔街见闻-快讯",
@@ -294,6 +377,18 @@
           "time_info": "[05时18分 ~ 06时17分]"
         },
         {
+          "title": "特朗普签令启动“创世纪计划”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4%E5%90%AF%E5%8A%A8%E2%80%9C%E5%88%9B%E4%B8%96%E7%BA%AA%E8%AE%A1%E5%88%92%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
           "title": "美国政府内部备忘录显示，美国总统特朗普政府下令对所有在前总统拜登任内入境的难民进行全面审查，拜登时期的难民绿卡申请处理程序已被冻结。",
           "url": "https://flash.jin10.com/detail/20251125042430186800",
           "source": "金十数据",
@@ -316,15 +411,15 @@
           "time_info": "[05时17分 ~ 05时18分]"
         },
         {
-          "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
-          "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
-          "source": "凤凰网",
+          "title": "日媒：特朗普要求与高市通话",
+          "url": "https://www.douyin.com/hot/2316989",
+          "source": "抖音",
           "ranks": [
-            6
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
         },
         {
           "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
@@ -338,6 +433,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普要求跟高市早苗通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
           "url": "https://flash.jin10.com/detail/20251125061314901800",
           "source": "金十数据",
@@ -347,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
@@ -377,20 +472,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
         {
-          "title": "特朗普要求与高市早苗通话",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时14分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
@@ -413,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普签令启动“创世纪计划”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4%E5%90%AF%E5%8A%A8%E2%80%9C%E5%88%9B%E4%B8%96%E7%BA%AA%E8%AE%A1%E5%88%92%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         },
         {
           "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
@@ -470,24 +554,13 @@
           "time_info": "04时21分"
         },
         {
-          "title": "日媒：特朗普要求与高市通话",
-          "url": "https://www.douyin.com/hot/2316989",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "据日本富士新闻网：日本首相高市早苗和美国总统特朗普计划今日进行通话。",
           "url": "https://flash.jin10.com/detail/20251125082528479800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -509,7 +582,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -531,7 +604,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -572,11 +645,12 @@
             12,
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -760,6 +834,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3009767",
           "source": "华尔街见闻-快讯",
@@ -769,17 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -816,6 +891,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
           "title": "谷歌A盘后涨1.9%，英伟达跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3009799",
           "source": "华尔街见闻-快讯",
@@ -838,17 +925,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
-          "url": "https://www.zhihu.com/question/1976223014631733240",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
           "url": "https://flash.jin10.com/detail/20251125032925366800",
           "source": "金十数据",
@@ -866,7 +942,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -888,7 +964,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -899,7 +975,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -921,7 +997,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -932,7 +1008,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -943,7 +1019,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -1002,6 +1078,17 @@
           "time_info": "[02时28分 ~ 04时21分]"
         },
         {
+          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
+          "url": "https://www.cls.cn/detail/2209345",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时14分]"
+        },
+        {
           "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
           "url": "https://wallstreetcn.com/livenews/3009672",
           "source": "华尔街见闻-快讯",
@@ -1012,17 +1099,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时18分]"
-        },
-        {
-          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
-          "url": "https://www.cls.cn/detail/2209345",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         }
       ]
     },
