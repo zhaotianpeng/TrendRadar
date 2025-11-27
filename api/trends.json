@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-28T03:15:00.934129+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-11-28T04:18:24.894524+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 6,
       "titles": [
-        {
-          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
-          "url": "https://flash.jin10.com/detail/20251128021209382800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
-        },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://www.toutiao.com/trending/7576971637803716150/",
@@ -29,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -41,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -53,8 +42,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
+        },
+        {
+          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
+          "url": "https://flash.jin10.com/detail/20251128021209382800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -90,11 +91,12 @@
           "url": "https://flash.jin10.com/detail/20251128022422215800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "伊朗最高领袖：有关伊朗通过中间人向美国传递信息的传言完全是谎言。美国政府不配与伊朗进行沟通与合作。",
@@ -102,11 +104,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 04时18分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：有关伊方间接地向美国发出讯息的传闻“完全是谎言”。",
@@ -114,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时18分]"
         }
       ]
     },
@@ -135,19 +139,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
           "url": "https://www.cls.cn/detail/2213001",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         }
       ]
     },
@@ -161,11 +166,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -175,8 +181,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         }
       ]
     },
@@ -192,8 +198,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时18分]"
         }
       ]
     },
@@ -225,11 +231,12 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时18分]"
         }
       ]
     }
