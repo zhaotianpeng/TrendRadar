@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T18:21:02.335826+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2025-11-28T19:16:55.827380+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时16分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -72,8 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 19时16分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -192,6 +192,18 @@
           "time_info": "[09时18分 ~ 12时22分]"
         },
         {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20251128164740683800",
           "source": "金十数据",
@@ -261,17 +273,6 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
-          "title": "特朗普能否影响高市改善中日关系",
-          "url": "https://www.toutiao.com/trending/7577703090468425243/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "特朗普称将开始在陆地拦截委内瑞拉“毒贩”",
           "url": "https://wallstreetcn.com/livenews/3011746",
           "source": "华尔街见闻-快讯",
@@ -314,6 +315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普叫停接收所谓第三世界移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E6%8E%A5%E6%94%B6%E6%89%80%E8%B0%93%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "为何说特朗普是终极政治实用主义者",
+          "url": "https://www.toutiao.com/trending/7577610149620092426/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普称将对委内瑞拉展开陆地行动",
@@ -403,6 +426,18 @@
           "time_info": "[16时25分 ~ 17时20分]"
         },
         {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
           "url": "https://flash.jin10.com/detail/20251128180023594800",
           "source": "金十数据",
@@ -426,17 +461,6 @@
           "time_info": "[17时20分 ~ 18时21分]"
         },
         {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
           "url": "https://www.cls.cn/detail/2213392",
           "source": "财联社热门",
@@ -457,6 +481,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            21,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 15时19分]"
+        },
+        {
+          "title": "DeepSeek开启无限进化新时代",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            4,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 18时21分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek推出新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -549,90 +668,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
-          "url": "https://www.zhihu.com/question/1977462001522450495",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 18时21分]"
-        },
-        {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 18时21分]"
-        },
-        {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            21,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时19分]"
-        },
-        {
-          "title": "DeepSeek开启无限进化新时代",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            4,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 18时21分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 18时21分]"
-        },
-        {
-          "title": "DeepSeek推出新模型",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -646,8 +681,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 19时16分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
