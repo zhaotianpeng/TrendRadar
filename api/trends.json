@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:18:24.944506+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-11-29T14:26:06.497382+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -152,11 +152,12 @@
             2,
             9,
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -199,6 +200,18 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时26分]"
+        },
+        {
           "title": "特朗普：废除拜登用自动签名笔签署的文件",
           "url": "https://news.ifeng.com/c/8ofb4LFJyYg",
           "source": "凤凰网",
@@ -221,17 +234,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "特朗普废除拜登用自动签名笔签的文件",
-          "url": "https://www.toutiao.com/trending/7577899454150279187/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "马斯克特朗普共进感恩节晚餐",
           "url": "https://www.toutiao.com/trending/7577103581065805862/",
           "source": "今日头条",
@@ -249,7 +251,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -305,8 +307,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 14时26分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -338,6 +340,20 @@
           "time_info": "[04时20分 ~ 12时21分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时26分]"
+        },
+        {
           "title": "美股三大股指收涨 英特尔涨超10%",
           "url": "https://flash.jin10.com/detail/20251129020833506800",
           "source": "金十数据",
@@ -349,20 +365,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时14分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -556,22 +558,24 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 14时26分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时26分]"
         }
       ]
     },
@@ -579,6 +583,18 @@
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "国际金价又涨了",
+          "url": "https://www.douyin.com/hot/2321048",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时26分]"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
@@ -590,17 +606,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "国际金价又涨了",
-          "url": "https://www.douyin.com/hot/2321048",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         }
       ]
     },
@@ -666,8 +671,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 14时26分]"
         }
       ]
     },
