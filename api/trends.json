@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T11:25:55.722801+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2025-11-30T12:33:14.491753+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 11时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时33分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普感恩节威胁对乌无用",
+          "url": "https://www.toutiao.com/trending/7578337181966552617/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         }
       ]
     },
@@ -183,11 +194,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时33分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -198,8 +210,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时33分]"
         }
       ]
     },
@@ -216,11 +228,12 @@
             4,
             3,
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时33分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -266,11 +279,12 @@
           "ranks": [
             3,
             8,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时33分]"
         }
       ]
     }
