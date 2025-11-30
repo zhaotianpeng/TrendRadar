@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:29:34.582328+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-11-30T11:25:55.722801+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 11时25分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -144,18 +157,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 09时29分]"
         }
       ]
     },
@@ -181,22 +182,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时25分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时25分]"
         }
       ]
     },
@@ -212,11 +215,12 @@
             5,
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时25分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -261,11 +265,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时25分]"
         }
       ]
     }
