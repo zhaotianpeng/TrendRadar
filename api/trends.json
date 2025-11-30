@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T17:17:51.075395+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2025-11-30T18:18:23.892110+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -170,8 +170,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -252,8 +263,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -296,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时18分]"
         }
       ]
     },
@@ -311,11 +322,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         }
       ]
     },
