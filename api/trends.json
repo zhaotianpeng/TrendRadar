@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T19:17:17.557899+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2025-12-01T20:39:24.524970+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 20时39分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -115,6 +115,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时39分]"
         },
         {
           "title": "特朗普：俄乌问题谈判进展顺利 未设最后期限",
@@ -210,17 +222,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时50分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -341,6 +342,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.douyin.com/hot/2322761",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "特朗普：乌克兰正面临“一些棘手的小问题”",
           "url": "https://wallstreetcn.com/livenews/3012559",
           "source": "华尔街见闻-快讯",
@@ -427,12 +439,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "特朗普推动俄乌停火是为了商业利益吗",
+          "url": "https://www.toutiao.com/trending/7578832492363255338/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -506,6 +529,17 @@
           "time_info": "[16时29分 ~ 18时22分]"
         },
         {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3012928",
           "source": "华尔街见闻-快讯",
@@ -520,18 +554,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3013007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时39分]"
         },
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
@@ -544,6 +579,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时31分]"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
@@ -563,7 +609,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
@@ -622,6 +668,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时44分]"
+        },
+        {
+          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
+          "url": "https://wallstreetcn.com/livenews/3013014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -641,11 +716,12 @@
           "url": "https://wallstreetcn.com/articles/3760419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时39分]"
         }
       ]
     },
@@ -674,24 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时44分]"
         }
       ]
     },
