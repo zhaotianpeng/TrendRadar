@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:19:21.901302+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-12-03T14:29:30.521345+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时29分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -48,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时29分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -66,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时29分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -79,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
@@ -697,7 +698,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -905,8 +906,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时29分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -917,8 +918,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1083,6 +1084,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 14时29分]"
+        },
+        {
           "title": "谷歌揭秘了AI竞赛的底牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
           "source": "澎湃新闻",
@@ -1096,18 +1109,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1140,8 +1141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时29分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
