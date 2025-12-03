@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:29:30.521345+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-12-03T15:20:59.572638+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -52,8 +52,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时20分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -69,19 +82,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时21分 ~ 14时29分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
@@ -835,6 +835,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
           "url": "https://flash.jin10.com/detail/20251203004623208800",
           "source": "金十数据",
@@ -906,8 +917,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 15时20分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -918,8 +929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时20分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1092,8 +1103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1138,11 +1149,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -1382,8 +1394,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -1424,6 +1436,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
