@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T09:22:52.329350+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-12-05T11:18:08.053047+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -254,13 +254,24 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
+          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251205103316073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -271,7 +282,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -337,6 +348,18 @@
           "time_info": "[05时18分 ~ 07时18分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 11时18分]"
+        },
+        {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251205013132298800",
           "source": "金十数据",
@@ -361,18 +384,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 04时22分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时22分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
@@ -484,19 +495,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时18分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时18分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -566,6 +578,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时18分]"
+        },
+        {
+          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
+          "url": "https://wallstreetcn.com/livenews/3015505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -625,27 +667,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            5
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
         {
           "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
           "url": "https://flash.jin10.com/detail/20251204234446522800",
