@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T16:25:55.585800+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-12-05T17:20:54.044994+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -298,6 +298,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
+          "url": "https://wallstreetcn.com/livenews/3015772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "中信证券：特朗普这一轮支持率下滑具有普遍性",
           "url": "https://flash.jin10.com/detail/20251205080946539800",
           "source": "金十数据",
@@ -516,8 +527,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 17时20分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -565,17 +576,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
-          "url": "https://flash.jin10.com/detail/20251205161256990800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
           "url": "https://wallstreetcn.com/livenews/3015329",
           "source": "华尔街见闻-快讯",
@@ -587,6 +587,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时18分]"
+        },
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -707,8 +719,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
