@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T13:19:20.479447+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2025-12-05T14:29:26.990052+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -287,6 +287,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251205133653740800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "中信证券：特朗普这一轮支持率下滑具有普遍性",
           "url": "https://flash.jin10.com/detail/20251205080946539800",
           "source": "金十数据",
@@ -329,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时29分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -504,11 +515,12 @@
             8,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时29分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -519,8 +531,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -590,6 +602,46 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
+          "url": "https://flash.jin10.com/detail/20251205025109547800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时22分]"
+        },
+        {
+          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时19分]"
+        },
+        {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -602,11 +654,12 @@
             5,
             9,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时29分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -705,35 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
-          "url": "https://flash.jin10.com/detail/20251205025109547800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时22分]"
-        },
-        {
-          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时19分]"
         }
       ]
     }
