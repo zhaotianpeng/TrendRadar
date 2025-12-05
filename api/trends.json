@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:20:32.215617+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-12-05T16:25:55.585800+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -516,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 16时25分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -531,8 +531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -561,6 +561,48 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
+          "url": "https://wallstreetcn.com/livenews/3015329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时18分]"
+        },
+        {
+          "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
+          "url": "https://wallstreetcn.com/livenews/3015288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -571,7 +613,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -657,6 +699,18 @@
           "time_info": "[03时18分 ~ 04时22分]"
         },
         {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
@@ -666,17 +720,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 13时19分]"
-        },
-        {
-          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时20分]"
         }
       ]
     },
@@ -694,11 +737,12 @@
             9,
             12,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -710,37 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
-          "url": "https://wallstreetcn.com/livenews/3015329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时18分]"
-        },
-        {
-          "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
-          "url": "https://wallstreetcn.com/livenews/3015288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时30分]"
         }
       ]
     },
