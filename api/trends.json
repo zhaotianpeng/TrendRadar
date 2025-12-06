@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-06T15:17:33.977167+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-12-06T16:23:02.461912+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时23分]"
+        },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
@@ -20,19 +34,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时25分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -136,6 +137,20 @@
           "time_info": "[01时17分 ~ 03时15分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时23分]"
+        },
+        {
           "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251206004910784800",
           "source": "金十数据",
@@ -194,11 +209,12 @@
           "url": "https://www.zhihu.com/question/1979570545172423754",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -226,19 +242,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -502,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 16时23分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -516,8 +519,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -531,8 +534,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[07时17分 ~ 16时23分]"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -694,8 +697,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时23分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -814,8 +817,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时23分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
