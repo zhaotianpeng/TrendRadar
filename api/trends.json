@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:24:34.203512+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-07T22:16:39.666984+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -107,9 +107,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时16分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 22时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -130,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 22时16分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
@@ -142,24 +157,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时24分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 22时16分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
@@ -167,11 +170,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 22时16分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
