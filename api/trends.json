@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:17:45.177442+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2025-12-07T16:22:47.906009+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 16时22分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -90,11 +91,12 @@
           "ranks": [
             4,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 16时22分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -114,7 +116,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -240,8 +242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 16时22分]"
         }
       ]
     },
