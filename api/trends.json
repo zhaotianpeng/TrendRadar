@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:18:20.837264+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2025-12-08T20:39:06.204705+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -41,8 +41,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时32分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时32分 ~ 20时39分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -60,6 +60,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时20分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时39分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -87,6 +99,17 @@
           "time_info": "[09时22分 ~ 15时22分]"
         },
         {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "特朗普：我对泽连斯基有点失望",
           "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
           "source": "凤凰网",
@@ -107,18 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -306,6 +317,17 @@
           "time_info": "[16时28分 ~ 16时29分]"
         },
         {
+          "title": "柬泰再交火 特朗普还会出手吗",
+          "url": "https://www.toutiao.com/trending/7581406828559339014/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "分析师：Netflix收购华纳面临反垄断压力 特朗普言论引发担忧",
           "url": "https://flash.jin10.com/detail/20251208174011180800",
           "source": "金十数据",
@@ -315,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普已就如何降低牛肉价格组织了政策会议。",
@@ -397,7 +430,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最乐观美股预测者：美股明年将再涨近20%",
@@ -406,7 +439,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -459,6 +492,17 @@
           "time_info": "[17时27分 ~ 18时21分]"
         },
         {
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
           "url": "https://wallstreetcn.com/livenews/3016623",
           "source": "华尔街见闻-快讯",
@@ -473,7 +517,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -490,6 +534,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时32分 ~ 18时21分]"
+        },
+        {
+          "title": "清洁能源公司NextEra Energy与谷歌宣布合作，开发多个数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3016989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
@@ -524,6 +579,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
@@ -600,6 +694,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 06时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：美联储独立性受质疑将致美债收益率曲线趋陡",
+          "url": "https://flash.jin10.com/detail/20251208194142730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         }
       ]
     }
