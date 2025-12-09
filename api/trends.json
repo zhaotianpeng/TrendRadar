@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-09T13:19:27.503588+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-09T14:30:41.907116+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 14时30分]"
+        },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
           "url": "https://wallstreetcn.com/articles/3760897",
@@ -32,16 +45,15 @@
           "time_info": "[00时25分 ~ 03时16分]"
         },
         {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -256,6 +268,17 @@
           "time_info": "[02时29分 ~ 04时22分]"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
           "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
           "url": "https://flash.jin10.com/detail/20251209042938587800",
           "source": "金十数据",
@@ -444,6 +467,17 @@
           "time_info": "[04时21分 ~ 04时22分]"
         },
         {
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -582,6 +616,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时30分]"
+        },
+        {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -595,18 +641,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时19分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -804,6 +838,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时30分]"
+        },
+        {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
           "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
@@ -818,16 +864,16 @@
           "time_info": "[00时25分 ~ 13时19分]"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时30分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -840,17 +886,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -949,6 +984,88 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "梁文锋入选《自然》年度十大科学人物",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时18分]"
+        },
+        {
+          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
+          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时18分]"
+        },
+        {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
+          "title": "OpenAI报告称：企业人工智能应用激增",
+          "url": "https://wallstreetcn.com/livenews/3017061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时19分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -996,11 +1113,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时30分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -1021,55 +1139,6 @@
           "ranks": [
             20,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "梁文锋入选《自然》年度十大科学人物",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时18分]"
-        },
-        {
-          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
-          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI报告称：企业人工智能应用激增",
-          "url": "https://wallstreetcn.com/livenews/3017061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
