@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T05:28:07.405480+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-12-10T06:43:30.964008+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -63,11 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -75,22 +76,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 05时28分]"
-        },
-        {
-          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3017890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 06时43分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -101,8 +92,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 06时43分]"
+        },
+        {
+          "title": "据消息人士透露，特朗普计划任命国土安全部副部长担任美国驻萨尔瓦多大使，这将是国土安全部领导层结构的一次重大调整。",
+          "url": "https://flash.jin10.com/detail/20251210062629989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -117,6 +119,43 @@
           "time_info": "[00时25分 ~ 03时14分]"
         },
         {
+          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3017890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时43分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时43分]"
+        },
+        {
+          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
+          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时43分]"
+        },
+        {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
           "url": "https://wallstreetcn.com/livenews/3017841",
           "source": "华尔街见闻-快讯",
@@ -128,30 +167,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 04时19分]"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时19分]"
-        },
-        {
-          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
-          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
@@ -234,13 +249,46 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
+          "url": "https://flash.jin10.com/detail/20251210060922610800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
+          "url": "https://flash.jin10.com/detail/20251210055642373800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "报道：美联储主席候选人本周将接受特朗普最后一轮面试，有人建议给哈塞特一个“缩水”的任期",
+          "url": "https://wallstreetcn.com/livenews/3017905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
           "url": "https://wallstreetcn.com/livenews/3017874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -292,19 +340,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时19分]"
-        },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2224567",
@@ -315,8 +352,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -330,26 +378,27 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
-          "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
-          "url": "https://wallstreetcn.com/livenews/3017891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
+          "url": "https://wallstreetcn.com/livenews/3017891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时43分]"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
@@ -388,6 +437,39 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
+          "url": "https://wallstreetcn.com/livenews/3017904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
           "url": "https://wallstreetcn.com/livenews/3017771",
           "source": "华尔街见闻-快讯",
@@ -397,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股盘中）",
@@ -490,8 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -511,7 +604,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -530,8 +623,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
@@ -571,11 +675,12 @@
             9,
             8,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时43分]"
         }
       ]
     },
