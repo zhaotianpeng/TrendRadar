@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:26:41.381892+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-12-10T17:23:12.187882+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时23分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -110,18 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时26分]"
         },
         {
           "title": "美国总统特朗普指责拜登使用自动签名笔签署一些联邦政府任命文件，包括鲍威尔的任命，“将对此进行调查”。",
@@ -179,15 +179,28 @@
           "time_info": "07时23分"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时23分]"
+        },
+        {
           "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
           "url": "https://news.ifeng.com/c/8oyJa7lvayk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -496,17 +509,6 @@
           "time_info": "[13时20分 ~ 14时40分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -667,7 +669,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -945,8 +947,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 17时23分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1052,8 +1054,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
         {
           "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
           "url": "https://flash.jin10.com/detail/20251210150354627800",
