@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:36:37.643097+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2025-12-10T22:21:24.541129+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -216,17 +216,6 @@
           "time_info": "19时17分"
         },
         {
-          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
-          "url": "https://flash.jin10.com/detail/20251210211820992800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "美媒：特朗普政府拟调整反洗钱规则 财政部寻求强化主导权",
           "url": "https://flash.jin10.com/detail/20251210202149381800",
           "source": "金十数据",
@@ -236,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
-        },
-        {
-          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
-          "url": "https://flash.jin10.com/detail/20251210211806034800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -335,6 +313,30 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时21分]"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -357,6 +359,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 06时43分]"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时21分]"
         },
         {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
@@ -443,15 +456,15 @@
           "time_info": "[04时19分 ~ 05时28分]"
         },
         {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时36分]"
+          "time_info": "[18时22分 ~ 22时21分]"
         },
         {
           "title": "美国总统特朗普：政府拯救了美国钢铁公司 ，这家现在由日本制铁公司拥有的公司“炙手可热”。",
@@ -614,6 +627,18 @@
           "time_info": "[20时39分 ~ 21时36分]"
         },
         {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时21分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -667,17 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
-          "url": "https://wallstreetcn.com/articles/3761053",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：将与“几位”美联储主席人选会面。",
@@ -746,6 +760,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "雪佛龙首席执行官沃斯：雪佛龙在委内瑞拉拥有“重要”的业务。正与美国总统特朗普政府就委内瑞拉问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251210212542950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://flash.jin10.com/detail/20251209235223915800",
           "source": "金十数据",
@@ -774,7 +799,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -799,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "特朗普谈泰柬冲突：我得打个电话",
@@ -848,7 +862,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -898,6 +912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时28分]"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -983,13 +1008,35 @@
           "time_info": "[06时43分 ~ 07时23分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
           "url": "https://wallstreetcn.com/livenews/3018453",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1059,6 +1106,18 @@
           "time_info": "[03时03分 ~ 04时19分]"
         },
         {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时21分]"
+        },
+        {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
           "url": "https://flash.jin10.com/detail/20251210024251829800",
           "source": "金十数据",
@@ -1083,24 +1142,13 @@
           "time_info": "[03时03分 ~ 03时14分]"
         },
         {
-          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
-          "url": "https://wallstreetcn.com/livenews/3018469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
           "url": "https://flash.jin10.com/detail/20251210210732222800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1122,7 +1170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
@@ -1140,8 +1188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 22时21分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1283,7 +1331,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
