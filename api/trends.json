@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:27:49.671660+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-12T17:23:45.242530+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -39,11 +39,24 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 17时23分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 17时23分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时32分 ~ 15时22分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时27分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -295,6 +296,18 @@
           "time_info": "[03时18分 ~ 04时22分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时23分]"
+        },
+        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -328,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时20分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时23分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -444,17 +469,6 @@
           "time_info": "[03时18分 ~ 03时19分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "白宫：特朗普跟中日都能搞好关系",
           "url": "https://www.toutiao.com/trending/7582430336525828123/",
           "source": "今日头条",
@@ -472,18 +486,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -530,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -672,6 +686,17 @@
           "time_info": "[09时24分 ~ 15时22分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时23分]"
+        },
+        {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
           "source": "华尔街见闻-快讯",
@@ -681,17 +706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时27分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1154,11 +1168,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 17时23分]"
         },
         {
           "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
@@ -1311,7 +1326,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -1336,6 +1351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时19分]"
+        },
+        {
+          "title": "花旗：美债仍属可控，投资者仍具信心",
+          "url": "https://flash.jin10.com/detail/20251212164856635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美债收益率于美股盘中持续走高",
