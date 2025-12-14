@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:18:56.723929+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-14T18:18:48.774415+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -282,6 +282,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "特朗普的“新五常”计划可行吗",
           "url": "https://www.toutiao.com/trending/7583121726133767743/",
           "source": "今日头条",
@@ -372,7 +383,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -383,7 +394,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -394,7 +405,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -460,8 +471,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -507,11 +518,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时18分]"
         }
       ]
     }
