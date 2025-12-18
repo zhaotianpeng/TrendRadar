@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:21:42.883157+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2025-12-18T19:18:55.048282+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -84,11 +84,12 @@
             8,
             2,
             4,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时18分]"
         },
         {
           "title": "预告：特朗普今日上午10点将向全美发表讲话",
@@ -161,6 +162,18 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时18分]"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -197,17 +210,6 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时21分]"
-        },
-        {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
           "url": "https://flash.jin10.com/detail/20251218000612267800",
           "source": "金十数据",
@@ -231,6 +233,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
         },
         {
           "title": "美国监管机构发言人：Caroline Pham会继续担任美国商品期货交易委员会（CFTC）代理主席，直至特朗普任命的Mike Selig获得确认。",
@@ -303,18 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -550,9 +553,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
@@ -713,8 +727,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时18分 ~ 18时21分]"
+          "appearance_count": 16,
+          "time_info": "[06时18分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -987,6 +1001,17 @@
           "time_info": "[14时29分 ~ 15时21分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时18分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -1019,17 +1044,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         }
       ]
     },
@@ -1043,11 +1057,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 19时18分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -1205,7 +1220,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
@@ -1218,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
