@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:23:47.623901+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-21T17:18:54.923008+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 17时18分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -75,11 +75,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 17时18分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -135,6 +136,20 @@
           "time_info": "[01时15分 ~ 06时17分]"
         },
         {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普为何推出史上最高金额对台军售",
           "url": "https://www.toutiao.com/trending/7585013065943859238/",
           "source": "今日头条",
@@ -146,19 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 05时16分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时23分]"
         },
         {
           "title": "特朗普称身处政坛看美女是死路一条",
@@ -211,8 +213,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时18分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -222,11 +224,12 @@
             4,
             9,
             11,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 17时18分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -237,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 17时18分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -330,8 +333,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 17时18分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 17时18分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -343,17 +357,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时19分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时23分]"
         }
       ]
     },
@@ -367,11 +370,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 17时18分]"
         },
         {
           "title": "金价又涨了",
@@ -400,7 +404,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -412,8 +416,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时18分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -428,6 +432,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 16时23分]"
+        },
+        {
+          "title": "以色列拟告知美方或再次打击伊朗",
+          "url": "https://www.toutiao.com/trending/7586190944370950207/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     }
