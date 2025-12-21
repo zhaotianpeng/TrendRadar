@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T18:19:25.733618+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-21T19:15:56.976374+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -45,6 +45,20 @@
           "time_info": "[00时21分 ~ 11时28分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时15分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -56,19 +70,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 18时19分]"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
@@ -77,11 +78,12 @@
             4,
             9,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时15分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -137,15 +139,37 @@
           "time_info": "[01时15分 ~ 06时17分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普为何频繁起诉媒体",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -226,8 +250,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 19时15分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -239,11 +263,12 @@
             11,
             16,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时15分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -251,11 +276,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时15分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -431,8 +457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时36分 ~ 19时15分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
