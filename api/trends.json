@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:20:42.432357+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-12-25T19:17:38.549140+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,30 @@
           "time_info": "[00时23分 ~ 03时15分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时17分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -68,30 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时14分 ~ 06时19分]"
-        },
-        {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时20分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时20分]"
         },
         {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
@@ -112,18 +112,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -193,6 +182,18 @@
           "time_info": "[03时15分 ~ 05时18分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
@@ -251,8 +252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -275,11 +276,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 19时17分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -410,7 +412,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -461,6 +463,17 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "金价又创历史新高",
           "url": "https://www.douyin.com/hot/2346801",
           "source": "抖音",
@@ -475,7 +488,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗代表：感谢中俄",
@@ -500,6 +513,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
