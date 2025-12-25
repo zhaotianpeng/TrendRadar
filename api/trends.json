@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T16:26:29.571915+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-12-25T17:21:44.757881+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -80,6 +80,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 13时23分]"
+        },
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -186,7 +208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -201,11 +223,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 16时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 17时21分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -236,6 +259,18 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251225020759823800",
           "source": "金十数据",
@@ -260,17 +295,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 04时21分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 16时26分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -523,7 +547,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
