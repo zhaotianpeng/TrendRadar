@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:17:56.087702+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-26T20:38:27.323787+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时38分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -141,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时38分]"
         },
         {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
@@ -258,7 +258,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时38分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -362,6 +362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
