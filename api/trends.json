@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T11:46:48.472546+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-12-28T12:43:34.917792+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -125,11 +125,23 @@
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时43分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时46分"
+          "time_info": "12时43分"
         },
         {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
@@ -148,6 +160,18 @@
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
+          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时43分]"
+        },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
           "url": "https://flash.jin10.com/detail/20251228090341310800",
@@ -171,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 11时46分]"
-        },
-        {
-          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
-          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         }
       ]
     },
@@ -194,11 +207,12 @@
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时43分]"
         }
       ]
     },
