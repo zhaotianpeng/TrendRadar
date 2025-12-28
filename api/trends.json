@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:23:13.536938+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2025-12-28T14:29:06.215680+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -85,6 +85,17 @@
           "time_info": "[00时22分 ~ 03时15分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时29分]"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时46分 ~ 13时23分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时23分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -170,7 +170,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -182,8 +182,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时29分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -208,6 +208,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 11时46分]"
+        },
+        {
+          "title": "伊朗总统：正与美欧打“全面战争”",
+          "url": "https://www.toutiao.com/trending/7588334047006834729/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         }
       ]
     },
