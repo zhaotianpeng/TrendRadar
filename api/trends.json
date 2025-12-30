@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T19:18:44.516869+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-12-30T20:40:25.503928+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 20时40分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -55,8 +55,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 20时40分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -74,6 +85,17 @@
           "time_info": "[00时23分 ~ 11时26分]"
         },
         {
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
+        },
+        {
           "title": "普京称官邸遭袭 特朗普回应",
           "url": "https://www.douyin.com/hot/2351475",
           "source": "抖音",
@@ -88,28 +110,6 @@
           "time_info": "[13时22分 ~ 18时21分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
           "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
           "source": "澎湃新闻",
@@ -120,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时30分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 20时40分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -235,6 +235,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 12时38分]"
+        },
+        {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -377,18 +389,6 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
           "url": "https://flash.jin10.com/detail/20251230030508660800",
           "source": "金十数据",
@@ -436,6 +436,54 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时38分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时40分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时40分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时40分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -516,18 +564,6 @@
           "time_info": "[02时28分 ~ 04时22分]"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时18分]"
-        },
-        {
           "title": "美国总统特朗普：我最近和委内瑞拉总统马杜罗进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251230023754680800",
           "source": "金十数据",
@@ -552,18 +588,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
@@ -605,18 +629,6 @@
           "time_info": "[02时28分 ~ 04时22分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时18分]"
-        },
-        {
           "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
           "url": "https://news.ifeng.com/c/8pVV1ZtFrwe",
           "source": "凤凰网",
@@ -626,17 +638,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时24分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
@@ -660,6 +661,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时24分]"
+        },
+        {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时40分]"
         },
         {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
@@ -1055,17 +1067,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "伊朗、哈马斯强硬回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
           "url": "https://flash.jin10.com/detail/20251230045300641800",
           "source": "金十数据",
@@ -1127,7 +1128,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1277,8 +1278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 20时40分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1305,18 +1306,6 @@
           "time_info": "[00时23分 ~ 11时26分]"
         },
         {
-          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2243401",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 12时38分]"
-        },
-        {
           "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
           "url": "https://wallstreetcn.com/articles/3762263",
           "source": "华尔街见闻",
@@ -1327,8 +1316,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 20时40分]"
+        },
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 12时38分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -1405,7 +1406,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1416,7 +1417,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1441,6 +1442,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊朗将加拿大皇家海军列为“恐怖组织”",
+          "url": "https://flash.jin10.com/detail/20251230200457541800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3028272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
+          "url": "https://flash.jin10.com/detail/20251230172626201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗总统表示，德黑兰对任何“侵略”的回应都将是“严厉的”。",
+          "url": "https://flash.jin10.com/detail/20251230184753344800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "市场消息：伊朗德黑兰和伊斯法罕发生学生抗议活动。",
+          "url": "https://flash.jin10.com/detail/20251230193448582800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
+          "url": "https://flash.jin10.com/detail/20251230015948375800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -1506,58 +1581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3028272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
-          "url": "https://flash.jin10.com/detail/20251230172626201800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "伊朗总统表示，德黑兰对任何“侵略”的回应都将是“严厉的”。",
-          "url": "https://flash.jin10.com/detail/20251230184753344800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
-          "url": "https://flash.jin10.com/detail/20251230015948375800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         }
       ]
     },
