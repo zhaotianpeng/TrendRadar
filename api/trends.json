@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-01T12:46:42.887208+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-01-01T13:26:14.260413+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时26分]"
+        },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
           "url": "https://www.toutiao.com/trending/7589836293949902363/",
@@ -23,18 +35,6 @@
           "time_info": "[03时15分 ~ 07时19分]"
         },
         {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时46分]"
-        },
-        {
           "title": "特朗普称“凯旋门”将于两个月内开建",
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
@@ -48,6 +48,19 @@
           "time_info": "[01时17分 ~ 03时16分]"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时26分]"
+        },
+        {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
           "url": "https://wallstreetcn.com/livenews/3029479",
           "source": "华尔街见闻-快讯",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时46分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -270,6 +271,18 @@
           "time_info": "[02时27分 ~ 04时21分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时26分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260101050538351800",
           "source": "金十数据",
@@ -280,18 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时46分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
@@ -396,8 +397,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时26分]"
         }
       ]
     },
