@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:14:12.955660+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-03T04:20:59.757123+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,32 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时14分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013319071800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -59,11 +35,38 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时20分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -73,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时20分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -127,7 +130,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -137,8 +140,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
+          "url": "https://flash.jin10.com/detail/20260103035911381800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
+          "url": "https://www.toutiao.com/trending/7590436761429049350/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -152,18 +179,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
-          "url": "https://www.toutiao.com/trending/7590436761429049350/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[00时23分 ~ 03时14分]"
         },
         {
@@ -198,11 +213,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时20分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -242,47 +258,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
-        },
-        {
-          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
-          "url": "https://wallstreetcn.com/articles/3762454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价飙升原因找到了",
@@ -293,8 +270,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -319,6 +296,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     },
@@ -335,8 +362,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "伊朗",
@@ -348,8 +375,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "纪念苏莱马尼遭美暗杀6周年，伊朗总统谴责美以国家恐怖主义",
@@ -372,6 +399,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            23,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
           "title": "UP主解读DeepSeek梁文锋新论文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
@@ -381,20 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20,
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
         }
       ]
     }
