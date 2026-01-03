@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T13:20:55.754661+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-01-03T14:28:46.368589+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -65,6 +65,17 @@
           "time_info": "[04时20分 ~ 11时21分]"
         },
         {
+          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
+          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
+        },
+        {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
           "url": "https://wallstreetcn.com/livenews/3029929",
           "source": "华尔街见闻-快讯",
@@ -82,15 +93,20 @@
           "time_info": "[05时15分 ~ 13时20分]"
         },
         {
-          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
-          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
-          "source": "凤凰网",
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2,
+            7,
+            10,
+            11,
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 14时28分]"
         },
         {
           "title": "特朗普称将就伊朗事件进行干涉",
@@ -102,21 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 13时20分]"
         },
         {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
@@ -144,6 +145,31 @@
           "time_info": "[00时23分 ~ 03时14分]"
         },
         {
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
           "url": "https://wallstreetcn.com/livenews/3029899",
           "source": "华尔街见闻-快讯",
@@ -158,15 +184,16 @@
           "time_info": "[02时28分 ~ 05时15分]"
         },
         {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
+          "title": "与高市通话后特朗普转头就见驻华大使",
+          "url": "https://www.toutiao.com/trending/7590145571084681243/",
+          "source": "今日头条",
           "ranks": [
-            7
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时20分]"
+          "time_info": "[12时31分 ~ 14时28分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -180,30 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时20分]"
-        },
-        {
-          "title": "与高市通话后特朗普转头就见驻华大使",
-          "url": "https://www.toutiao.com/trending/7590145571084681243/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
         },
         {
           "title": "特朗普承认没少吃药，否认开会睡觉",
@@ -284,6 +287,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -303,6 +328,21 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时28分 ~ 14时28分]"
+        },
+        {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260103013328832800",
           "source": "金十数据",
@@ -317,18 +357,15 @@
           "time_info": "[02时28分 ~ 09时22分]"
         },
         {
-          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
-          "url": "https://wallstreetcn.com/articles/3762458",
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时28分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -367,19 +404,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时20分]"
-        },
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -391,26 +417,12 @@
             12,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 13时20分]"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 14时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -422,11 +434,55 @@
             19,
             22,
             23,
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 14时28分]"
+        },
+        {
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            9,
+            10,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时19分 ~ 13时20分]"
+          "time_info": "[07时18分 ~ 14时28分]"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17,
+            18,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时28分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -466,32 +522,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 12时31分]"
-        },
-        {
-          "title": "半导体概念股美股新年首日普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3029957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时20分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时20分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -581,11 +611,12 @@
           "url": "https://news.ifeng.com/c/8pbgQ9nqbqV",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "纪念苏莱马尼遭美暗杀6周年，伊朗总统谴责美以国家恐怖主义",
@@ -616,6 +647,18 @@
           "time_info": "[05时15分 ~ 09时22分]"
         },
         {
+          "title": "牛弹琴：伊朗面临40年来最严峻挑战",
+          "url": "https://www.toutiao.com/trending/7590150643311345706/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
+        },
+        {
           "title": "伊朗骚乱的经济真相",
           "url": "https://www.toutiao.com/trending/7590910383985004068/",
           "source": "今日头条",
@@ -628,28 +671,17 @@
           "time_info": "[09时21分 ~ 11时21分]"
         },
         {
-          "title": "牛弹琴：伊朗面临40年来最严峻挑战",
-          "url": "https://www.toutiao.com/trending/7590150643311345706/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
-        },
-        {
           "title": "伊朗面临40多年来最严峻挑战",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%9D%A2%E4%B8%B440%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%B8%A5%E5%B3%BB%E6%8C%91%E6%88%98%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
         },
         {
           "title": "伊朗汇率为何暴雷",
@@ -726,7 +758,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -782,8 +814,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         }
       ]
     },
@@ -805,8 +837,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -834,11 +866,12 @@
             10,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 14时28分]"
         }
       ]
     },
