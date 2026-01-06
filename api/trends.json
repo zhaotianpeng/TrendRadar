@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:19:08.392573+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-06T09:26:43.146878+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -81,6 +81,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普接连向多国发出威胁",
+          "url": "https://www.douyin.com/hot/2358156",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 09时26分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -105,17 +117,6 @@
             20,
             16,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普接连向多国发出威胁",
-          "url": "https://www.douyin.com/hot/2358156",
-          "source": "抖音",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -177,13 +178,46 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：特朗普政府在委内瑞拉的所作所为符合法律规定。",
+          "url": "https://flash.jin10.com/detail/20260106090218091800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：委内瑞拉发生的事情并非政权更迭；特朗普采取任何行动保护美国人都是正确的。",
+          "url": "https://flash.jin10.com/detail/20260106090149019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
           "url": "https://wallstreetcn.com/livenews/3031148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -194,7 +228,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -362,6 +396,17 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
           "url": "https://flash.jin10.com/detail/20260106032305906800",
           "source": "金十数据",
@@ -384,6 +429,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
           "url": "https://flash.jin10.com/detail/20260106055013705800",
           "source": "金十数据",
@@ -404,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -459,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普称有望在18个月内完成委内瑞拉能源改造 专家泼冷水",
+          "url": "https://flash.jin10.com/detail/20260106075724030800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -484,22 +562,36 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时26分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时26分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -562,17 +654,6 @@
           "time_info": "[02时29分 ~ 03时20分]"
         },
         {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
           "url": "https://flash.jin10.com/detail/20260106050116385800",
           "source": "金十数据",
@@ -621,7 +702,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -691,6 +772,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
@@ -891,6 +983,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
