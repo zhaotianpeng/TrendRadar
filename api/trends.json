@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:24:43.443942+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-01-07T16:28:26.826532+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -64,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 16时28分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -109,6 +109,34 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -125,41 +153,27 @@
           "time_info": "[00时26分 ~ 11时28分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普为何恨他入骨？",
           "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
-            7,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时28分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -204,20 +218,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 15时24分]"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -522,6 +525,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "特朗普：医疗保险费太贵了。",
           "url": "https://flash.jin10.com/detail/20260107001105236800",
           "source": "金十数据",
@@ -638,7 +652,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -660,7 +674,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -753,6 +767,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国总统特朗普：还将与石油公司会面。",
           "url": "https://flash.jin10.com/detail/20260107002659389800",
           "source": "金十数据",
@@ -797,6 +822,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://wallstreetcn.com/livenews/3032232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
           "url": "https://flash.jin10.com/detail/20260106234406802800",
           "source": "金十数据",
@@ -833,7 +869,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -946,6 +982,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "闲置资金重回股市，美股1月份收涨概率超60%",
+          "url": "https://flash.jin10.com/detail/20260107160316304800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -1012,7 +1059,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1023,7 +1070,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1095,11 +1142,12 @@
           "ranks": [
             14,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1120,7 +1168,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1229,7 +1277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1309,7 +1357,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
