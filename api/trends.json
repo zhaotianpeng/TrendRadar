@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T09:27:11.240154+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-01-07T11:28:36.445185+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -91,11 +91,12 @@
             22,
             16,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 11时28分]"
         },
         {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
@@ -110,6 +111,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
           "url": "https://flash.jin10.com/detail/20260107060405066800",
           "source": "金十数据",
@@ -122,6 +134,18 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
+        },
+        {
           "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
           "url": "https://flash.jin10.com/detail/20260107055329321800",
           "source": "金十数据",
@@ -132,6 +156,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -242,6 +278,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
+        },
+        {
           "title": "特朗普敲打印度",
           "url": "https://www.douyin.com/hot/2358596",
           "source": "抖音",
@@ -254,17 +301,6 @@
           "time_info": "[07时19分 ~ 09时27分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3031911",
           "source": "华尔街见闻-快讯",
@@ -275,28 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -401,6 +415,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260107025800176800",
           "source": "金十数据",
@@ -418,9 +454,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
+          "url": "https://www.cls.cn/detail/2249866",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -690,7 +737,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -731,6 +778,18 @@
           "time_info": "[00时26分 ~ 09时27分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 11时28分]"
+        },
+        {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260107050529922800",
           "source": "金十数据",
@@ -765,18 +824,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时27分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -833,8 +880,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
@@ -903,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260107103252586800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -918,8 +976,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时28分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -982,7 +1040,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -996,6 +1054,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
+          "url": "https://flash.jin10.com/detail/20260107111347667800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1059,6 +1128,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与XREAL宣布达成深度长期战略合作",
+          "url": "https://wallstreetcn.com/livenews/3032063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
