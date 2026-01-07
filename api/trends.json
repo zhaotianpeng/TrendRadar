@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T14:31:56.873597+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-01-07T15:24:43.443942+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -56,6 +56,18 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -97,18 +109,6 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时31分]"
-        },
-        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -133,8 +133,33 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时31分]"
+          "time_info": "[14时31分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时24分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -173,15 +198,26 @@
           "time_info": "11时28分"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
+          "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
+          "url": "https://wallstreetcn.com/livenews/3032216",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时24分]"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -206,30 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -494,7 +506,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -620,6 +632,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美参院民主党领袖批评：涉对委行动，特朗普政府“一问四不知”",
+          "url": "https://wallstreetcn.com/livenews/3032192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -629,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
+          "url": "https://flash.jin10.com/detail/20260107145900151800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -681,7 +715,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -692,7 +726,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -799,7 +833,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -840,6 +874,19 @@
           "time_info": "[00时26分 ~ 09时27分]"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时24分]"
+        },
+        {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
           "url": "https://www.cls.cn/detail/2249896",
           "source": "财联社热门",
@@ -850,18 +897,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时19分 ~ 14时31分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -971,6 +1006,28 @@
           "time_info": "[02时32分 ~ 03时16分]"
         },
         {
+          "title": "沙特阿美股价早盘股价上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260107150533625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "隔夜美股存储板块再度狂飙 存储产业链有望持续站上风口",
+          "url": "https://www.cls.cn/detail/2249923",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
           "url": "https://wallstreetcn.com/livenews/3031904",
           "source": "华尔街见闻-快讯",
@@ -1029,7 +1086,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1037,11 +1094,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时24分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1054,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 05时20分]"
+        },
+        {
+          "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
+          "url": "https://flash.jin10.com/detail/20260107151639470800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "报道：伊朗警告称已准备好对威胁采取先发制人的行动",
@@ -1115,7 +1184,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1152,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
+          "url": "https://flash.jin10.com/detail/20260107150245540800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "大摩预计今年第四季度金价升至4800美元",
@@ -1208,6 +1288,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3031877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
+          "url": "https://flash.jin10.com/detail/20260107144926716800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1240,23 +1348,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 05时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3031877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         }
       ]
     }
