@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T11:28:43.882740+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-01-08T12:38:53.321019+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时38分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -57,6 +58,30 @@
           "time_info": "[00时28分 ~ 07时19分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时38分]"
+        },
+        {
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时38分]"
+        },
+        {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
           "url": "https://wallstreetcn.com/livenews/3032696",
           "source": "华尔街见闻-快讯",
@@ -68,17 +93,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "特朗普提出将美军费提至1.5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
           "url": "https://flash.jin10.com/detail/20260108065030908800",
           "source": "金十数据",
@@ -88,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -318,6 +321,18 @@
           "time_info": "[01时25分 ~ 02时31分]"
         },
         {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时38分]"
+        },
+        {
           "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
           "url": "https://flash.jin10.com/detail/20260108053149928800",
           "source": "金十数据",
@@ -378,6 +393,17 @@
           "time_info": "[02时31分 ~ 03时19分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时38分]"
+        },
+        {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
           "url": "https://flash.jin10.com/detail/20260108031010315800",
           "source": "金十数据",
@@ -411,6 +437,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时19分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
@@ -468,6 +505,28 @@
           "time_info": "09时27分"
         },
         {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "学者：特朗普把美国往绝路上带",
+          "url": "https://www.toutiao.com/trending/7592771781304258098/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
           "url": "https://flash.jin10.com/detail/20260108060632294800",
           "source": "金十数据",
@@ -488,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
@@ -534,15 +582,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "12时38分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -639,7 +687,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -716,7 +764,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -766,11 +814,12 @@
           "ranks": [
             12,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时38分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -813,7 +862,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -824,7 +873,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -895,11 +944,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时38分]"
         },
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1032,8 +1082,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时28分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时38分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
