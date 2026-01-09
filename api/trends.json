@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T21:37:26.100621+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2026-01-09T22:22:41.086948+08:00",
+  "total_titles_processed": 2125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 149,
+      "match_count": 150,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -20,6 +20,19 @@
           "time_info": "[00时27分 ~ 07时17分]"
         },
         {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -28,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 22时22分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -47,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时39分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 22时22分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -60,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 22时22分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -74,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 22时22分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -87,19 +100,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 21时37分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时22分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -173,17 +184,6 @@
           "time_info": "[11时29分 ~ 18时21分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时37分]"
-        },
-        {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
           "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
@@ -191,8 +191,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 21时37分]"
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 22时22分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时22分]"
         },
         {
           "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
@@ -218,18 +230,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时27分 ~ 15时24分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时37分]"
         },
         {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
@@ -337,7 +337,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -981,7 +981,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1003,7 +1003,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1149,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "哈梅内伊喊话特朗普",
+          "url": "https://wallstreetcn.com/livenews/3034207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普抛出1.5万亿军费“大礼包” 国防巨头股价触底反弹",
@@ -1737,7 +1748,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
@@ -1754,17 +1765,6 @@
           "time_info": "[00时27分 ~ 12时39分]"
         },
         {
-          "title": "一觉醒来，伊朗采取极端措施了",
-          "url": "https://news.ifeng.com/c/8plZSSGoG34",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时24分]"
-        },
-        {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
           "url": "https://www.zhihu.com/question/1992897642179552544",
           "source": "知乎",
@@ -1778,8 +1778,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 22时22分]"
+        },
+        {
+          "title": "一觉醒来，伊朗采取极端措施了",
+          "url": "https://news.ifeng.com/c/8plZSSGoG34",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时24分]"
         },
         {
           "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
@@ -1887,6 +1898,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时29分]"
+        },
+        {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "伊朗正发生全国范围的互联网断网。（NetBlocks）",
@@ -2001,6 +2024,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：（抗议者的）现状持续下去是不可接受的。",
+          "url": "https://wallstreetcn.com/livenews/3034212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "伊朗大范围断网",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91",
           "source": "百度热搜",
@@ -2012,15 +2046,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "伊朗指责美以策划动乱",
-          "url": "https://www.douyin.com/hot/2362541",
-          "source": "抖音",
+          "title": "伊朗伊斯兰革命卫队：恐怖袭击受害者的鲜血沾在策划者的手上。",
+          "url": "https://flash.jin10.com/detail/20260109220023641800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时22分"
         },
         {
           "title": "伊朗称近期国内破坏事件与以色列及美国有关",
@@ -2032,6 +2066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：当前这种状况的持续是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260109215746639800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "伊朗实施网络管控，大范围断网",
@@ -2073,7 +2118,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -2084,7 +2129,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
@@ -2092,7 +2137,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -2102,8 +2147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2201,6 +2246,28 @@
           "time_info": "11时29分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109220150497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3034208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050534682800",
           "source": "金十数据",
@@ -2243,6 +2310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货涨0.28%；美国国债下跌，美元指数短线下挫。现货黄金短线拉升，向上触及4490美元/盎司，日内涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3034194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股盘中）",
@@ -2407,18 +2485,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 21时37分]"
-        },
-        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
@@ -2442,6 +2508,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时20分]"
+        },
+        {
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 22时22分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -2553,7 +2632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -2564,7 +2643,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -2575,7 +2654,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
