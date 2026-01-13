@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T18:22:25.862495+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-01-13T19:19:38.446120+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -102,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时19分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时19分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -128,11 +128,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时19分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -145,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时19分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -172,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 19时19分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -219,11 +220,12 @@
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时19分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -271,6 +273,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时27分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
@@ -754,7 +767,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -897,7 +910,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1021,12 +1034,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美油企对“投资委内瑞拉”犹疑 特朗普威胁施以“禁入令”",
+          "url": "https://wallstreetcn.com/livenews/3036032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1055,6 +1079,17 @@
           "time_info": "[09时23分 ~ 16时29分]"
         },
         {
+          "title": "美将对伊朗商业伙伴加征25%关税，中方回应",
+          "url": "https://news.ifeng.com/c/8psk7MrpBZR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
@@ -1064,8 +1099,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时19分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -1097,17 +1132,6 @@
           "time_info": "[01时22分 ~ 07时16分]"
         },
         {
-          "title": "美将对伊朗商业伙伴加征25%关税，中方回应",
-          "url": "https://news.ifeng.com/c/8psk7MrpBZR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
           "title": "美国国务院要求美国公民立即离开伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
           "source": "澎湃新闻",
@@ -1118,8 +1142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时19分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -1133,27 +1157,55 @@
           "time_info": "[00时25分 ~ 07时16分]"
         },
         {
-          "title": "中方回应美对伊朗贸易伙伴加税25%",
-          "url": "https://www.toutiao.com/trending/7594742775778643502/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
           "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
           "url": "https://www.cls.cn/detail/2256043",
           "source": "财联社热门",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
+          "title": "中方回应美对伊朗贸易伙伴加税25%",
+          "url": "https://www.toutiao.com/trending/7594742775778643502/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
         },
         {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
@@ -1167,32 +1219,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时27分 ~ 17时27分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.douyin.com/hot/2366507",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1237,7 +1263,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1251,6 +1277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
+          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "外交部：会采取一切必要措施保护在伊朗中国公民安全",
@@ -1294,7 +1331,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1693,6 +1730,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "伊朗官员：伊朗抗议活动中约有2000人丧生，其中包括安全人员，这些死亡是“恐怖分子”造成的。",
+          "url": "https://flash.jin10.com/detail/20260113182619500800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "伊朗议长：如遭攻击将给美国“永生难忘的教训”",
           "url": "https://wallstreetcn.com/livenews/3035430",
           "source": "华尔街见闻-快讯",
@@ -1813,8 +1861,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：百度涨超6%",
@@ -1997,8 +2045,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时19分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -2011,8 +2059,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时19分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2290,11 +2338,25 @@
             3,
             4,
             1,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时19分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -2320,19 +2382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
         }
       ]
     },
