@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:24:17.710505+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-01-14T16:28:54.131315+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 98,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -79,24 +79,24 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -125,6 +125,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普：我们将撤销任何来自索马里或其他地方、因欺诈我国公民而被判有罪的入籍移民的公民身份。",
@@ -230,19 +244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -964,6 +965,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "特朗普疑对工人爆粗口并竖中指",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%AF%B9%E5%B7%A5%E4%BA%BA%E7%88%86%E7%B2%97%E5%8F%A3%E5%B9%B6%E7%AB%96%E4%B8%AD%E6%8C%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -1003,9 +1015,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普称美不需要墨西哥加拿大产品",
+          "url": "https://www.toutiao.com/trending/7594680110679261193/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
@@ -1072,6 +1095,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "特朗普对伊朗发出威胁，外交部：反对外部势力干涉一国内政",
+          "url": "https://wallstreetcn.com/livenews/3036769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -1079,6 +1124,18 @@
       "keyword_group": "伊朗",
       "match_count": 35,
       "titles": [
+        {
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 16时28分]"
+        },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
           "url": "https://news.ifeng.com/c/8psvSf2W4qr",
@@ -1089,18 +1146,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 12时45分]"
-        },
-        {
-          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
-          "url": "https://news.ifeng.com/c/8psTbSveNse",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 15时24分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1250,6 +1295,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 16时28分]"
+        },
+        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
@@ -1273,17 +1329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时25分]"
-        },
-        {
-          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时31分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1348,7 +1393,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1414,7 +1459,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1498,8 +1543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 15时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 16时28分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1600,6 +1645,84 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时20分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            10,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时28分]"
+        },
+        {
+          "title": "gemini3pro 真那么好用吗？",
+          "url": "https://www.zhihu.com/question/1990762235694434081",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时20分]"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1644,6 +1767,18 @@
           "time_info": "[11时45分 ~ 11时46分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时28分]"
+        },
+        {
           "title": "金价为何持续走强",
           "url": "https://www.toutiao.com/trending/7594774199927836179/",
           "source": "今日头条",
@@ -1653,17 +1788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
@@ -1679,74 +1803,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时20分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时24分]"
-        },
-        {
-          "title": "gemini3pro 真那么好用吗？",
-          "url": "https://www.zhihu.com/question/1990762235694434081",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 06时20分]"
-        },
-        {
-          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
-          "url": "https://www.zhihu.com/question/1994310970621859099",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1778,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 11时46分]"
+        },
+        {
+          "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
+          "url": "https://wallstreetcn.com/livenews/3036793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
