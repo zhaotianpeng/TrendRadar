@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:31:15.429438+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-01-14T11:46:06.420471+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 88,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         },
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -54,6 +54,18 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 11时46分]"
+        },
+        {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
           "url": "https://wallstreetcn.com/articles/3763119",
           "source": "华尔街见闻",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -241,6 +242,17 @@
           "time_info": "[02时29分 ~ 03时20分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -300,6 +312,17 @@
           "time_info": "[01时25分 ~ 02时29分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
           "url": "https://flash.jin10.com/detail/20260114090039319800",
           "source": "金十数据",
@@ -356,6 +379,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -969,7 +1003,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -979,8 +1013,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1008,8 +1042,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -1032,8 +1066,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 11时46分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1117,6 +1151,18 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 11时46分]"
+        },
+        {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
           "url": "https://flash.jin10.com/detail/20260114030200145800",
           "source": "金十数据",
@@ -1127,6 +1173,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "如何评价伊朗的星链干扰器？",
+          "url": "https://www.zhihu.com/question/1993953352652956332",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "加拿大政府敦促其公民“立即离开伊朗”。",
@@ -1149,17 +1228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
@@ -1267,7 +1335,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -1300,8 +1368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时46分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1311,8 +1379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普称赞美股走高。",
@@ -1421,8 +1489,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1440,7 +1508,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -1472,6 +1540,17 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
+          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
+          "url": "https://flash.jin10.com/detail/20260114110243081800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
           "title": "金价为何持续走强",
           "url": "https://www.toutiao.com/trending/7594774199927836179/",
           "source": "今日头条",
@@ -1495,11 +1574,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -1512,8 +1592,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时46分]"
         }
       ]
     },
