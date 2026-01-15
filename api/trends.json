@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:26:29.308040+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-01-16T05:20:28.554273+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -113,6 +113,19 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时20分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
           "url": "https://wallstreetcn.com/livenews/3038162",
           "source": "华尔街见闻-快讯",
@@ -136,18 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
-          "url": "https://wallstreetcn.com/livenews/3038173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时26分]"
         },
         {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
@@ -244,6 +245,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
+          "url": "https://flash.jin10.com/detail/20260116050337941800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -316,7 +328,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -327,7 +339,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -341,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "据AXIOS记者：尽管目前看来美国对伊朗发动打击并非迫在眉睫，但一名熟悉相关情况的美国消息人士称，所有人都知道，特朗普一直“把手指放在按钮上”（准备好打击）。",
+          "url": "https://flash.jin10.com/detail/20260116045725279800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
@@ -360,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -371,9 +394,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美国驻联合国特使：特朗普已明确表示，为制止这场“屠杀”，所有选项都摆在桌面上。",
+          "url": "https://flash.jin10.com/detail/20260116045158825800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
@@ -382,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -467,7 +501,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -477,8 +511,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -488,8 +522,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 05时20分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -499,8 +533,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施新制裁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -511,21 +559,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
-        },
-        {
-          "title": "美国宣布对伊朗实施新制裁",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
@@ -537,8 +572,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -551,8 +586,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -562,8 +597,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "伊朗领空重新开放",
@@ -572,11 +607,12 @@
           "ranks": [
             22,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -589,8 +625,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
@@ -612,11 +648,12 @@
           "ranks": [
             27,
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 05时20分]"
         },
         {
           "title": "美国财政部：制裁“支持伊朗的影子银行网络”。",
@@ -654,6 +691,17 @@
           "time_info": "[02时33分 ~ 02时34分]"
         },
         {
+          "title": "美国驻联合国特使：伊朗声称准备好与美国对话，但其行动却表明并非如此。",
+          "url": "https://flash.jin10.com/detail/20260116045000135800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "扎哈罗娃：俄致力于在能源等多个领域与伊朗开展长期合作",
           "url": "https://wallstreetcn.com/livenews/3038107",
           "source": "华尔街见闻-快讯",
@@ -674,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "伊朗外长与联合国秘书长通话 讨论当前形势",
+          "url": "https://wallstreetcn.com/livenews/3038195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国财政部宣布对伊朗实施新制裁",
@@ -712,7 +771,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -723,8 +782,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -735,8 +794,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050517374800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -747,8 +828,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时20分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
@@ -771,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 02时34分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
+          "url": "https://flash.jin10.com/detail/20260116050146912800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -799,8 +891,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -850,6 +942,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时34分]"
+        },
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美元指数15日上涨",
+          "url": "https://flash.jin10.com/detail/20260116044459205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -864,8 +996,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -893,19 +1025,48 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国11月减持美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20260116050328025800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "两年期美债收益率涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3038210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -923,26 +1084,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时20分]"
         }
       ]
     }
