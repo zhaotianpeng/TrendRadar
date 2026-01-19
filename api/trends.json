@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:44:31.338482+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2026-01-19T22:26:30.362335+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 96,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时41分 ~ 21时44分]"
+          "appearance_count": 16,
+          "time_info": "[09时41分 ~ 22时26分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时50分 ~ 21时44分]"
+          "appearance_count": 14,
+          "time_info": "[12时50分 ~ 22时26分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -133,6 +133,20 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 22时26分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -155,20 +169,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 05时17分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时44分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -332,6 +332,17 @@
           "time_info": "[02时26分 ~ 06时18分]"
         },
         {
+          "title": "特朗普为何对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
+        },
+        {
           "title": "报道：欧盟考虑重启930亿欧元关税行动，来反击特朗普",
           "url": "https://wallstreetcn.com/livenews/3039301",
           "source": "华尔街见闻-快讯",
@@ -359,17 +370,6 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
-          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
           "url": "https://flash.jin10.com/detail/20260119161106127800",
           "source": "金十数据",
@@ -381,15 +381,15 @@
           "time_info": "16时31分"
         },
         {
-          "title": "特朗普为何对欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
+          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
+          "url": "https://wallstreetcn.com/livenews/3039809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "22时26分"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -464,6 +464,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时32分 ~ 19时21分]"
+        },
+        {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
@@ -703,6 +715,18 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
           "url": "https://wallstreetcn.com/livenews/3039516",
           "source": "华尔街见闻-快讯",
@@ -748,6 +772,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 13时31分]"
+        },
+        {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "瑞典财政大臣： （谈及特朗普的关税威胁）我们不应低头哈腰、卑躬屈膝，而应奋起反击。",
@@ -850,15 +885,15 @@
           "time_info": "20时44分"
         },
         {
-          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
-          "url": "https://wallstreetcn.com/livenews/3039789",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲官员：美国总统特朗普希望加沙在周四签署协议。",
+          "url": "https://flash.jin10.com/detail/20260119215503570800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "22时26分"
         },
         {
           "title": "美国邀约60国加入特朗普版联合国",
@@ -881,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
+          "url": "https://flash.jin10.com/detail/20260119215216307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "德总理称特朗普关税威胁损害跨大西洋关系",
@@ -914,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "德国经济研究所IW：美国总统特朗普第二任期第一年，德国对美国的投资几乎腰斩。",
+          "url": "https://flash.jin10.com/detail/20260119215002234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -958,17 +1015,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "普京收到加入特朗普和平委员会邀请",
-          "url": "https://www.toutiao.com/trending/7596940910904573978/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "据泰国《民族报》：泰国外交部周一表示，泰国已受邀加入特朗普的“和平委员会”，参与加沙和平计划。泰国正在研究相关细节。",
@@ -1065,7 +1111,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1204,6 +1250,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "伊朗总统：美以在中东发挥破坏性作用",
+          "url": "https://wallstreetcn.com/livenews/3039772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
+        },
+        {
           "title": "伊朗官员：网络服务将于本周末恢复正常",
           "url": "https://wallstreetcn.com/livenews/3039748",
           "source": "华尔街见闻-快讯",
@@ -1235,17 +1293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "伊朗总统：美以在中东发挥破坏性作用",
-          "url": "https://wallstreetcn.com/livenews/3039772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "伊拉克外长访问伊朗 强调需就地区安全保持沟通",
@@ -1288,6 +1335,17 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时26分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1297,17 +1355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
