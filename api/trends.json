@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T01:27:50.103783+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-01-21T02:33:53.416347+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -38,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
-        },
-        {
-          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3040619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -60,19 +49,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
+        },
+        {
+          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3040619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时33分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
           "url": "https://www.zhihu.com/question/1996539214104322510",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -82,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -91,22 +93,36 @@
           "source": "今日头条",
           "ranks": [
             28,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
+        },
+        {
+          "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
+          "url": "https://wallstreetcn.com/livenews/3040601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时33分]"
         },
         {
           "title": "毛里求斯政府表示，已注意到美国总统特朗普关于查戈斯群岛的声明。",
@@ -131,13 +147,35 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
+          "url": "https://wallstreetcn.com/livenews/3040625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
+          "url": "https://flash.jin10.com/detail/20260121020112692800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
           "url": "https://flash.jin10.com/detail/20260121005513850800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -148,7 +186,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -175,15 +213,26 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
-          "url": "https://wallstreetcn.com/livenews/3040601",
-          "source": "华尔街见闻-快讯",
+          "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121012528219800",
+          "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时33分"
+        },
+        {
+          "title": "市场消息：特朗普将参加下午1点（北京时间凌晨2点）的白宫新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260121011502558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "花旗高管Raghavan：面对特朗普新关税威胁，理智应会占上风",
@@ -211,7 +260,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -222,8 +271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -233,8 +282,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -244,8 +293,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "美股收窄部分跌幅，标普500指数下跌1%，纳斯达克指数下跌1.3%。",
@@ -257,6 +306,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015850758800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015752975800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "美股存储芯片股逆势大涨，美光、希捷、闪迪等股集体刷新记录新高",
@@ -333,8 +404,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -344,8 +415,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
@@ -371,7 +442,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -382,7 +453,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
@@ -401,8 +472,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         },
         {
           "title": "金价",
@@ -413,8 +484,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         }
       ]
     },
@@ -427,11 +498,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时33分]"
         }
       ]
     },
@@ -444,11 +516,12 @@
           "url": "https://wallstreetcn.com/livenews/3040609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时33分]"
         }
       ]
     }
