@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T05:20:08.123777+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-21T06:21:44.488690+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -39,19 +39,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
           "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1996980159144801247",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普计划于4月访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -68,28 +93,19 @@
           "time_info": "[00时32分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1996980159144801247",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普计划于4月访华？外交部回应",
-          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "title": "特朗普2.0政府：月月惊奇桩桩怪象",
+          "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
           "ranks": [
-            24,
-            23,
-            22
+            28,
+            14,
+            19,
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -101,20 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普2.0政府：月月惊奇桩桩怪象",
-          "url": "https://www.toutiao.com/trending/7597438425674812937/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -194,17 +196,6 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
-          "url": "https://wallstreetcn.com/livenews/3040687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
           "url": "https://wallstreetcn.com/livenews/3040652",
           "source": "华尔街见闻-快讯",
@@ -216,15 +207,27 @@
           "time_info": "04时11分"
         },
         {
-          "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
-          "url": "https://wallstreetcn.com/livenews/3040685",
+          "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
+          "url": "https://wallstreetcn.com/livenews/3040697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普公开马克龙给他的私信",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时10分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -239,15 +242,28 @@
           "time_info": "[01时27分 ~ 02时33分]"
         },
         {
-          "title": "特朗普公开马克龙给他的私信",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
+          "url": "https://wallstreetcn.com/livenews/3040687",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时10分 ~ 05时20分]"
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
+          "url": "https://wallstreetcn.com/livenews/3040685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -315,6 +331,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普：不会前往巴黎参加七国集团峰会",
+          "url": "https://wallstreetcn.com/livenews/3040683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：很多人合法入境，但他们必须证明他们热爱我们的国家。",
@@ -447,6 +475,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
+          "url": "https://wallstreetcn.com/livenews/3040674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
@@ -736,15 +776,15 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "特朗普：不会前往巴黎参加七国集团峰会",
-          "url": "https://wallstreetcn.com/livenews/3040683",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
+          "url": "https://flash.jin10.com/detail/20260121054716534800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：我目前非常喜欢委内瑞拉，他们一直都和我们配合得很好。 多家石油公司准备“大规模投资”委内瑞拉。",
@@ -769,6 +809,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普：我妻子认为，我是天才，就像巴菲特一样",
+          "url": "https://wallstreetcn.com/livenews/3040691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
           "url": "https://flash.jin10.com/detail/20260121005513850800",
           "source": "金十数据",
@@ -789,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
-          "url": "https://wallstreetcn.com/livenews/3040674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         },
         {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
@@ -841,9 +881,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普借他人之口自比巴菲特",
+          "url": "https://flash.jin10.com/detail/20260121051916818800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：美国“可能会”“强行收回”巴拿马运河。",
@@ -852,7 +903,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -863,7 +914,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -907,7 +958,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -918,7 +969,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -929,7 +980,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -937,7 +988,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -948,8 +999,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -970,8 +1021,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3040698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -996,6 +1058,39 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
+          "url": "https://wallstreetcn.com/livenews/3040696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3040693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3040692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260121015850758800",
           "source": "金十数据",
@@ -1018,6 +1113,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260121050558433800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "美股存储芯片股逆势大涨，美光、希捷、闪迪等股集体刷新记录新高",
           "url": "https://wallstreetcn.com/livenews/3040557",
           "source": "华尔街见闻-快讯",
@@ -1027,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260121050557571800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -1092,6 +1209,70 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "30年期美债收益率涨超7.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3040666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
+          "url": "https://wallstreetcn.com/livenews/3040562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
@@ -1153,57 +1334,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
-          "url": "https://wallstreetcn.com/articles/3763671",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
-        },
-        {
-          "title": "30年期美债收益率涨超7.9个基点",
-          "url": "https://wallstreetcn.com/livenews/3040666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
-          "url": "https://wallstreetcn.com/livenews/3040562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1237,7 +1367,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -1256,8 +1386,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "金价",
@@ -1268,8 +1398,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         }
       ]
     },
@@ -1285,11 +1415,12 @@
             1,
             2,
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         }
       ]
     }
