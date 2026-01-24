@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:17:14.277047+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-01-24T20:37:29.323657+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时34分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 20时37分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -96,6 +96,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时25分 ~ 15时19分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 20时37分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -114,18 +126,6 @@
           "time_info": "[00时28分 ~ 09时25分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 19时17分]"
-        },
-        {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
           "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
           "source": "凤凰网",
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 20时37分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -187,6 +187,21 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 20时37分]"
+        },
+        {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -229,20 +244,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时34分 ~ 16时24分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -336,27 +337,17 @@
           "time_info": "[09时25分 ~ 13时20分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
           "url": "https://flash.jin10.com/detail/20260124175804687800",
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
@@ -370,6 +361,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时19分 ~ 19时17分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时37分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 20时37分]"
         },
         {
           "title": "英国首相呼吁特朗普就北约言论道歉",
@@ -448,19 +465,6 @@
           "time_info": "[07时20分 ~ 09时25分]"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
-        },
-        {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
           "url": "https://wallstreetcn.com/livenews/3043121",
           "source": "华尔街见闻-快讯",
@@ -473,6 +477,18 @@
           "time_info": "[05时20分 ~ 06时17分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -483,18 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时17分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
@@ -604,6 +608,17 @@
           "time_info": "[02时31分 ~ 03时23分]"
         },
         {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -651,7 +666,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -844,6 +859,20 @@
           "time_info": "[11时26分 ~ 14时29分]"
         },
         {
+          "title": "土耳其外长说以色列正伺机攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3043253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时37分]"
+        },
+        {
           "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
           "url": "https://wallstreetcn.com/livenews/3043214",
           "source": "华尔街见闻-快讯",
@@ -869,19 +898,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时24分 ~ 18时20分]"
-        },
-        {
-          "title": "土耳其外长说以色列正伺机攻击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3043253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
@@ -918,6 +934,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 11时26分]"
+        },
+        {
+          "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
+          "url": "https://flash.jin10.com/detail/20260124190033665800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国对伊朗又一轮新制裁",
@@ -967,8 +994,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 20时37分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -978,11 +1005,12 @@
             11,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 20时37分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1274,11 +1302,12 @@
           "url": "https://www.zhihu.com/question/1997605038588129408",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "金价暴涨胖东来金店挤爆了",
