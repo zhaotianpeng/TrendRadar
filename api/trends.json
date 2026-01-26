@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T06:21:02.226246+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-27T07:20:51.894753+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
+          "url": "https://wallstreetcn.com/livenews/3044232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "卢拉与特朗普通电话 讨论两国关系和委内瑞拉局势",
@@ -124,6 +135,18 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
+          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -159,6 +182,18 @@
           "time_info": "[04时25分 ~ 05时22分]"
         },
         {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3044149",
           "source": "华尔街见闻-快讯",
@@ -181,17 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
-          "url": "https://flash.jin10.com/detail/20260127051213344800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "巴西：总统卢拉与美国总统特朗普通电话。 卢拉告知特朗普，所谓的“和平委员会”应当仅限于处置加沙问题。",
@@ -308,6 +332,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "特朗普认为伊朗希望达成协议",
           "url": "https://flash.jin10.com/detail/20260127042710644800",
           "source": "金十数据",
@@ -319,15 +354,59 @@
           "time_info": "05时22分"
         },
         {
-          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
-          "url": "https://wallstreetcn.com/livenews/3044205",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：边境事务主管汤姆·霍曼将于周二与明尼阿波利斯市长会面，以继续讨论有关事宜。",
+          "url": "https://flash.jin10.com/detail/20260127061943374800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：与明尼阿波利斯市长雅各布·弗雷进行了非常良好的电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260127061856226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉正在快速释放政治犯，而且这个速度将在不久的将来加快。我要感谢委内瑞拉领导层同意采取这一强有力的举措。",
+          "url": "https://flash.jin10.com/detail/20260127061014779800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普称提高对韩国多种商品关税税率至25%",
+          "url": "https://wallstreetcn.com/livenews/3044220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普：将韩国对等关税从15%提高至25%",
+          "url": "https://flash.jin10.com/detail/20260127060420841800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
@@ -341,15 +420,59 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国总统特朗普：我在此宣布，将韩国的汽车、木材、药品以及所有其他对等关税的税率从15%提高到25%。",
+          "url": "https://flash.jin10.com/detail/20260127055847932800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
           "url": "https://wallstreetcn.com/livenews/3044213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：韩国立法机构没有履行其与美国达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260127055756231800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普突然宣布将韩国商品的关税提高至25%",
+          "url": "https://wallstreetcn.com/livenews/3044214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
+          "url": "https://flash.jin10.com/detail/20260127055110903800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -366,7 +489,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -387,8 +510,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -414,6 +548,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
+          "url": "https://wallstreetcn.com/livenews/3044203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
@@ -449,26 +607,26 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
-          "url": "https://wallstreetcn.com/livenews/3044207",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
-          "url": "https://wallstreetcn.com/livenews/3044203",
-          "source": "华尔街见闻-快讯",
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时20分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
@@ -477,9 +635,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3044219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -495,8 +664,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -506,8 +675,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "美航母打击群抵达中东，美大规模军事集结引发伊朗“强硬警告”",
@@ -518,8 +687,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
@@ -546,6 +715,18 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
+          "title": "伊朗外交部：武装力量将全力应对任何侵犯",
+          "url": "https://wallstreetcn.com/livenews/3044206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
           "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
           "url": "https://wallstreetcn.com/livenews/3044148",
           "source": "华尔街见闻-快讯",
@@ -556,17 +737,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时25分]"
-        },
-        {
-          "title": "伊朗外交部：武装力量将全力应对任何侵犯",
-          "url": "https://wallstreetcn.com/livenews/3044206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
@@ -677,8 +847,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -689,8 +859,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
