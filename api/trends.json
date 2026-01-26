@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:33:08.816899+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-01-26T18:25:30.500678+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -31,17 +31,6 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
           "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
           "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
           "source": "凤凰网",
@@ -51,8 +40,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时56分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时56分 ~ 17时33分]"
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 18时25分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -207,8 +207,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时25分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -232,18 +244,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 03时16分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时33分]"
         },
         {
           "title": "特朗普的唐罗主义是什么",
@@ -411,7 +411,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -432,11 +432,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 18时25分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -562,13 +563,35 @@
           "time_info": "07时19分"
         },
         {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗：将对侵略作出令敌人遗憾的回应",
+          "url": "https://www.toutiao.com/trending/7599468401853972507/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "伊朗外交部：伊朗从未、也不会寻求核武器",
           "url": "https://wallstreetcn.com/livenews/3043845",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -582,27 +605,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "美重兵逼近 伊朗手中有何底牌",
+          "url": "https://www.toutiao.com/trending/7599582989961399835/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时56分 ~ 17时33分]"
-        },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
@@ -616,8 +636,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时56分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[11时56分 ~ 18时25分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13,
+            17,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时56分 ~ 18时25分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -700,6 +735,28 @@
           "time_info": "11时56分"
         },
         {
+          "title": "金十数据整理——金价“失控式”上涨 五大结构性力量全梳理",
+          "url": "https://flash.jin10.com/detail/20260126180034491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "国际金价疯涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -725,7 +782,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -760,8 +817,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时25分]"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -786,26 +843,83 @@
           "time_info": "[17时32分 ~ 17时33分]"
         },
         {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时25分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时25分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
+          "url": "https://flash.jin10.com/detail/20260126180007441800",
+          "source": "金十数据",
+          "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时25分"
+        },
+        {
+          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
+          "url": "https://flash.jin10.com/detail/20260126175458514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
+          "url": "https://flash.jin10.com/detail/20260126175411590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
