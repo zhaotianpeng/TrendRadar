@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:32:35.294637+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-26T14:34:43.438916+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 13时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 14时34分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -195,8 +195,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -329,6 +329,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "特朗普就移民执法人员枪杀美公民发声",
+          "url": "https://www.toutiao.com/trending/7599204696355504171/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "美媒：特朗普的前白宫新闻秘书请求他“不要一意孤行”，应将ICE撤出明尼苏达州",
           "url": "https://wallstreetcn.com/livenews/3043513",
           "source": "华尔街见闻-快讯",
@@ -338,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "前白宫新闻秘书喊话特朗普",
+          "url": "https://www.toutiao.com/trending/7599500906279288851/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特朗普要求明尼苏达州移交所有犯罪非法移民",
@@ -354,7 +376,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -420,6 +442,17 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
+          "title": "美国派出重兵合围伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "伊朗武装力量已进入全面戒备状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%92%E5%A4%87%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -438,11 +471,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时34分]"
+        },
+        {
+          "title": "伊朗称若遭军事打击将袭击美航母",
+          "url": "https://www.toutiao.com/trending/7599250332044230719/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时32分]"
+          "time_info": "[13时32分 ~ 14时34分]"
         },
         {
           "title": "土耳其外长警告外部势力勿插手伊朗事务",
@@ -467,17 +513,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "伊朗称若遭军事打击将袭击美航母",
-          "url": "https://www.toutiao.com/trending/7599250332044230719/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "美国会在何时对伊朗实施打击",
           "url": "https://www.toutiao.com/trending/7599501879420145171/",
           "source": "今日头条",
@@ -500,11 +535,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时34分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -529,6 +565,32 @@
           "time_info": "09时45分"
         },
         {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
+        },
+        {
           "title": "国际金价突破5000美元关口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
@@ -538,30 +600,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时45分 ~ 13时32分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时32分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时32分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -624,8 +662,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
