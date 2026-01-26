@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:43:38.656461+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-26T22:28:00.460028+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[11时56分 ~ 21时43分]"
+        },
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时23分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时43分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -293,6 +293,29 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时28分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时28分]"
+        },
+        {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
           "url": "https://flash.jin10.com/detail/20260126042756695800",
           "source": "金十数据",
@@ -342,29 +365,6 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
-        },
-        {
           "title": "美国明尼苏达州多位CEO呼吁缓解特朗普移民局与抗议者之间的紧张局势",
           "url": "https://wallstreetcn.com/livenews/3043410",
           "source": "华尔街见闻-快讯",
@@ -375,6 +375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "美国稀土(USAR.O)：美国政府的资金将从今年开始，分阶段拨付，直至2029年特朗普卸任前结束。",
+          "url": "https://flash.jin10.com/detail/20260126215948779800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
@@ -397,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普：司法部和国会正在调查奥马尔众议员。 特朗普称今晚派白宫边境事务负责人Tom Homan去明尼苏达州。 Homan将从明尼苏达州直接向我汇报工作.",
+          "url": "https://wallstreetcn.com/livenews/3044039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普就移民执法人员枪杀美公民发声",
@@ -460,7 +482,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -479,7 +501,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
@@ -489,8 +511,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -516,6 +538,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时56分 ~ 14时34分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126221652476800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -587,6 +620,17 @@
           "time_info": "[17时33分 ~ 18时25分]"
         },
         {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
@@ -610,13 +654,24 @@
           "time_info": "20时43分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "Coreweave(CRWV.O)美股盘前短线拉升，一度涨超11%。",
           "url": "https://flash.jin10.com/detail/20260126210223888800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -627,7 +682,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -682,7 +737,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -693,7 +748,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -704,7 +759,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
@@ -712,7 +767,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -737,8 +792,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时55分 ~ 21时43分]"
+          "appearance_count": 15,
+          "time_info": "[12时55分 ~ 22时28分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -793,6 +848,18 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时28分]"
+        },
+        {
           "title": "伊朗外交部：面对威胁和挑衅 将坚决捍卫自身安全",
           "url": "https://flash.jin10.com/detail/20260126183554804800",
           "source": "金十数据",
@@ -814,18 +881,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时34分 ~ 15时27分]"
-        },
-        {
-          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1999117900200551138",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时43分]"
         },
         {
           "title": "伊朗称若遭军事打击将袭击美航母",
@@ -875,6 +930,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "市场消息：阿联酋不会允许领土被用于针对伊朗的军事行动。",
+          "url": "https://flash.jin10.com/detail/20260126220412831800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "俄媒：伊朗应“先敌打击”占据主动",
@@ -946,7 +1012,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -963,8 +1029,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时56分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 22时28分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -1008,6 +1074,20 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时28分]"
+        },
+        {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260126094037137800",
           "source": "金十数据",
@@ -1030,19 +1110,6 @@
           "time_info": "09时45分"
         },
         {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时43分]"
-        },
-        {
           "title": "国际金价突破5000美元关口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
@@ -1052,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时45分 ~ 13时32分]"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时28分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -1087,15 +1165,15 @@
           "time_info": "18时25分"
         },
         {
-          "title": "金价破5000美元 短期投资者何去何从",
-          "url": "https://www.toutiao.com/trending/7599554910719315465/",
-          "source": "今日头条",
+          "title": "法国兴业银行：将年底前黄金价格预期上调1000美元",
+          "url": "https://wallstreetcn.com/livenews/3044041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时28分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -1118,6 +1196,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数短线波动不大，现报97.27。",
+          "url": "https://wallstreetcn.com/livenews/3044038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美元指数走弱，日元、欧元周一走强",
+          "url": "https://wallstreetcn.com/livenews/3043439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美元指数短线波动不大，现报97.27。现货黄金5分钟内下跌13.28美元/盎司，报5060.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -1150,34 +1267,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数短线波动不大，现报97.27。",
-          "url": "https://wallstreetcn.com/livenews/3044038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "美元指数走弱，日元、欧元周一走强",
-          "url": "https://wallstreetcn.com/livenews/3043439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1193,6 +1282,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时34分 ~ 17时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         }
       ]
     },
