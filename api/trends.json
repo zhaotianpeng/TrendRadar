@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T05:28:25.302685+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-01-29T06:25:40.871335+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -36,6 +25,17 @@
           "ranks": [
             3,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -60,11 +60,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -77,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -317,6 +318,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3045847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "报道：特朗普司法部针对鲍威尔的调查仍在继续，美联储尚未履行传票要求",
           "url": "https://wallstreetcn.com/livenews/3045725",
           "source": "华尔街见闻-快讯",
@@ -326,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
+          "url": "https://wallstreetcn.com/livenews/3045843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国国务卿鲁比奥：本周末在阿布扎比举行的乌克兰会谈中可能会有美国代表出席，但不会是美国总统特使威特科夫和特朗普女婿库什纳。",
@@ -375,7 +398,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -385,8 +408,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "解读伊朗多重危机背后逻辑",
@@ -400,8 +423,41 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
+          "url": "https://news.ifeng.com/c/8qIKp97Mqn9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://news.ifeng.com/c/8qICL52fQPd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
+          "url": "https://news.ifeng.com/c/8qIJy7HcQSe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "哈梅内伊高级顾问：伊朗对美军事行动的回应将是“史无前例的”",
@@ -556,7 +612,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -564,11 +620,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -579,19 +636,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
-          "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
-          "url": "https://flash.jin10.com/detail/20260129051658551800",
-          "source": "金十数据",
+          "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
+          "url": "https://wallstreetcn.com/livenews/3045853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时25分"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -605,6 +662,41 @@
           "time_info": "03时27分"
         },
         {
+          "title": "（美股）费城金银指数收涨2.38%，报451.13点。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.13%，报3196.53点。 （美股）原材料指数收跌0.29%，金属与矿业指数收跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
+          "url": "https://flash.jin10.com/detail/20260129051658551800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3045820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
           "url": "https://flash.jin10.com/detail/20260129022119825800",
           "source": "金十数据",
@@ -616,24 +708,13 @@
           "time_info": "02时35分"
         },
         {
-          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3045820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050547411800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -644,9 +725,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
+          "url": "https://flash.jin10.com/detail/20260129053426174800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
@@ -655,7 +758,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -684,21 +787,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -710,8 +800,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -721,8 +825,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -734,8 +838,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "金价波动",
@@ -743,11 +847,12 @@
           "source": "微博",
           "ranks": [
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时25分]"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -767,7 +872,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
