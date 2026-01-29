@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:39:32.080470+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-01-29T16:37:22.372947+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[00时34分 ~ 09时51分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 16时37分]"
+        },
+        {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
           "source": "澎湃新闻",
@@ -61,18 +74,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时39分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -113,6 +114,21 @@
           "time_info": "[09时50分 ~ 15时39分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时37分]"
+        },
+        {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
           "url": "https://flash.jin10.com/detail/20260129005903581800",
           "source": "金十数据",
@@ -146,18 +162,16 @@
           "time_info": "01时31分"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
             11,
-            10,
-            9,
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时39分]"
+          "time_info": "[13时42分 ~ 16时37分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -231,18 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 15时39分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -500,7 +502,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -784,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
+          "url": "https://flash.jin10.com/detail/20260129160346406800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -1051,11 +1064,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1094,28 +1108,29 @@
           "time_info": "[07时24分 ~ 09时51分]"
         },
         {
-          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
-          "url": "https://flash.jin10.com/detail/20260129151543362800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时37分]"
+        },
+        {
+          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20260129151543362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "金价",
@@ -1186,11 +1201,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时37分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
