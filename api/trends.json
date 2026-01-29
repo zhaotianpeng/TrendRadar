@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:37:22.372947+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-01-29T17:40:41.535272+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -31,6 +31,19 @@
           "time_info": "[00时34分 ~ 07时25分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
@@ -45,19 +58,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 16时37分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -140,6 +140,18 @@
           "time_info": "01时31分"
         },
         {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 17时40分]"
+        },
+        {
           "title": "美国总统特朗普：Visa(V.N)推出（特朗普）账户现金返还奖励平台。呼吁企业提供账户匹配服务。",
           "url": "https://flash.jin10.com/detail/20260129004929218800",
           "source": "金十数据",
@@ -160,18 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 16时37分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -422,6 +422,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
           "url": "https://wallstreetcn.com/livenews/3045847",
           "source": "华尔街见闻-快讯",
@@ -455,6 +466,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美国国务卿鲁比奥：本周末在阿布扎比举行的乌克兰会谈中可能会有美国代表出席，但不会是美国总统特使威特科夫和特朗普女婿库什纳。",
           "url": "https://flash.jin10.com/detail/20260129015012105800",
           "source": "金十数据",
@@ -475,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
@@ -794,7 +827,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -802,7 +835,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -933,6 +966,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171935659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050547411800",
           "source": "金十数据",
@@ -953,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "IBM(IBM.N)美股盘前上涨7.9%，其第四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171701650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
@@ -986,6 +1041,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -1068,8 +1145,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 16时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 17时40分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1081,6 +1158,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时25分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时40分]"
         },
         {
           "title": "金价波动",
@@ -1106,20 +1198,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时24分 ~ 09时51分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时37分]"
         },
         {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
@@ -1192,7 +1270,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -1229,6 +1307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -1257,6 +1346,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
