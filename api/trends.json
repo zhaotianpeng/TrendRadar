@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T17:37:15.835981+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-01-30T18:32:15.060746+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时44分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时44分 ~ 18时32分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -34,6 +34,17 @@
           "time_info": "[12时08分 ~ 17时37分]"
         },
         {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 18时32分]"
+        },
+        {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
           "source": "澎湃新闻",
@@ -46,6 +57,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时51分 ~ 18时32分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -71,26 +94,18 @@
           "time_info": "[09时51分 ~ 17时37分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 17时37分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            18,
+            17,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时37分]"
+          "time_info": "[14时44分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
@@ -102,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 18时32分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -137,19 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 17时37分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -208,18 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时29分]"
-        },
-        {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时37分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -343,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普将公布美联储下任主席提名",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
@@ -520,6 +534,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "250年来之大变局：2026年美国人口或迎首降 特朗普加速人口拐点",
+          "url": "https://flash.jin10.com/detail/20260130180829382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -579,17 +604,6 @@
           "time_info": "[02时41分 ~ 03时29分]"
         },
         {
-          "title": "特朗普将公布美联储下任主席提名",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
-        },
-        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
@@ -602,6 +616,17 @@
           "time_info": "[02时41分 ~ 03时29分]"
         },
         {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
           "url": "https://wallstreetcn.com/livenews/3046629",
           "source": "华尔街见闻-快讯",
@@ -612,6 +637,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时29分]"
+        },
+        {
+          "title": "克里姆林宫：特朗普亲自请求普京在2月前暂停对基辅的打击，以创造有利的谈判条件。",
+          "url": "https://flash.jin10.com/detail/20260130180045526800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（就停止对能源目标的打击表示）这是我们的倡议，也是特朗普总统的个人倡议，我们认为这是一个机会，而不是一项协议。",
@@ -1068,7 +1104,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -1167,6 +1203,34 @@
           "time_info": "[00时41分 ~ 07时25分]"
         },
         {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时44分 ~ 18时32分]"
+        },
+        {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时32分]"
+        },
+        {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
           "url": "https://www.zhihu.com/question/2000353838817882383",
           "source": "知乎",
@@ -1193,6 +1257,17 @@
           "time_info": "[00时41分 ~ 07时25分]"
         },
         {
+          "title": "贵金属集体回调 分析师称金价可能继续下探，白银投机过热",
+          "url": "https://flash.jin10.com/detail/20260130182057635800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
           "url": "https://wallstreetcn.com/articles/3764541",
           "source": "华尔街见闻",
@@ -1205,30 +1280,15 @@
           "time_info": "[16时35分 ~ 17时37分]"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
+          "title": "聚焦新美联储主席，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            21,
-            24
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 17时37分]"
-        },
-        {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 17时37分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "今日金价",
@@ -1259,6 +1319,17 @@
           "time_info": "[12时08分 ~ 15时39分]"
         },
         {
+          "title": "金价有望涨至8500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "金价急涨后现调整压力 经济学家称回调属牛市常态",
           "url": "https://flash.jin10.com/detail/20260130160751267800",
           "source": "金十数据",
@@ -1279,6 +1350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "金价史诗级大幅震荡",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E5%B9%85%E9%9C%87%E8%8D%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -1339,7 +1421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗随时准备“扣动扳机”",
@@ -1370,6 +1452,21 @@
           "time_info": "[00时41分 ~ 07时25分]"
         },
         {
+          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时44分 ~ 18时32分]"
+        },
+        {
           "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
           "url": "https://www.cls.cn/detail/2274975",
           "source": "财联社热门",
@@ -1382,20 +1479,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 16时36分]"
-        },
-        {
-          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 17时37分]"
         },
         {
           "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
@@ -1482,6 +1565,17 @@
           "time_info": "[16时35分 ~ 16时36分]"
         },
         {
+          "title": "据伊朗外交部：伊朗外交部长会见了土耳其外交部长。",
+          "url": "https://flash.jin10.com/detail/20260130181222913800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "土耳其总统府：土耳其总统埃尔多安在通话中告知伊朗总统佩泽希齐扬，土耳其已准备好在伊美之间发挥调解作用，以缓解紧张局势。",
           "url": "https://flash.jin10.com/detail/20260130172020707800",
           "source": "金十数据",
@@ -1503,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时25分]"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
@@ -1606,8 +1711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时51分 ~ 18时32分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -1765,7 +1870,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1847,6 +1952,56 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260130061735359800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
+          "url": "https://wallstreetcn.com/livenews/3046676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美元指数短线持续走高，日内涨幅达0.6%，现报96.7。",
+          "url": "https://wallstreetcn.com/livenews/3047254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "美元指数上涨0.25%，报96.44。",
+          "url": "https://wallstreetcn.com/livenews/3046827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1885,45 +2040,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数29日下跌",
-          "url": "https://flash.jin10.com/detail/20260130061735359800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
-          "url": "https://wallstreetcn.com/livenews/3046676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美元指数上涨0.25%，报96.44。",
-          "url": "https://wallstreetcn.com/livenews/3046827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     },
