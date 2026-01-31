@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T20:42:13.018178+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-31T21:40:17.260301+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时37分 ~ 20时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时37分 ~ 21时40分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时37分 ~ 20时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时37分 ~ 21时40分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时46分 ~ 21时40分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -100,6 +100,20 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 21时40分]"
+        },
+        {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
           "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
@@ -109,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时04分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时40分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -210,8 +224,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时23分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[06时23分 ~ 21时40分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -255,18 +269,17 @@
           "time_info": "[00时37分 ~ 05时27分]"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            8,
-            7,
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时36分 ~ 20时42分]"
+          "time_info": "[16时28分 ~ 21时40分]"
         },
         {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
@@ -322,19 +335,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时04分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 20时42分]"
         },
         {
           "title": "特朗普驱赶ABC记者",
@@ -423,6 +423,19 @@
           "time_info": "[09时46分 ~ 13时38分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
+          "url": "https://flash.jin10.com/detail/20260131184250363800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时40分]"
+        },
+        {
           "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
           "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
           "source": "澎湃新闻",
@@ -434,6 +447,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时27分 ~ 19时19分]"
+        },
+        {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时40分]"
         },
         {
           "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
@@ -498,29 +522,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
-          "url": "https://flash.jin10.com/detail/20260131184250363800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时42分]"
-        },
-        {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时42分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -764,7 +765,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国宣布对伊朗最新制裁措施",
@@ -804,6 +805,17 @@
           "time_info": "[06时23分 ~ 18时22分]"
         },
         {
+          "title": "伊朗阿巴斯港居民楼传出爆炸声",
+          "url": "https://www.douyin.com/hot/2385538",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 21时40分]"
+        },
+        {
           "title": "曝伊朗4万吨“航母”出动",
           "url": "https://www.toutiao.com/trending/7601069328506555931/",
           "source": "今日头条",
@@ -817,39 +829,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 06时23分]"
-        },
-        {
-          "title": "伊朗阿巴斯港一楼房发生爆炸",
-          "url": "https://www.toutiao.com/trending/7600746871209508918/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "市场消息：伊朗南部阿巴斯港发生爆炸，伊朗媒体否认革命卫队指挥官是袭击目标的报道。",
-          "url": "https://flash.jin10.com/detail/20260131195604523800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "伊朗阿巴斯港居民楼传出爆炸声",
-          "url": "https://www.douyin.com/hot/2385538",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
@@ -866,6 +845,30 @@
           "time_info": "[17时26分 ~ 20时42分]"
         },
         {
+          "title": "伊朗阿巴斯港一楼房发生爆炸",
+          "url": "https://www.toutiao.com/trending/7600746871209508918/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 21时40分]"
+        },
+        {
+          "title": "市场消息：伊朗南部阿巴斯港发生爆炸，伊朗媒体否认革命卫队指挥官是袭击目标的报道。",
+          "url": "https://flash.jin10.com/detail/20260131195604523800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
           "url": "https://wallstreetcn.com/livenews/3047663",
           "source": "华尔街见闻-快讯",
@@ -878,6 +881,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时26分 ~ 20时42分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队表示，有关伊斯兰革命卫队海军司令唐西里遇刺的传言不实。",
+          "url": "https://flash.jin10.com/detail/20260131204304596800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "伊朗总统：敌对势力企图将伊朗社会抗议演变为内战",
@@ -895,37 +909,26 @@
           "time_info": "[14时36分 ~ 18时22分]"
         },
         {
-          "title": "伊朗南部一居民楼爆炸 伊媒否认高级指挥官遇刺",
-          "url": "https://wallstreetcn.com/livenews/3047692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "伊朗阿巴斯港一楼房发生爆炸",
-          "url": "https://wallstreetcn.com/livenews/3047691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社1月31日报道，伊朗阿巴斯港一栋居民楼传出爆炸声。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3047690",
+          "title": "伊朗阿巴斯港一楼房发生爆炸 约10人受伤",
+          "url": "https://wallstreetcn.com/livenews/3047696",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "21时40分"
+        },
+        {
+          "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
+          "url": "https://wallstreetcn.com/livenews/3047695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
@@ -955,16 +958,53 @@
           "time_info": "[12时04分 ~ 15时27分]"
         },
         {
+          "title": "伊朗南部一居民楼爆炸 伊媒否认高级指挥官遇刺",
+          "url": "https://wallstreetcn.com/livenews/3047692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗总统谴责美以欧煽动仇恨",
           "url": "https://wallstreetcn.com/livenews/3047682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗阿巴斯港一楼房发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3047691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时42分]"
+          "time_info": "[20时42分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社1月31日报道，伊朗阿巴斯港一栋居民楼传出爆炸声。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3047690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时40分]"
         },
         {
           "title": "普京会见伊朗最高领袖顾问拉里贾尼",
@@ -991,6 +1031,17 @@
           "time_info": "[00时37分 ~ 03时31分]"
         },
         {
+          "title": "伊朗阿巴斯港一楼房发生爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E4%B8%80%E6%A5%BC%E6%88%BF%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗最高领袖顾问：将适时发动打击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A1%BE%E9%97%AE%EF%BC%9A%E5%B0%86%E9%80%82%E6%97%B6%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -1003,15 +1054,59 @@
           "time_info": "[09时46分 ~ 12时04分]"
         },
         {
-          "title": "伊朗阿巴斯港一楼房发生爆炸",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E4%B8%80%E6%A5%BC%E6%88%BF%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
+          "title": "伊朗革命卫队否认海军司令遇刺",
+          "url": "https://www.toutiao.com/trending/7601495768725196351/",
+          "source": "今日头条",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗革命卫队否认海军司令遇刺",
+          "url": "https://news.ifeng.com/c/8qN15z3Zel3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
+          "url": "https://flash.jin10.com/detail/20260131202814758800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗南部一栋楼房发生爆炸，伊方否认革命卫队指挥官遭袭传闻",
+          "url": "https://flash.jin10.com/detail/20260131201106829800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "伊朗最高领袖顾问：欧盟国家军队将被视为恐怖组织",
@@ -1024,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时32分]"
+        },
+        {
+          "title": "伊朗阿巴斯港一栋居民楼传出爆炸声",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E4%B8%80%E6%A0%8B%E5%B1%85%E6%B0%91%E6%A5%BC%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "伊朗最高领袖顾问称掌握敌方作战计划",
@@ -1173,8 +1279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时23分 ~ 20时42分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 21时40分]"
         },
         {
           "title": "金价",
@@ -1270,6 +1376,19 @@
           "time_info": "[12时04分 ~ 14时36分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时40分]"
+        },
+        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://flash.jin10.com/detail/20260131084457932800",
           "source": "金十数据",
@@ -1315,18 +1434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -1375,8 +1482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时46分 ~ 21时40分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -1409,11 +1516,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时46分 ~ 21时40分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -1491,6 +1599,97 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
+          "url": "https://www.zhihu.com/question/2000516785095537569",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 14时36分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时40分]"
+        },
+        {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 15时27分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1508,6 +1707,19 @@
           "time_info": "[03时31分 ~ 09时47分]"
         },
         {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时40分]"
+        },
+        {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
@@ -1519,18 +1731,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时32分 ~ 06时23分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时42分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -1597,52 +1797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 14时36分]"
-        },
-        {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时42分]"
-        },
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时27分]"
         }
       ]
     },
