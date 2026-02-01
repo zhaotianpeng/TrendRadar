@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-02-01T07:20:59.072776+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-01T10:06:16.258327+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
           "url": "https://flash.jin10.com/detail/20260131223828463800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "伊朗方面否认大不里士市发生爆炸事件",
           "url": "https://flash.jin10.com/detail/20260131223631658800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸 已致1死14伤",
           "url": "https://flash.jin10.com/detail/20260131214905989800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "伊朗阿巴斯港楼房爆炸致1死14伤",
@@ -49,27 +52,62 @@
             13,
             10,
             12,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
+          "url": "https://wallstreetcn.com/livenews/3047713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            9,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗方面否认大不里士市发生爆炸事件",
+          "url": "https://wallstreetcn.com/livenews/3047711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            10,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时06分]"
+        },
+        {
+          "title": "以色列官员否认以方与伊朗多地爆炸事件有关",
+          "url": "https://wallstreetcn.com/livenews/3047709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            11,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "伊朗军方表示已完成备战随时待发",
           "url": "https://www.toutiao.com/trending/7601041740380340270/",
           "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
-          "url": "https://flash.jin10.com/detail/20260131214310942800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
@@ -89,20 +127,6 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
-          "url": "https://wallstreetcn.com/livenews/3047713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -116,32 +140,16 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "伊朗方面否认大不里士市发生爆炸事件",
-          "url": "https://wallstreetcn.com/livenews/3047711",
-          "source": "华尔街见闻-快讯",
+          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260131214310942800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3,
-            10,
-            12
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "以色列官员否认以方与伊朗多地爆炸事件有关",
-          "url": "https://wallstreetcn.com/livenews/3047709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "伊朗南呼罗珊省逮捕百余名参与骚乱主要成员",
@@ -277,6 +285,39 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "卡塔尔首相访问伊朗表态支持和平解决分歧",
+          "url": "https://flash.jin10.com/detail/20260201093825094800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
+          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗外长称美国干涉其军演做法“荒谬”",
+          "url": "https://flash.jin10.com/detail/20260201093135473800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
           "url": "https://wallstreetcn.com/livenews/3047691",
           "source": "华尔街见闻-快讯",
@@ -314,6 +355,19 @@
           "time_info": "00时25分"
         },
         {
+          "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
+          "url": "https://wallstreetcn.com/livenews/3047721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 10时06分]"
+        },
+        {
           "title": "伊朗总统谴责美以欧煽动仇恨",
           "url": "https://wallstreetcn.com/livenews/3047682",
           "source": "华尔街见闻-快讯",
@@ -325,16 +379,26 @@
           "time_info": "[00时25分 ~ 03时20分]"
         },
         {
-          "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
-          "url": "https://wallstreetcn.com/livenews/3047721",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "市场消息：美国驻以色列大使表示，美方尚未作出对伊朗发动打击的决定。",
+          "url": "https://flash.jin10.com/detail/20260201081524917800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "凤凰记者连线：伊朗一居民楼爆炸，革命卫队否认海军司令遇刺",
@@ -343,7 +407,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -351,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -362,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -396,8 +460,34 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "time_info": "[02时29分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
+          "url": "https://wallstreetcn.com/livenews/3047706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            14,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -412,52 +502,17 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
-          "url": "https://wallstreetcn.com/livenews/3047706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
           "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3047717",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 10时06分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -471,6 +526,18 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
+          "url": "https://wallstreetcn.com/livenews/3047726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 10时06分]"
+        },
+        {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
           "url": "https://wallstreetcn.com/articles/3764621",
           "source": "华尔街见闻",
@@ -481,12 +548,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普称正与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260201082730474800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普称美伊正谈判",
+          "url": "https://wallstreetcn.com/livenews/3047731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -494,11 +583,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -509,8 +599,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         },
         {
           "title": "金价波动",
@@ -585,6 +675,17 @@
           "time_info": "[01时22分 ~ 04时23分]"
         },
         {
+          "title": "金价大跌 男子斥资20多万买入200克",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
           "title": "国际金价银价继续大幅下跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
           "source": "澎湃新闻",
@@ -595,12 +696,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
+        },
+        {
+          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "金价爆跌有柜姐放话退货扣500无效",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%88%86%E8%B7%8C%E6%9C%89%E6%9F%9C%E5%A7%90%E6%94%BE%E8%AF%9D%E9%80%80%E8%B4%A7%E6%89%A3500%E6%97%A0%E6%95%88%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -636,6 +759,19 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时23分 ~ 10时06分]"
+        },
+        {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
@@ -650,15 +786,15 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时23分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     },
@@ -677,8 +813,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 10时06分]"
         }
       ]
     },
