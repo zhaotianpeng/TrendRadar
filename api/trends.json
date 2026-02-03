@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T04:34:15.612583+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-04T05:33:15.400240+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -16,41 +16,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
           "url": "https://flash.jin10.com/detail/20260204043037843800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "伊朗方面表示，已就未来几天与美国举行谈判作出安排。",
           "url": "https://flash.jin10.com/detail/20260204042724195800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "据伊朗努尔新闻：伊朗外交部发言人表示，关于与美国举行会谈地点的磋商正在进行中。",
           "url": "https://flash.jin10.com/detail/20260204042209933800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -74,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时54分]"
+        },
+        {
+          "title": "持续超3小时 以总理与美特使会晤讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260204041251994800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "伊朗外交部：交谈还强调了继续磋商、加强双边关系以及在维护地区安全与稳定方面开展联合合作的重要性。",
@@ -109,17 +124,6 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "持续超3小时 以总理与美特使会晤讨论伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260204041251994800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
-        },
-        {
           "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
           "url": "https://wallstreetcn.com/livenews/3049269",
           "source": "华尔街见闻-快讯",
@@ -144,6 +148,28 @@
           "time_info": "[02时54分 ~ 03时56分]"
         },
         {
+          "title": "伊朗方面表示，土耳其、阿曼以及该地区其他几个国家都已表示愿意主办会谈。",
+          "url": "https://flash.jin10.com/detail/20260204043326726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗方面表示，美伊会谈的地点和时间并非复杂问题，不应被用作媒体炒作的借口。",
+          "url": "https://flash.jin10.com/detail/20260204043112965800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
           "url": "https://flash.jin10.com/detail/20260204035046770800",
           "source": "金十数据",
@@ -164,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 04时34分]"
+        },
+        {
+          "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
+          "url": "https://wallstreetcn.com/livenews/3049333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "白宫新闻秘书：美国特使威特科夫决心探索与伊朗的外交途径。",
@@ -241,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗外交部称正在磋商与美国谈判地点",
+          "url": "https://wallstreetcn.com/livenews/3049319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "消息人士：伊朗希望改变与美国进行核谈判的地点和形式",
@@ -345,7 +393,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -355,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -366,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -377,19 +425,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
-          "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
-          "url": "https://flash.jin10.com/detail/20260204042744936800",
+          "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
+          "url": "https://flash.jin10.com/detail/20260204045944147800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -403,15 +451,39 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
+          "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
+          "url": "https://flash.jin10.com/detail/20260204042744936800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
+        },
+        {
+          "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260204045437679800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
           "url": "https://flash.jin10.com/detail/20260204042328878800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -439,6 +511,18 @@
           "time_info": "[03时56分 ~ 04时34分]"
         },
         {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -448,6 +532,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 01时52分]"
+        },
+        {
+          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
+          "url": "https://flash.jin10.com/detail/20260204045232753800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
+          "url": "https://flash.jin10.com/detail/20260204044913626800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
@@ -462,6 +568,17 @@
           "time_info": "[02时54分 ~ 03时56分]"
         },
         {
+          "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
+          "url": "https://flash.jin10.com/detail/20260204043659433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
@@ -474,15 +591,15 @@
           "time_info": "[03时56分 ~ 04时34分]"
         },
         {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "哥伦比亚总统佩特罗：已请求美国总统特朗普协助抓捕居住在海外的主要毒枭。",
+          "url": "https://flash.jin10.com/detail/20260204043326044800",
+          "source": "金十数据",
           "ranks": [
-            29
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -518,6 +635,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
+          "url": "https://wallstreetcn.com/livenews/3049331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
           "url": "https://flash.jin10.com/detail/20260204021331387800",
           "source": "金十数据",
@@ -551,6 +679,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "诉状称：“特朗普金卡”计划为非法的“权钱交易”计划",
+          "url": "https://wallstreetcn.com/livenews/3049312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
           "url": "https://wallstreetcn.com/livenews/3049198",
           "source": "华尔街见闻-快讯",
@@ -576,7 +715,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -611,6 +750,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 04时34分]"
+        },
+        {
+          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
+          "url": "https://wallstreetcn.com/livenews/3049302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时33分]"
+        },
+        {
+          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
+          "url": "https://flash.jin10.com/detail/20260204044011737800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
+          "url": "https://flash.jin10.com/detail/20260204043502987800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
@@ -658,17 +831,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
-          "url": "https://wallstreetcn.com/livenews/3049302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
           "url": "https://wallstreetcn.com/articles/3764782",
           "source": "华尔街见闻",
@@ -678,6 +840,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "OpenAI：ChatGPT当前存在一些问题。",
+          "url": "https://wallstreetcn.com/livenews/3049318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3049313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -705,7 +889,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -715,8 +899,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -726,19 +910,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
+        },
+        {
+          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3049338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3049337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -751,6 +958,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时34分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3049330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -773,12 +1002,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -789,8 +1029,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -802,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260204045424029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -843,8 +1094,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "金价波动",
@@ -857,8 +1108,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时33分]"
         }
       ]
     },
@@ -871,11 +1122,12 @@
           "url": "https://wallstreetcn.com/livenews/3049309",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时33分]"
         }
       ]
     },
@@ -888,11 +1140,12 @@
           "url": "https://wallstreetcn.com/livenews/3049308",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时33分]"
         }
       ]
     }
