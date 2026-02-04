@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:03:05.944235+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2026-02-04T23:41:00.452144+08:00",
+  "total_titles_processed": 2113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -98,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时41分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -109,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时41分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -120,8 +120,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时41分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -360,6 +371,17 @@
           "time_info": "[05时32分 ~ 05时33分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
           "url": "https://flash.jin10.com/detail/20260204044913626800",
           "source": "金十数据",
@@ -429,6 +451,17 @@
           "time_info": "[05时32分 ~ 05时33分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
           "source": "澎湃新闻",
@@ -438,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -600,7 +644,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -726,6 +770,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "特朗普回应爱泼斯坦案：我是清白的",
           "url": "https://www.toutiao.com/trending/7602412254818140203/",
           "source": "今日头条",
@@ -795,8 +850,36 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 23时41分]"
+        },
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时32分 ~ 23时41分]"
+        },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
@@ -826,31 +909,17 @@
           "time_info": "[13时46分 ~ 22时03分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            7,
-            5,
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 22时03分]"
-        },
-        {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 22时03分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 23时41分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -890,19 +959,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 05时33分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 22时03分]"
         },
         {
           "title": "据伊朗努尔新闻：伊朗外交部发言人表示，关于与美国举行会谈地点的磋商正在进行中。",
@@ -1113,6 +1169,17 @@
           "time_info": "[05时32分 ~ 05时33分]"
         },
         {
+          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
           "url": "https://flash.jin10.com/detail/20260204035046770800",
           "source": "金十数据",
@@ -1157,6 +1224,17 @@
           "time_info": "[22时02分 ~ 22时03分]"
         },
         {
+          "title": "海湾国家官员表示，正在讨论的谈判机制旨在让多个国家协助斡旋伊朗与美国之间的谈判。",
+          "url": "https://flash.jin10.com/detail/20260204232324506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "白宫新闻秘书：美国特使威特科夫决心探索与伊朗的外交途径。",
           "url": "https://flash.jin10.com/detail/20260204022340212800",
           "source": "金十数据",
@@ -1174,7 +1252,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1391,7 +1469,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1413,8 +1491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时27分 ~ 22时03分]"
+          "appearance_count": 17,
+          "time_info": "[07时27分 ~ 23时41分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1425,8 +1503,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 22时03分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 23时41分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1449,8 +1527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时46分 ~ 22时03分]"
+          "appearance_count": 14,
+          "time_info": "[13时46分 ~ 23时41分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -1462,8 +1540,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时46分 ~ 22时03分]"
+          "appearance_count": 14,
+          "time_info": "[13时46分 ~ 23时41分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1562,6 +1640,18 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时41分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
           "url": "https://wallstreetcn.com/livenews/3049350",
           "source": "华尔街见闻-快讯",
@@ -1610,17 +1700,6 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3049320",
           "source": "华尔街见闻-快讯",
@@ -1631,6 +1710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "美股走低纳指一度下跌1% 软件股继续承压",
+          "url": "https://flash.jin10.com/detail/20260204232138533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
@@ -1730,6 +1820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
