@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:34:58.536764+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-05T20:57:40.532323+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时44分 ~ 19时34分]"
+          "appearance_count": 24,
+          "time_info": "[00时44分 ~ 20时57分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时44分 ~ 19时34分]"
+          "appearance_count": 23,
+          "time_info": "[01时44分 ~ 20时57分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -365,6 +365,17 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -409,6 +420,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -426,9 +448,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
@@ -456,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -494,8 +527,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 20时57分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -508,8 +541,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时57分]"
         },
         {
           "title": "伊朗扣押两艘燃油走私船",
@@ -518,7 +551,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -777,7 +810,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -799,7 +832,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -824,12 +857,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "伊朗扣押两艘走私船 查获100万升燃油",
+          "url": "https://wallstreetcn.com/livenews/3050653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1082,6 +1126,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
           "url": "https://wallstreetcn.com/livenews/3050099",
           "source": "华尔街见闻-快讯",
@@ -1129,8 +1184,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 20时57分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -1163,11 +1218,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 20时57分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1398,59 +1454,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
-          "url": "https://wallstreetcn.com/livenews/3050619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时38分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
-          "url": "https://flash.jin10.com/detail/20260205141144762800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1488,6 +1493,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "摩根大通：预计今年官方净购金量将达到800吨，仍比2022年前高出70%。 今年央行和投资者的需求足以最终在2026年底将金价推高至每盎司6300美元。 预计近期银价有更高的底部（未来几个季度约为每盎司75-80美元）。 到明年初，银价最终将平均回升至每盎司90美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3050662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "摩根大通表示，今年来自各国央行和投资者的需求足以在2026年底将金价最终推高至每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260205202220477800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时38分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
+          "url": "https://flash.jin10.com/detail/20260205141144762800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -1534,8 +1612,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 20时57分]"
         }
       ]
     },
