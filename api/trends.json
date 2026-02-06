@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:21:53.499910+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-07T07:24:21.972891+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "伊朗就美伊核谈判发表声明",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时46分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时46分 ~ 07时24分]"
         },
         {
           "title": "罕见！伊朗强硬派对美伊谈判态度克制",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时46分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时46分 ~ 07时24分]"
         },
         {
           "title": "美财长承认在伊朗制造美元短缺",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -71,11 +71,12 @@
             30,
             25,
             17,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 07时24分]"
         },
         {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
@@ -306,18 +307,6 @@
       "match_count": 23,
       "titles": [
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
-        },
-        {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
           "source": "凤凰网",
@@ -326,8 +315,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -336,11 +338,12 @@
           "ranks": [
             10,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -351,8 +354,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时37分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 07时24分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -366,6 +369,32 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时46分 ~ 07时24分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 07时24分]"
+        },
+        {
           "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
           "url": "https://flash.jin10.com/detail/20260207010853247800",
           "source": "金十数据",
@@ -377,31 +406,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时46分 ~ 06时21分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
-          "url": "https://flash.jin10.com/detail/20260207024944141800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时37分 ~ 06时21分]"
-        },
-        {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
           "url": "https://flash.jin10.com/detail/20260207010541292800",
           "source": "金十数据",
@@ -411,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 07时24分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -448,17 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时46分]"
-        },
-        {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 06时21分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -513,6 +517,18 @@
           "time_info": "[02时46分 ~ 04时31分]"
         },
         {
+          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3051632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
           "url": "https://wallstreetcn.com/livenews/3051562",
           "source": "华尔街见闻-快讯",
@@ -535,17 +551,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时40分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3051632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -584,7 +589,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -595,8 +600,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时24分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -621,15 +626,15 @@
           "time_info": "[04时31分 ~ 06时21分]"
         },
         {
-          "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
-          "url": "https://wallstreetcn.com/livenews/3051636",
-          "source": "华尔街见闻-快讯",
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时24分"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -643,16 +648,29 @@
           "time_info": "[00时41分 ~ 03时37分]"
         },
         {
+          "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
+          "url": "https://wallstreetcn.com/livenews/3051636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
           "url": "https://wallstreetcn.com/livenews/3051616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时24分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -671,11 +689,23 @@
           "url": "https://wallstreetcn.com/livenews/3051627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时24分"
         },
         {
           "title": "美股延续涨势，纳指上涨2.00%。",
@@ -809,8 +839,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 07时24分]"
         },
         {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
@@ -831,8 +861,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 07时24分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -902,25 +932,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260207032258342800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -932,6 +945,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 06时21分]"
+        },
+        {
+          "title": "两年期美债收益率周五涨4.7个基点，本周累计跌幅收窄至不足2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3051646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 07时24分]"
         }
       ]
     }
