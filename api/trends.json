@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:14:31.894621+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-06T13:52:47.862613+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时52分]"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时14分]"
+          "time_info": "[12时14分 ~ 13时52分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "日本大选前，特朗普发文支持高市",
-          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -149,6 +149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时52分]"
         },
         {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
@@ -289,17 +301,6 @@
           "time_info": "[02时44分 ~ 02时45分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -328,7 +329,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -413,7 +414,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -473,6 +474,29 @@
           "time_info": "[02时44分 ~ 02时45分]"
         },
         {
+          "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
+          "url": "https://flash.jin10.com/detail/20260206130935729800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时52分]"
+        },
+        {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
           "url": "https://wallstreetcn.com/livenews/3050838",
           "source": "华尔街见闻-快讯",
@@ -510,6 +534,29 @@
           "time_info": "[03时36分 ~ 04时31分]"
         },
         {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时52分]"
+        },
+        {
           "title": "据伊朗Press TV：伊朗最先进的远程弹道导弹之一——“霍拉姆沙赫尔-4”导弹已部署至地下导弹城。该导弹的射程为2000公里，可携带1500公斤的弹头。",
           "url": "https://flash.jin10.com/detail/20260206033356013800",
           "source": "金十数据",
@@ -534,15 +581,15 @@
           "time_info": "[06时25分 ~ 07时22分]"
         },
         {
-          "title": "美国伊朗谈判今日举行",
-          "url": "https://www.douyin.com/hot/2391128",
-          "source": "抖音",
+          "title": "伊朗展示先进弹道导弹",
+          "url": "https://www.toutiao.com/trending/7602741866300293126/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时52分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -567,26 +614,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
+          "title": "伊朗军事战略转向主动威慑",
+          "url": "https://www.toutiao.com/trending/7603228774960037934/",
+          "source": "今日头条",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时52分"
         },
         {
           "title": "以总理称若遭伊朗攻击将对其“重击”",
@@ -595,7 +631,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -606,7 +642,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -685,6 +721,19 @@
           "time_info": "[00时44分 ~ 07时22分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 13时52分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -705,18 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 12时14分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -743,6 +780,19 @@
           "time_info": "[05时27分 ~ 06时25分]"
         },
         {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时52分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
@@ -755,27 +805,16 @@
           "time_info": "[06时25分 ~ 07时22分]"
         },
         {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时14分]"
-        },
-        {
           "title": "美股三大指数集体收跌",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时52分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -939,8 +978,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时52分]"
         }
       ]
     },
@@ -956,8 +995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时52分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
