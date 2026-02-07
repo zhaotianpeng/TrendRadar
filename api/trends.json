@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T22:25:07.051162+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-07T23:23:53.937568+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 22时25分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 23时23分]"
         },
         {
           "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时31分 ~ 22时25分]"
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 23时23分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -114,8 +114,33 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时49分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 23时23分]"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 23时23分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时23分]"
         },
         {
           "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
@@ -136,17 +161,6 @@
           "time_info": "[12时07分 ~ 20时43分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 22时25分]"
-        },
-        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
           "source": "澎湃新闻",
@@ -164,20 +178,6 @@
           "time_info": "[12时07分 ~ 19时20分]"
         },
         {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时25分]"
-        },
-        {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
           "url": "https://flash.jin10.com/detail/20260207030824403800",
           "source": "金十数据",
@@ -188,6 +188,36 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时37分 ~ 07时24分]"
+        },
+        {
+          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
+          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时23分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            16,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时23分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -218,32 +248,18 @@
           "time_info": "[12时07分 ~ 18时24分]"
         },
         {
-          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
-          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
           "ranks": [
-            1,
+            2,
             8,
-            14,
-            15
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时20分 ~ 22时25分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时20分 ~ 22时25分]"
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -286,19 +302,6 @@
           "time_info": "[02时46分 ~ 07时24分]"
         },
         {
-          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
-          "url": "https://flash.jin10.com/detail/20260207200111862800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时25分]"
-        },
-        {
           "title": "特朗普称下周将再次与伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3051664",
           "source": "华尔街见闻-快讯",
@@ -313,6 +316,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时50分 ~ 16时29分]"
+        },
+        {
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -352,17 +366,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时07分 ~ 17时29分]"
-        },
-        {
-          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
-          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时25分]"
         },
         {
           "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
@@ -522,6 +525,20 @@
           "time_info": "[09时50分 ~ 14时39分]"
         },
         {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
+        },
+        {
           "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
           "url": "https://flash.jin10.com/detail/20260207083916354800",
           "source": "金十数据",
@@ -619,19 +636,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时07分]"
-        },
-        {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
         },
         {
           "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
@@ -841,6 +845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普宣布取消对印度商品25%关税",
+          "url": "https://www.toutiao.com/trending/7603508009587326995/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
@@ -934,8 +949,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 22时25分]"
+          "appearance_count": 13,
+          "time_info": "[13时40分 ~ 23时23分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -943,11 +958,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[21时42分 ~ 23时23分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -963,6 +979,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时40分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260207195937294800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时23分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://flash.jin10.com/detail/20260207193925361800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "伊朗外长：下一轮核谈判日期未定，若遭美袭击将攻击美军基地",
@@ -992,17 +1036,18 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
-          "url": "https://flash.jin10.com/detail/20260207195937294800",
-          "source": "金十数据",
+          "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3051730",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             3,
-            9,
-            10
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "据AXIOS网站：伊朗外长阿拉格齐从阿曼动身前往卡塔尔，他将于周六在多哈会见卡塔尔首相兼外交大臣。",
@@ -1016,32 +1061,6 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://flash.jin10.com/detail/20260207193925361800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时25分]"
-        },
-        {
-          "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3051730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
-        },
-        {
           "title": "美伊核谈判“暂时”结束 伊朗外长离开阿曼首都",
           "url": "https://flash.jin10.com/detail/20260207010708593800",
           "source": "金十数据",
@@ -1051,17 +1070,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
-          "url": "https://wallstreetcn.com/livenews/3051736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "伊朗陆军司令说伊朗武装部队将坚决捍卫领土完整",
@@ -1075,6 +1083,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时40分]"
+        },
+        {
+          "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
+          "url": "https://wallstreetcn.com/livenews/3051736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时23分]"
+        },
+        {
+          "title": "伊朗外长为伊美谈判划定“红线”",
+          "url": "https://wallstreetcn.com/livenews/3051726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3051724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "伊朗外长：下一轮核谈判日期尚未确定",
@@ -1102,30 +1150,15 @@
           "time_info": "[00时41分 ~ 01时40分]"
         },
         {
-          "title": "伊朗外长为伊美谈判划定“红线”",
-          "url": "https://wallstreetcn.com/livenews/3051726",
-          "source": "华尔街见闻-快讯",
+          "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7,
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://wallstreetcn.com/livenews/3051724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
+          "time_info": "[22时24分 ~ 23时23分]"
         },
         {
           "title": "伊朗在谈判中表示绝不接受“零浓缩”",
@@ -1182,17 +1215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时40分]"
-        },
-        {
-          "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "美国国务院：确认14艘影子船队船只为参与运输伊朗石油及其他产品的实体所拥有。制裁15家从事伊朗原产原油、石油产品或石化产品贸易的实体及两名个人。",
@@ -1375,8 +1397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[07时24分 ~ 23时23分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -1387,11 +1409,12 @@
             3,
             2,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[07时24分 ~ 23时23分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -1408,8 +1431,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 22时25分]"
+          "appearance_count": 26,
+          "time_info": "[00时41分 ~ 23时23分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -1805,8 +1828,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时39分 ~ 22时25分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 23时23分]"
         }
       ]
     },
