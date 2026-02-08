@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-08T07:27:50.298077+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-08T10:23:30.678593+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
-          "url": "https://flash.jin10.com/detail/20260207232848013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时27分]"
-        },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
           "url": "https://www.toutiao.com/trending/7603508009587326995/",
@@ -39,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -55,15 +44,28 @@
           "time_info": "[00时27分 ~ 07时27分]"
         },
         {
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时23分]"
+        },
+        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -151,11 +153,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时25分 ~ 10时23分]"
         },
         {
           "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
@@ -179,17 +182,40 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时25分 ~ 10时23分]"
+        },
+        {
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
+          "url": "https://flash.jin10.com/detail/20260207233303917800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -209,11 +235,12 @@
           "url": "https://flash.jin10.com/detail/20260207210239858800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
@@ -246,11 +273,12 @@
             9,
             11,
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
@@ -261,11 +289,12 @@
             13,
             15,
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "伊朗外长为伊美谈判划定“红线”",
@@ -276,11 +305,12 @@
             17,
             19,
             20,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
@@ -298,6 +328,17 @@
           "time_info": "[00时27分 ~ 07时27分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
+          "url": "https://flash.jin10.com/detail/20260208094240359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
           "source": "澎湃新闻",
@@ -308,6 +349,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时25分]"
+        },
+        {
+          "title": "美特使登航母，与击落伊朗无人机飞行员交流",
+          "url": "https://news.ifeng.com/c/8qZP3seoZvF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
+          "url": "https://flash.jin10.com/detail/20260208081205961800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -334,8 +397,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时23分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -378,11 +441,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 10时23分]"
         }
       ]
     }
