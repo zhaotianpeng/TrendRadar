@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:29:32.251288+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-09T10:01:25.522708+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 10时01分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -171,11 +172,12 @@
           "ranks": [
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 10时01分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -215,8 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 10时01分]"
         }
       ]
     },
