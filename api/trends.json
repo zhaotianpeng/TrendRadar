@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:50:51.390948+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-02-09T23:54:50.820519+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -48,11 +48,12 @@
             14,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时33分 ~ 22时50分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 23时54分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -178,7 +179,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -281,15 +282,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "据Punchbowl：特朗普将在美国众议院共和党全国委员会（NRCC）的年度三月筹款活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260209225427013800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -335,7 +347,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -346,9 +358,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "美国海事局告知本国船只远离伊朗水域",
+          "url": "https://flash.jin10.com/detail/20260209231822175800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报64.21美元/桶。 墨西哥总统辛鲍姆称，墨方当前暂停对委内瑞拉供应石油。 美国海事局针对霍尔木兹海峡航运发布建议，宣称美国船舶应尽可能远离伊朗水域。",
+          "url": "https://wallstreetcn.com/livenews/3052409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "伊朗总统：伊朗接受平等互利的谈判",
@@ -357,7 +391,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -412,9 +446,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "美国海事局：美国船舶应尽可能远离伊朗水域。（据彭博社后续补充报道，美国海事局发布的关于霍尔木兹海峡航行警告是针对2月3日发生的一起事件，当时一艘悬挂美国旗帜的油轮在该海峡遭遇伊朗炮艇逼近。）",
+          "url": "https://flash.jin10.com/detail/20260209224746049800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
@@ -450,27 +495,29 @@
           "time_info": "[01时25分 ~ 07时29分]"
         },
         {
-          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3052393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2285010",
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时54分]"
+        },
+        {
+          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3052393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时54分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -536,7 +583,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -576,7 +623,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -598,7 +645,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -606,7 +653,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -619,6 +666,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时04分 ~ 22时50分]"
+        },
+        {
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
@@ -725,7 +783,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
