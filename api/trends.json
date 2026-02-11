@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:43:45.066433+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-02-11T21:05:03.821733+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 19时43分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 21时05分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -54,6 +54,17 @@
           "time_info": "[00时05分 ~ 07时37分]"
         },
         {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时05分]"
+        },
+        {
           "title": "外交部回应特朗普涉中加合作言论",
           "url": "https://news.ifeng.com/c/8qetZSIVPBA",
           "source": "凤凰网",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时52分 ~ 18时48分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时43分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -272,6 +272,18 @@
           "time_info": "[18时47分 ~ 19时43分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时05分]"
+        },
+        {
           "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
           "url": "https://news.ifeng.com/c/8qeou7377qN",
           "source": "凤凰网",
@@ -341,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时37分]"
+        },
+        {
+          "title": "释新闻｜特朗普威胁阻止一座美加跨境大桥开通，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582663",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
@@ -563,6 +586,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，此前报道称特朗普考虑退出美墨加协定。",
+          "url": "https://wallstreetcn.com/livenews/3053734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
           "url": "https://flash.jin10.com/detail/20260211023104811800",
           "source": "金十数据",
@@ -583,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
@@ -649,12 +672,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -666,8 +700,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 19时43分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 21时05分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -702,8 +736,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时43分]"
+          "appearance_count": 11,
+          "time_info": "[13时01分 ~ 21时05分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -731,6 +765,18 @@
           "time_info": "[07时37分 ~ 14时14分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时05分]"
+        },
+        {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3053282",
           "source": "华尔街见闻-快讯",
@@ -740,18 +786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时43分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -800,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
+        },
+        {
+          "title": "市场聚焦美国非农，美股指期货全线上扬，美元连跌四日，黄金突破5100美元大关，白银站上86美元",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -871,6 +916,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "T-Mobile第四季度总净新增用户244万，同比增长20%，市场预期199万。 第四季度每股收益1.88美元，去年同期2.57美元，市场预期2.03美元。 第四季度营收243.3亿美元，同比增长11%，市场预期242亿美元。 第四季度后付费净新增用户238万，同比增长23%，市场预期192万。 T-Mobile美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3053749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
           "url": "https://www.cls.cn/detail/2286766",
           "source": "财联社热门",
@@ -880,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3053732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
@@ -898,6 +965,28 @@
       "keyword_group": "伊朗",
       "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗总统：不寻求核武器 愿接受核查",
+          "url": "https://www.toutiao.com/trending/7604987910697287722/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时05分]"
+        },
+        {
+          "title": "伊朗总统致歉",
+          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时05分]"
+        },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖顾问沙姆哈尼表示，德黑兰的导弹能力是其红线。",
           "url": "https://flash.jin10.com/detail/20260211183009729800",
@@ -921,28 +1010,6 @@
           "time_info": "15时55分"
         },
         {
-          "title": "伊朗总统：不寻求核武器 愿接受核查",
-          "url": "https://www.toutiao.com/trending/7604987910697287722/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗总统致歉",
-          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
           "url": "https://wallstreetcn.com/livenews/3053534",
           "source": "华尔街见闻-快讯",
@@ -952,6 +1019,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时05分]"
         },
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -977,18 +1057,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
-        },
-        {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时43分]"
         },
         {
           "title": "伊朗军事实力如何",
@@ -1182,6 +1250,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时01分 ~ 21时05分]"
+        },
+        {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
@@ -1193,19 +1275,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时05分 ~ 10时06分]"
-        },
-        {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时43分]"
         },
         {
           "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
@@ -1396,18 +1465,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
           "url": "https://www.zhihu.com/question/2004971546536585165",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时05分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         }
       ]
     }
