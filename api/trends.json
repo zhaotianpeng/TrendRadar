@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:57:19.854782+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T03:02:02.686350+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -48,8 +48,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
+        },
+        {
+          "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
+          "url": "https://flash.jin10.com/detail/20260213024705661800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
+          "url": "https://flash.jin10.com/detail/20260213023947090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -58,9 +80,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -74,17 +107,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
-          "url": "https://wallstreetcn.com/livenews/3054656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
           "url": "https://wallstreetcn.com/livenews/3054633",
           "source": "华尔街见闻-快讯",
@@ -95,6 +117,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
+          "url": "https://flash.jin10.com/detail/20260213023327754800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "美国官员：特朗普将在和平委员会会议上就加沙国际维稳部队提供最新情况。",
+          "url": "https://flash.jin10.com/detail/20260213023307683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
+          "url": "https://flash.jin10.com/detail/20260213023254034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
@@ -147,7 +237,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -158,18 +248,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -191,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -208,9 +287,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时02分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -231,8 +310,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -241,7 +320,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -252,7 +331,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -274,7 +353,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -302,7 +381,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -325,7 +404,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -358,7 +437,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -374,11 +453,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -388,8 +468,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -397,17 +477,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -431,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -447,8 +539,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -457,7 +549,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -475,8 +567,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
