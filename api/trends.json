@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T15:33:30.887061+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-02-14T16:29:53.742416+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普将访问委内瑞拉",
@@ -53,6 +53,31 @@
           "time_info": "[04时36分 ~ 13时43分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
           "url": "https://flash.jin10.com/detail/20260214031056570800",
           "source": "金十数据",
@@ -75,18 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普：与伊朗一直很难达成协议。",
@@ -125,19 +138,6 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
@@ -148,6 +148,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时29分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时29分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -161,16 +185,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -208,18 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时39分 ~ 04时36分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时33分]"
         },
         {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
@@ -381,6 +392,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -587,17 +609,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
           "url": "https://flash.jin10.com/detail/20260214005844618800",
           "source": "金十数据",
@@ -783,6 +794,19 @@
           "time_info": "[00时43分 ~ 13时43分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 16时29分]"
+        },
+        {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
@@ -806,19 +830,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 15时33分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -984,7 +995,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -998,16 +1009,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
-          "url": "https://wallstreetcn.com/livenews/3055390",
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://wallstreetcn.com/livenews/3055478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -1018,8 +1028,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 16时29分]"
+        },
+        {
+          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
+          "url": "https://wallstreetcn.com/livenews/3055390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1081,6 +1103,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "Gemini是怎么绝地反杀的",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%9D%E5%9C%B0%E5%8F%8D%E6%9D%80%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "Gemini3深度思考模型重磅升级",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -1119,11 +1152,12 @@
             10,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 16时29分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -1134,8 +1168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时29分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -1146,19 +1180,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时33分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 16时29分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1166,7 +1189,19 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时29分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1186,6 +1221,82 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时33分]"
+        },
+        {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时29分]"
+        },
+        {
+          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "全球投资者为何不再“信仰”美债了",
+          "url": "https://www.toutiao.com/trending/7606539464474627647/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
@@ -1197,8 +1308,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时29分]"
         },
         {
           "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
@@ -1209,8 +1320,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时29分]"
         },
         {
           "title": "美方代表团将于17日与伊朗方面会晤",
@@ -1259,74 +1370,20 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时33分]"
-        },
-        {
-          "title": "中国持续减持美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7606523556855287338/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时33分]"
-        },
-        {
-          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
-          "url": "https://wallstreetcn.com/livenews/3055361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 07时29分]"
-        },
-        {
-          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
+          "time_info": "16时29分"
+        },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
           "url": "https://wallstreetcn.com/livenews/3055377",
