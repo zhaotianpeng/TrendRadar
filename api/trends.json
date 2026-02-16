@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:26:38.092638+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-02-17T07:28:14.716481+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "ranks": [
             1,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时28分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -137,6 +138,18 @@
           "time_info": "[03时31分 ~ 04时29分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 07时28分]"
+        },
+        {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时28分]"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         }
       ]
     },
@@ -279,6 +281,18 @@
           "time_info": "[00时40分 ~ 02时40分]"
         },
         {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 07时28分]"
+        },
+        {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
           "url": "https://flash.jin10.com/detail/20260217042820518800",
           "source": "金十数据",
@@ -301,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时40分]"
-        },
-        {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 03时32分]"
         }
       ]
     },
@@ -328,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -337,11 +340,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -361,11 +365,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         },
         {
           "title": "OpenAI：系统已恢复全面运作。",
@@ -374,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
@@ -393,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -407,8 +412,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -462,11 +467,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         }
       ]
     }
