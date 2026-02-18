@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:43:06.477981+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-18T19:37:41.379184+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -46,6 +46,17 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时37分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时20分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时43分]"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -146,17 +146,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
           "url": "https://flash.jin10.com/detail/20260218000855742800",
           "source": "金十数据",
@@ -204,6 +193,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时26分 ~ 15时12分]"
+        },
+        {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 19时37分]"
         },
         {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
@@ -255,6 +255,18 @@
           "time_info": "[03时20分 ~ 03时46分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时37分]"
+        },
+        {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
           "url": "https://flash.jin10.com/detail/20260218060047004800",
           "source": "金十数据",
@@ -301,17 +313,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 03时46分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时43分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -528,6 +529,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "市场消息：德国计划大幅扩展其外国情报机构的权力，担心特朗普可能会停止情报共享。",
+          "url": "https://flash.jin10.com/detail/20260218185830971800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
           "url": "https://flash.jin10.com/detail/20260218152713560800",
           "source": "金十数据",
@@ -548,12 +560,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218185306479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -627,11 +650,12 @@
             11,
             6,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 18时43分]"
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 19时37分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -642,8 +666,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 18时43分]"
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 19时37分]"
         },
         {
           "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
@@ -678,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
+          "url": "https://flash.jin10.com/detail/20260218192602169800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
@@ -934,8 +969,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 19时37分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -959,8 +994,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时55分 ~ 18时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 19时37分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -971,8 +1006,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 19时37分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -1046,6 +1081,18 @@
           "time_info": "[06时29分 ~ 07时27分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 19时37分]"
+        },
+        {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
           "url": "https://wallstreetcn.com/livenews/3056135",
           "source": "华尔街见闻-快讯",
@@ -1067,17 +1114,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时43分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[17时45分 ~ 18时43分]"
         },
         {
@@ -1176,7 +1212,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
@@ -1248,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 12时26分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
