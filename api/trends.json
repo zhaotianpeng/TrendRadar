@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T22:17:04.971691+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-02-24T23:56:24.567439+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -52,8 +52,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时51分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[17时51分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时56分]"
         },
         {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
@@ -65,18 +77,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时55分 ~ 15时04分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时44分 ~ 22时17分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -92,6 +92,22 @@
           "time_info": "[00时55分 ~ 09时55分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时51分 ~ 23时56分]"
+        },
+        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -103,6 +119,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时55分 ~ 15时04分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时56分]"
         },
         {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
@@ -118,33 +147,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时03分 ~ 21时01分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时51分 ~ 22时17分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时44分 ~ 22时17分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -561,6 +563,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260224233707666800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "报道：特朗普考虑对大约六个行业加征关税",
           "url": "https://wallstreetcn.com/livenews/3057690",
           "source": "华尔街见闻-快讯",
@@ -666,7 +679,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -743,7 +756,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -787,7 +800,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
@@ -795,7 +808,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -806,8 +819,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时55分 ~ 23时56分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -820,8 +833,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时55分 ~ 23时56分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -921,6 +934,17 @@
           "time_info": "21时01分"
         },
         {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
           "url": "https://wallstreetcn.com/livenews/3057665",
           "source": "华尔街见闻-快讯",
@@ -993,6 +1017,18 @@
           "time_info": "[04时49分 ~ 05时43分]"
         },
         {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时56分]"
+        },
+        {
           "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
@@ -1028,17 +1064,6 @@
           "time_info": "[05时43分 ~ 06时49分]"
         },
         {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-02-24）",
           "url": "https://flash.jin10.com/detail/20260224214157271800",
           "source": "金十数据",
@@ -1067,7 +1092,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1166,7 +1191,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1177,7 +1202,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
@@ -1185,7 +1210,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -1244,8 +1269,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时55分 ~ 22时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时55分 ~ 23时56分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1259,8 +1284,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时55分 ~ 23时56分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -1301,6 +1326,22 @@
           "time_info": "[00时55分 ~ 07时33分]"
         },
         {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9,
+            1,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时51分 ~ 23时56分]"
+        },
+        {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
           "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
           "source": "凤凰网",
@@ -1312,31 +1353,17 @@
           "time_info": "[00时55分 ~ 06时49分]"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9,
-            1,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时51分 ~ 22时17分]"
-        },
-        {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时45分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时45分 ~ 23时56分]"
         },
         {
           "title": "伊朗副总统表示，伊朗希望建立从克尔曼沙赫到伊拉克巴格达的货物运输走廊。",
@@ -1360,6 +1387,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时18分 ~ 15时04分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时56分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1442,17 +1481,6 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.toutiao.com/trending/7609535429876056107/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "伊朗：战争的后果将“波及整个地区”",
           "url": "https://www.toutiao.com/trending/7609899439436021823/",
           "source": "今日头条",
@@ -1517,6 +1545,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗副外长：德黑兰希望美方展现出同样达成核协议的意愿。",
+          "url": "https://flash.jin10.com/detail/20260224233124581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗副外长：德黑兰已准备好尽快与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260224232951446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗副外长：美国对伊朗发动打击是“一场真正的豪赌”。",
+          "url": "https://flash.jin10.com/detail/20260224232848284800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "黎巴嫩官员表示，黎巴嫩方面担心，如果与伊朗的局势进一步恶化，以色列可能会对该国的基础设施发动攻击。",
