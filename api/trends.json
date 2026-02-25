@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T21:59:04.924542+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-02-25T22:13:24.456725+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时13分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时13分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -104,6 +104,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时57分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时13分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -149,20 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时59分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -933,11 +933,12 @@
             2,
             5,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 22时13分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1075,6 +1076,18 @@
           "time_info": "[02时59分 ~ 04时39分]"
         },
         {
+          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
+          "url": "https://flash.jin10.com/detail/20260225212833464800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时13分]"
+        },
+        {
           "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
           "url": "https://news.ifeng.com/c/8r29cDgfx2m",
           "source": "凤凰网",
@@ -1109,17 +1122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时39分]"
-        },
-        {
-          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
-          "url": "https://flash.jin10.com/detail/20260225212833464800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
         },
         {
           "title": "德国外长：伊朗必须停止对哈马斯、真主党和胡塞武装的支持。",
@@ -1269,7 +1271,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1338,9 +1340,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时13分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
@@ -1352,6 +1354,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时13分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -1379,17 +1404,6 @@
           "time_info": "[15时29分 ~ 18时49分]"
         },
         {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
           "url": "https://wallstreetcn.com/livenews/3058780",
           "source": "华尔街见闻-快讯",
@@ -1400,6 +1414,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 18时49分]"
+        },
+        {
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时13分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -1455,17 +1480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
-          "url": "https://wallstreetcn.com/livenews/3058887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
@@ -1580,8 +1594,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时13分]"
         },
         {
           "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
