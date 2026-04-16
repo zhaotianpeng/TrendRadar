@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T13:30:10.206903+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-04-16T15:29:13.979870+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 93,
+      "match_count": 99,
       "titles": [
+        {
+          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
+        },
         {
           "title": "王毅同伊朗外长通电话",
           "url": "https://news.ifeng.com/c/8sLxzjzRcFi",
@@ -19,18 +30,15 @@
           "time_info": "[04时02分 ~ 07时40分]"
         },
         {
-          "title": "伊朗或用3种手段反制美军封锁",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%88%96%E7%94%A83%E7%A7%8D%E6%89%8B%E6%AE%B5%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81",
-          "source": "bilibili 热搜",
+          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
+          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            20,
-            25
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
@@ -43,8 +51,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时02分 ~ 13时30分]"
+          "appearance_count": 12,
+          "time_info": "[04时02分 ~ 15时29分]"
+        },
+        {
+          "title": "伊朗或用3种手段反制美军封锁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%88%96%E7%94%A83%E7%A7%8D%E6%89%8B%E6%AE%B5%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时29分]"
         },
         {
           "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
@@ -97,17 +120,6 @@
           "time_info": "[05时50分 ~ 07时40分]"
         },
         {
-          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
           "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
           "url": "https://www.zhihu.com/question/2027778593300719600",
           "source": "知乎",
@@ -117,17 +129,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时40分]"
-        },
-        {
-          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
-          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
         },
         {
           "title": "伊朗战争丨俄方：普京准备重新考虑接收伊朗浓缩铀",
@@ -216,6 +217,28 @@
           "time_info": "[01时01分 ~ 06时40分]"
         },
         {
+          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
+          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027874423894533456",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
+        },
+        {
           "title": "市场消息：伊朗外交部长阿拉格齐会见了巴基斯坦陆军参谋长穆尼尔。",
           "url": "https://flash.jin10.com/detail/20260416004827946800",
           "source": "金十数据",
@@ -225,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
+          "url": "https://news.ifeng.com/c/8sMc21c8jgR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "克里姆林宫：华盛顿拒绝了我们将伊朗浓缩铀转移到俄罗斯的提议。",
@@ -247,6 +281,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
+        },
+        {
+          "title": "那个打出6:0的元帅，去了伊朗",
+          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "美国财长贝森特：美国将不再续期允许购买俄罗斯和伊朗石油的许可证。",
@@ -407,39 +464,6 @@
           "time_info": "[05时50分 ~ 06时40分]"
         },
         {
-          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
-          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027874423894533456",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
-          "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
-          "url": "https://news.ifeng.com/c/8sMc21c8jgR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
           "title": "伊朗最高领导人推动将黎巴嫩纳入美伊和谈",
           "url": "https://wallstreetcn.com/livenews/3088800",
           "source": "华尔街见闻-快讯",
@@ -501,27 +525,16 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
+          "title": "伊朗：已做好打持久战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            11
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
-          "title": "那个打出6:0的元帅，去了伊朗",
-          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
+          "time_info": "[13时29分 ~ 15时29分]"
         },
         {
           "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
@@ -652,6 +665,17 @@
           "time_info": "[04时02分 ~ 04时03分]"
         },
         {
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        },
+        {
           "title": "伊朗国家媒体援引该国石化下游产业发展负责人发布的声明称，伊朗已暂停所有石化产品出口，直至另行通知。伊朗方面于4月6日表示，位于南帕尔斯地区的两座石化工厂设施遭到敌方空袭打击。",
           "url": "https://flash.jin10.com/detail/20260416003656847800",
           "source": "金十数据",
@@ -661,17 +685,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "伊朗：已做好打持久战准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "据半岛电视台：一名来自黎巴嫩的高层消息人士表示，伊朗以及其他参与伊斯兰堡谈判的各方曾试图将黎巴嫩纳入当前的停火协议之中。该消息人士认为，伊朗对霍尔木兹海峡的控制可能为其提供足够筹码，从而迫使以色列和美国同意在黎巴嫩实现停火。",
@@ -708,6 +721,17 @@
           "time_info": "[05时50分 ~ 06时40分]"
         },
         {
+          "title": "伊朗军方：伊朗武装力量当前处于高度戒备状态",
+          "url": "https://flash.jin10.com/detail/20260416150551083800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        },
+        {
           "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
           "url": "https://flash.jin10.com/detail/20260416030241536800",
           "source": "金十数据",
@@ -728,6 +752,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "伊朗首都突发炸弹袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E7%AA%81%E5%8F%91%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
           "title": "伊朗外交部发言人：伊美是否延长停火无法确认",
@@ -794,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "伊朗军方：伊朗武装力量当前处于高度戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3089088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
@@ -983,6 +1029,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "伊朗称将全力推进战后重建 指美国已成以色列“第七个行政区”",
+          "url": "https://wallstreetcn.com/livenews/3089073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "伊朗议长重申黎巴嫩必须纳入伊美停火协议",
           "url": "https://wallstreetcn.com/livenews/3088914",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "日经225指数收涨2.4%，报59,518.34点，创历史新高，抹去伊朗战争带来的跌幅。 日本东证指数收涨1.2%，报3,814.46点。 韩国首尔综指收涨2.2%，报6,226.05点。",
+          "url": "https://wallstreetcn.com/livenews/3089066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "【报道：伊朗将评估是否与美国举行下一轮谈判】伊朗塔斯尼姆通讯社15日援引知情人士消息报道，伊朗方面与巴基斯坦陆军参谋长穆尼尔率领的代表团举行会晤后，将进行必要评估再决定是否与美国开展下一轮谈判。 该知情人士说，在黎巴嫩实现停火对伊朗参与下一轮谈判会是一个积极信号。与此同时，美方必须坚持合理的谈判框架，不能提出过分要求或违反停火前所作承诺。 15日早些时候，巴基斯坦军方发布声明说，穆尼尔和巴基斯坦内政部长穆赫辛·纳克维当天率领巴代表团抵达伊朗首都德黑兰，继续推进斡旋美国和伊朗谈判。（新华社）",
@@ -1044,7 +1112,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -1074,7 +1142,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -1084,8 +1152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时30分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时29分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -1147,6 +1215,20 @@
           "time_info": "[01时01分 ~ 13时30分]"
         },
         {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
           "url": "https://www.cls.cn/detail/2345350",
           "source": "财联社热门",
@@ -1161,17 +1243,16 @@
           "time_info": "[01时01分 ~ 10时28分]"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -1188,18 +1269,6 @@
           "time_info": "[01时01分 ~ 10时28分]"
         },
         {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
-        },
-        {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
           "url": "https://www.cls.cn/detail/2344964",
           "source": "财联社热门",
@@ -1210,6 +1279,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
@@ -1223,6 +1304,17 @@
           "time_info": "[04时02分 ~ 04时03分]"
         },
         {
+          "title": "特朗普称将对购买伊朗石油的国家实施制裁，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3089097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "【白宫否认已请求延长美伊停火，强调巴基斯坦为唯一斡旋方】4月15日，美国白宫新闻秘书卡罗琳·莱维特表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。 莱维特称，美国总统特朗普政府认为谈判“具有建设性”，对达成协议前景持乐观态度，同时强调所有决定以白宫正式发布为准。 她还指出，巴基斯坦在本轮谈判中发挥了关键斡旋作用，并称其为当前“唯一的调解方”。尽管多国表达协助意愿，但美方希望通过巴基斯坦渠道持续推进沟通与谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088711",
           "source": "华尔街见闻-快讯",
@@ -1234,16 +1326,15 @@
           "time_info": "02时12分"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
+          "title": "中美就特朗普访华保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3089095",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美国总统特朗普将于周五在凤凰城讲话。",
@@ -1262,11 +1353,12 @@
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 15时29分]"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
@@ -1363,7 +1455,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -1438,11 +1530,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 15时29分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -1590,6 +1683,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价这一宽幅整理区间，究竟说明了什么？",
+          "url": "https://flash.jin10.com/detail/20260416151238132800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        },
+        {
+          "title": "金价稳住但未赢，市场在等什么？",
+          "url": "https://flash.jin10.com/detail/20260416125619591800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）上海金午盘价为1058.62元/克，较国际金价(1057.54元/克)，高1.08元/克",
+          "url": "https://flash.jin10.com/detail/20260416150149486800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1646,11 +1778,12 @@
             21,
             8,
             20,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 13时29分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -1713,23 +1846,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时50分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价稳住但未赢，市场在等什么？",
-          "url": "https://flash.jin10.com/detail/20260416125619591800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         }
       ]
     }
