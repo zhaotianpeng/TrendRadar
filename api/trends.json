@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T02:57:53.235243+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-04-18T03:59:07.058701+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 58,
       "titles": [
         {
           "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗：在停火剩余时间内，霍尔木兹海峡完全开放",
@@ -60,8 +60,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗军方人士：军舰仍被禁止通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sPDM2WK6YG",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗国内媒体对该国外长开放霍尔木兹海峡表达担忧",
@@ -75,6 +87,61 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "美国自伊朗战事以来第三批借出2603万桶SPR石油",
+          "url": "https://flash.jin10.com/detail/20260418033740952800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "巴加埃：伊朗拒绝将浓缩铀运往国外",
+          "url": "https://flash.jin10.com/detail/20260418033534509800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB%E6%9C%9F%E9%97%B4%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗宣布开放霍尔木兹海峡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗称停火剩余时间内，霍尔木兹海峡对所有商船完全开放，背后有何考量？双方有哪些谈判策略？",
+          "url": "https://www.zhihu.com/question/2028584383469110522",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
           "title": "伊朗高级官员：如果要求得到满足，伊朗已准备好向国际社会保证其核计划的和平性质。",
           "url": "https://flash.jin10.com/detail/20260418012604457800",
           "source": "金十数据",
@@ -84,6 +151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗开放霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7628709009670881331/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗高级官员：未来几天内可能达成初步协议，并有可能延长停火。这样的初步协议可能为就解除制裁以及确保战争损失赔偿展开谈判创造空间。",
@@ -97,16 +175,16 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "伊朗军方人士：军舰仍被禁止通过霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8sPDM2WK6YG",
-          "source": "凤凰网",
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗高级官员：霍尔木兹海峡的开放的前提是各方遵守停火条款。伊朗与美国之间仍存在重大分歧，包括在核问题上，需进行严肃谈判。",
@@ -120,15 +198,51 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "美国计划下周一在巴基斯坦与伊朗会谈。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3090287",
+          "title": "伊朗外交部发言人：伊朗拒绝将浓缩铀运往国外",
+          "url": "https://wallstreetcn.com/livenews/3090310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗宣布开放霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2470001",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32992711",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -140,61 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB%E6%9C%9F%E9%97%B4%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗宣布开放霍尔木兹海峡",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗称停火剩余时间内，霍尔木兹海峡对所有商船完全开放，背后有何考量？双方有哪些谈判策略？",
-          "url": "https://www.zhihu.com/question/2028584383469110522",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗开放霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7628709009670881331/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
         },
         {
           "title": "伊朗高级官员：伊美有望在数日内达成一项初步协议",
@@ -233,6 +292,18 @@
           "time_info": "[01时52分 ~ 02时57分]"
         },
         {
+          "title": "美国计划下周一在巴基斯坦与伊朗会谈。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3090287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时59分]"
+        },
+        {
           "title": "伊朗外交部：如果美国继续封锁，伊朗将采取行动。",
           "url": "https://wallstreetcn.com/livenews/3090264",
           "source": "华尔街见闻-快讯",
@@ -245,42 +316,6 @@
           "time_info": "[01时52分 ~ 02时57分]"
         },
         {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗宣布开放霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2470001",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32992711",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
           "title": "伊朗外交部：霍尔木兹海峡的通行是在基于4月8日停火共识的基础上进行的。伊朗与美国之间没有就霍尔木兹海峡问题达成任何新协议。应忽视对手方主导的“媒体战”。",
           "url": "https://flash.jin10.com/detail/20260418012232995800",
           "source": "金十数据",
@@ -290,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军指挥官：敌人在停火期间试图穿越霍尔木兹海峡，已迫使其撤退。",
+          "url": "https://wallstreetcn.com/livenews/3090281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时59分]"
         },
         {
           "title": "【伊朗外交部：美方海上封锁违反停火协议】伊朗外交部发言人巴加埃表示，美国对伊朗实施的海上封锁被视为违反停火协议，伊方将采取必要措施予以回应。巴加埃同时强调，伊朗是霍尔木兹海峡的“守护者”，在必要情况下，伊朗将毫不妥协地采取行动，切实维护本国人民的利益与权利。（央视）",
@@ -314,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时57分]"
+        },
+        {
+          "title": "联合国秘书长：欢迎伊朗宣布开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3090276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时59分]"
         },
         {
           "title": "伊朗外交部：美方海上封锁违反停火协议",
@@ -361,6 +420,17 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "伊朗外交部发言人：浓缩铀对我们来说是神圣的。",
+          "url": "https://flash.jin10.com/detail/20260418031941539800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
           "title": "伊朗外长发帖开放海峡前 油市再现7.6亿美元大额空单",
           "url": "https://flash.jin10.com/detail/20260418010456024800",
           "source": "金十数据",
@@ -370,6 +440,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗外交部发言人：60%丰度的浓缩铀不会以任何方式被运出伊朗。",
+          "url": "https://flash.jin10.com/detail/20260418030715263800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗官员：伊美正拟定谅解备忘录 为永久和平协议设定框架",
+          "url": "https://flash.jin10.com/detail/20260418030259644800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗外交部发言人：我们不支持美国官员及其媒体对伊朗核问题的提议。",
+          "url": "https://flash.jin10.com/detail/20260418025557489800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "伊朗对所有商船开放霍尔木兹海峡",
@@ -383,6 +486,17 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "伊朗外交部发言人：伊朗从未将向美国转移浓缩铀作为选择。",
+          "url": "https://flash.jin10.com/detail/20260418025506078800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
           "title": "美军首次公布对伊朗“海上封锁线”具体位置",
           "url": "https://wallstreetcn.com/livenews/3090229",
           "source": "华尔街见闻-快讯",
@@ -392,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军指挥官：敌人在停火期间试图穿越霍尔木兹海峡，已迫使其撤退。",
-          "url": "https://wallstreetcn.com/livenews/3090281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
         },
         {
           "title": "美媒：美国考虑“拿伊朗的钱换伊朗的铀”",
@@ -422,7 +525,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -433,9 +536,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗军方宣布今年建军节不举行相关活动",
+          "url": "https://wallstreetcn.com/livenews/3090296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军指挥官：敌人在停火期间试图穿越霍尔木兹海峡，已迫使其撤退。",
@@ -444,7 +558,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -460,15 +574,26 @@
           "time_info": "00时58分"
         },
         {
-          "title": "联合国秘书长：欢迎伊朗宣布开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3090276",
+          "title": "伊朗官员：伊美正拟定谅解备忘录，为永久和平协议设定框架",
+          "url": "https://wallstreetcn.com/livenews/3090297",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国中央司令部：美军仍“紧盯伊朗每一个港口”",
+          "url": "https://wallstreetcn.com/livenews/3090291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "【伊朗伊斯兰革命卫队：军用船只仍禁止通过霍尔木兹海峡】伊朗伊斯兰革命卫队海军司令部公布了船舶通过霍尔木兹海峡新规。规定如下: 民用船只只能通过伊朗指定的航线通行。 军用船只仍禁止通过该海峡。 所有船只的航行均须经伊朗伊斯兰革命卫队海军许可。 此项新规符合美以伊临时停火协议以及黎巴嫩（和以色列）停火协议的实施。（央视）",
@@ -540,7 +665,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -551,8 +676,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -562,8 +687,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -578,51 +738,6 @@
           "time_info": "[00时58分 ~ 02时57分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
-          "url": "https://flash.jin10.com/detail/20260418023422931800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3090284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
           "url": "https://news.ifeng.com/c/8sOn1dFNorh",
           "source": "凤凰网",
@@ -631,8 +746,45 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32994886",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
+          "url": "https://flash.jin10.com/detail/20260418023422931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "特朗普连续发帖：“感谢”伊朗开放海峡 美将继续对伊海上封锁",
@@ -647,40 +799,27 @@
           "time_info": "[01时52分 ~ 02时57分]"
         },
         {
-          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3090284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            17,
-            19
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时59分]"
         },
         {
-          "title": "特朗普确认伊朗开放霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32994886",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普在社交媒体上指责西班牙在美国对伊朗的行动中没有配合美国。",
+          "url": "https://flash.jin10.com/detail/20260418032736894800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 02时57分]"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "特朗普称美伊谈判预计周末举行 有望“一两天内”达成协议",
@@ -700,7 +839,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -722,7 +861,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -733,7 +872,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -777,7 +916,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -828,8 +967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -840,8 +979,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -852,8 +991,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时59分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -884,7 +1023,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -895,7 +1034,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
