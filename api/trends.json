@@ -1,494 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:39:12.998171+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-17T10:24:17.604027+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 42,
-      "titles": [
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时59分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普称以黎停火10天",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16,
-            20,
-            18,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
-        },
-        {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时09分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时41分]"
-        },
-        {
-          "title": "特朗普：邀请内塔尼亚胡和黎巴嫩总统访问白宫",
-          "url": "https://flash.jin10.com/detail/20260416235504987800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "美国总统特朗普：美国对霍尔木兹海峡的封锁表现得很好。",
-          "url": "https://flash.jin10.com/detail/20260417015924146800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈以色列-黎巴嫩停火）停火将包括黎巴嫩真主党。",
-          "url": "https://flash.jin10.com/detail/20260417015832027800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
-          "url": "https://flash.jin10.com/detail/20260417071827235800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗如今愿意做以前不愿意做的事情。",
-          "url": "https://flash.jin10.com/detail/20260417015805906800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）不确定停火是否需要延长。",
-          "url": "https://flash.jin10.com/detail/20260417015756053800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格并不是很高。",
-          "url": "https://wallstreetcn.com/livenews/3089526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国总统特朗普：在伊朗问题上取得大量进展。 不确定是否需要延长停火。 与伊朗的下一次会议可能在本周末举行。与伊朗达成协议的前景非常乐观。 现在，伊朗愿意做一些他们两个月之前不愿意做的事。 看起来我们与伊朗达成协议的前景非常好。 如果没有协议，将重启打击。",
-          "url": "https://wallstreetcn.com/livenews/3089524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
-          "url": "https://flash.jin10.com/detail/20260417032747106800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
-          "url": "https://wallstreetcn.com/livenews/3089591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 07时39分]"
-        },
-        {
-          "title": "罗马教皇再发声 暗指特朗普操控宗教",
-          "url": "https://flash.jin10.com/detail/20260417051016228800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
-          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时09分]"
-        },
-        {
-          "title": "中方回应特朗普称访华不受影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时38分]"
-        },
-        {
-          "title": "美国总统特朗普：教皇利奥理解伊朗对世界构成威胁非常重要。",
-          "url": "https://flash.jin10.com/detail/20260417015720960800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）正在取得很大进展。",
-          "url": "https://flash.jin10.com/detail/20260417015657675800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
-          "url": "https://wallstreetcn.com/livenews/3089554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普：黎巴嫩与以色列已同意停火",
-          "url": "https://flash.jin10.com/detail/20260416234116827800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "据知情人士透露，特朗普正考虑任命Michael Murray领导美国司法部的反垄断事务。",
-          "url": "https://flash.jin10.com/detail/20260417013646893800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
-          "url": "https://wallstreetcn.com/livenews/3089577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议",
-          "url": "https://wallstreetcn.com/livenews/3089546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普：以色列与黎巴嫩同意为期10天的停火",
-          "url": "https://flash.jin10.com/detail/20260416233753314800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "报道：特朗普提前宣布停火引发以方不满",
-          "url": "https://flash.jin10.com/detail/20260417012134387800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
-          "url": "https://flash.jin10.com/detail/20260417032540175800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "特朗普：黎巴嫩与以色列将停火10天",
-          "url": "https://wallstreetcn.com/livenews/3089466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "报道：特朗普提前宣布停火引发以方不满",
-          "url": "https://wallstreetcn.com/livenews/3089513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国总统特朗普：农场法案将会通过。",
-          "url": "https://flash.jin10.com/detail/20260417052400767800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
-          "url": "https://flash.jin10.com/detail/20260417030924363800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
-          "url": "https://flash.jin10.com/detail/20260417052236496800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
-          "url": "https://flash.jin10.com/detail/20260417030705110800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "黎巴嫩总统与特朗普通电话",
-          "url": "https://wallstreetcn.com/livenews/3089451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "特朗普称伊朗同意不拥有核武器，伊方暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3089533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
-          "url": "https://flash.jin10.com/detail/20260417024741416800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260417024512631800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "特朗普：美伊下次会晤可能在本周末举行",
-          "url": "https://wallstreetcn.com/livenews/3089529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：（美联储）应该降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3089528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -499,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -510,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -519,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时08分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 10时24分]"
         },
         {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
@@ -533,11 +51,12 @@
             18,
             17,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "伊朗披露击落美C-130细节",
@@ -556,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -609,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 10时24分]"
         },
         {
           "title": "美防长称伊朗最高领袖受伤但活着",
@@ -857,6 +377,28 @@
           "time_info": "[04时55分 ~ 05时41分]"
         },
         {
+          "title": "伊朗：欢迎黎以停火",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%AC%A2%E8%BF%8E%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "消息人士：美国官员已通知欧洲国家，由于伊朗战争，武器交付将延迟。",
           "url": "https://flash.jin10.com/detail/20260417032415627800",
           "source": "金十数据",
@@ -866,6 +408,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "伊朗总统会见巴陆军参谋长 呼吁伊斯兰国家团结一致",
+          "url": "https://wallstreetcn.com/livenews/3089695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "美油企敦促美政府反对伊朗对霍尔木兹海峡收费",
@@ -890,6 +454,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
           "url": "https://flash.jin10.com/detail/20260417051934237800",
           "source": "金十数据",
@@ -899,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "德国央行行长Nagel：伊朗战争可能会将2026年经济增速拖累0.3个百分点。",
@@ -978,6 +575,39 @@
           "time_info": "02时09分"
         },
         {
+          "title": "伊朗革命卫队称抵抗阵线向曼德海峡船只发出警告",
+          "url": "https://wallstreetcn.com/livenews/3089666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "伊朗感谢中方援助近60吨药品",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E6%8F%B4%E5%8A%A9%E8%BF%9160%E5%90%A8%E8%8D%AF%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "中国向伊朗提供58吨物资援助",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "伊朗武装部队：伊方军队已做好全面防御准备",
           "url": "https://wallstreetcn.com/livenews/3089440",
           "source": "华尔街见闻-快讯",
@@ -991,8 +621,569 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 49,
+      "titles": [
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时59分 ~ 10时24分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普称以黎停火10天",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16,
+            20,
+            18,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时39分]"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普：邀请内塔尼亚胡和黎巴嫩总统访问白宫",
+          "url": "https://flash.jin10.com/detail/20260416235504987800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "美国总统特朗普：美国对霍尔木兹海峡的封锁表现得很好。",
+          "url": "https://flash.jin10.com/detail/20260417015924146800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈以色列-黎巴嫩停火）停火将包括黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20260417015832027800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
+          "url": "https://flash.jin10.com/detail/20260417071827235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗如今愿意做以前不愿意做的事情。",
+          "url": "https://flash.jin10.com/detail/20260417015805906800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）不确定停火是否需要延长。",
+          "url": "https://flash.jin10.com/detail/20260417015756053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格并不是很高。",
+          "url": "https://wallstreetcn.com/livenews/3089526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国总统特朗普：在伊朗问题上取得大量进展。 不确定是否需要延长停火。 与伊朗的下一次会议可能在本周末举行。与伊朗达成协议的前景非常乐观。 现在，伊朗愿意做一些他们两个月之前不愿意做的事。 看起来我们与伊朗达成协议的前景非常好。 如果没有协议，将重启打击。",
+          "url": "https://wallstreetcn.com/livenews/3089524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
+          "url": "https://flash.jin10.com/detail/20260417032747106800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普抨击纽约市长：他的税收政策正在把人赶走",
+          "url": "https://flash.jin10.com/detail/20260417101657046800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时39分]"
+        },
+        {
+          "title": "罗马教皇再发声 暗指特朗普操控宗教",
+          "url": "https://flash.jin10.com/detail/20260417051016228800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时09分]"
+        },
+        {
+          "title": "中方回应特朗普称访华不受影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：教皇利奥理解伊朗对世界构成威胁非常重要。",
+          "url": "https://flash.jin10.com/detail/20260417015720960800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）正在取得很大进展。",
+          "url": "https://flash.jin10.com/detail/20260417015657675800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
+          "url": "https://wallstreetcn.com/livenews/3089554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时55分]"
+        },
+        {
+          "title": "特朗普：黎巴嫩与以色列已同意停火",
+          "url": "https://flash.jin10.com/detail/20260416234116827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "据知情人士透露，特朗普正考虑任命Michael Murray领导美国司法部的反垄断事务。",
+          "url": "https://flash.jin10.com/detail/20260417013646893800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
+          "url": "https://wallstreetcn.com/livenews/3089577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议",
+          "url": "https://wallstreetcn.com/livenews/3089546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时55分]"
+        },
+        {
+          "title": "特朗普：以色列与黎巴嫩同意为期10天的停火",
+          "url": "https://flash.jin10.com/detail/20260416233753314800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "报道：特朗普提前宣布停火引发以方不满",
+          "url": "https://flash.jin10.com/detail/20260417012134387800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
+          "url": "https://flash.jin10.com/detail/20260417032540175800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：黎巴嫩与以色列将停火10天",
+          "url": "https://wallstreetcn.com/livenews/3089466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普称伊朗同意几乎所有要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E8%A6%81%E6%B1%82%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "报道：特朗普提前宣布停火引发以方不满",
+          "url": "https://wallstreetcn.com/livenews/3089513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "特朗普政府敦促美国石油公司增加钻探。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3089690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普：农场法案将会通过。",
+          "url": "https://flash.jin10.com/detail/20260417052400767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "报告称特朗普的药品定价协议未能降低药价",
+          "url": "https://flash.jin10.com/detail/20260417100921576800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
+          "url": "https://flash.jin10.com/detail/20260417030924363800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
+          "url": "https://flash.jin10.com/detail/20260417052236496800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
+          "url": "https://flash.jin10.com/detail/20260417030705110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "黎巴嫩总统与特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3089451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "冲击全球最高纪录 特朗普的76米凯旋门设计获批",
+          "url": "https://flash.jin10.com/detail/20260417095930837800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "特朗普称伊朗同意不拥有核武器，伊方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3089533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260417024512631800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：美伊下次会晤可能在本周末举行",
+          "url": "https://wallstreetcn.com/livenews/3089529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：（美联储）应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3089528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -1013,11 +1204,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1025,11 +1217,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时24分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -1037,11 +1230,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 10时24分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -1129,6 +1334,17 @@
           "time_info": "[04时55分 ~ 05时41分]"
         },
         {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
           "url": "https://wallstreetcn.com/livenews/3089460",
           "source": "华尔街见闻-快讯",
@@ -1138,6 +1354,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
+          "url": "https://flash.jin10.com/detail/20260417012338631800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3089671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260417034114874800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "StoneX分析师：美元指数可能出现小幅上涨",
+          "url": "https://flash.jin10.com/detail/20260417101704485800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3089556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时55分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
+          "url": "https://wallstreetcn.com/livenews/3089502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3089494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     },
@@ -1190,96 +1529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 02时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数16日上涨",
-          "url": "https://flash.jin10.com/detail/20260417034114874800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3089556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时55分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
-          "url": "https://wallstreetcn.com/livenews/3089502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3089494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
-          "url": "https://flash.jin10.com/detail/20260417012338631800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "OpenAI发布Codex更新",
-          "url": "https://wallstreetcn.com/livenews/3089521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
-          "url": "https://flash.jin10.com/detail/20260417030201225800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         }
       ]
     },
