@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T00:59:01.408067+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-22T02:02:02.756666+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗战争丨美伊互放狠话：已准备重启战事",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "美军高官：已准备好重启对伊朗作战行动",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "伊朗最高领袖重申三项基本立场",
@@ -59,41 +59,66 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "CBOT豆油期货涨约3%，刷新40个月高位至71.59美分/磅，伊朗战争推高国际油价，投资者转而关注生物燃油市场。",
-          "url": "https://wallstreetcn.com/livenews/3092007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "伊朗称已为战事重新爆发做好准备",
-          "url": "https://www.toutiao.com/trending/7630242126521008169/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "伊朗储油罐要满了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "CBOT豆油期货涨约3%，刷新40个月高位至71.59美分/磅，伊朗战争推高国际油价，投资者转而关注生物燃油市场。",
+          "url": "https://wallstreetcn.com/livenews/3092007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[00时59分 ~ 02时02分]"
+        },
+        {
+          "title": "伊朗称已为战事重新爆发做好准备",
+          "url": "https://www.toutiao.com/trending/7630242126521008169/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "美军集结三航母 伊朗能扛住吗",
+          "url": "https://www.toutiao.com/trending/7630298529822736426/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2029682687414203990",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "伊朗外交部发言人：美国对两艘伊朗船只的行动构成“海上盗窃和国家恐怖主义”，质疑美国在谈判中的严肃性。",
@@ -107,15 +132,26 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "美军集结三航母 伊朗能扛住吗",
-          "url": "https://www.toutiao.com/trending/7630298529822736426/",
-          "source": "今日头条",
+          "title": "巴基斯坦方面正就确认代表团事宜与伊朗保持持续联系。",
+          "url": "https://flash.jin10.com/detail/20260422012638623800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "一艘载有液化气的伊朗船只正穿越美国军队的封锁",
+          "url": "https://flash.jin10.com/detail/20260422012106199800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
           "title": "伊朗外交部发言人：尚未决定是否参加会谈。",
@@ -123,17 +159,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029682687414203990",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -151,13 +176,35 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
+          "title": "巴基斯坦与伊朗就确认代表团事宜保持持续联系。",
+          "url": "https://wallstreetcn.com/livenews/3092022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "【一艘载有液化气的伊朗船只正穿越美国军队的封锁】一艘载有伊朗液化气的伊朗船只正在穿越美国军队的封锁。这是24小时内第三艘通过霍尔木兹海峡的伊朗船只。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3092021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "伊朗外交部：伊方是否参与巴基斯坦会谈尚未最终决定",
           "url": "https://wallstreetcn.com/livenews/3091993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -168,9 +215,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗国家电视台：伊美停火协议将于“午夜到期”",
+          "url": "https://wallstreetcn.com/livenews/3092014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "【白宫官员：副总统万斯尚未启程前往伊斯兰堡】4月21日，有白宫官员表示，美国副总统万斯尚未启程前往巴基斯坦首都伊斯兰堡参与伊朗谈判，他正在白宫参与其他政策会议。（央视）",
@@ -179,7 +237,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         }
@@ -187,7 +245,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -197,8 +255,75 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
+          "url": "https://wallstreetcn.com/livenews/3092025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普称美伊停火到期将继续轰炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，需要新的通胀框架",
@@ -212,59 +337,37 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "5月1日——特朗普“任性打仗”的关键时限",
-          "url": "https://wallstreetcn.com/articles/3770498",
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "巴西总统开玩笑称应授予特朗普诺贝尔和平奖以结束战争",
+          "url": "https://flash.jin10.com/detail/20260422010041262800",
+          "source": "金十数据",
           "ranks": [
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
+          "title": "特朗普政府警告称，未来几周将没有足够资金支付运输安全管理局工作人员的工资。",
+          "url": "https://flash.jin10.com/detail/20260422005842133800",
+          "source": "金十数据",
           "ranks": [
-            9
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "特朗普称美伊停火到期将继续轰炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -273,7 +376,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -284,7 +387,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         }
@@ -302,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -313,8 +416,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -324,8 +427,47 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
+          "url": "https://flash.jin10.com/detail/20260422011325105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "新兴市场货币指数跌幅扩大，布伦特油价逼近100美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3092018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3092010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -338,11 +480,29 @@
           "url": "https://www.toutiao.com/trending/7631211289410276905/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
+          "url": "https://wallstreetcn.com/livenews/3092028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
