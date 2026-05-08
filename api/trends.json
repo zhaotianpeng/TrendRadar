@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-09T06:00:55.702559+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-09T07:02:08.308588+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
-        },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
           "url": "https://news.ifeng.com/c/8sy1qxEZ8vp",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
@@ -48,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -71,8 +71,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 07时02分]"
+        },
+        {
+          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗：已做好全面准备回击任何侵略",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗部队与美军舰发生“零星冲突”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%83%A8%E9%98%9F%E4%B8%8E%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E7%94%9F%E2%80%9C%E9%9B%B6%E6%98%9F%E5%86%B2%E7%AA%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
@@ -88,35 +124,23 @@
           "time_info": "[01时14分 ~ 06时00分]"
         },
         {
+          "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
           "source": "澎湃新闻",
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
-        },
-        {
-          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
-        },
-        {
-          "title": "伊朗：已做好全面准备回击任何侵略",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -134,18 +158,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "伊朗部队与美军舰发生“零星冲突”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%83%A8%E9%98%9F%E4%B8%8E%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E7%94%9F%E2%80%9C%E9%9B%B6%E6%98%9F%E5%86%B2%E7%AA%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时58分]"
-        },
-        {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
           "url": "https://flash.jin10.com/detail/20260509040832297800",
           "source": "金十数据",
@@ -153,8 +165,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时00分]"
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 07时02分]"
         },
         {
           "title": "伊朗哈尔克岛附近疑似发生石油泄漏",
@@ -225,6 +237,17 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
+          "title": "伊媒：伊朗正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/livenews/3100949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
           "url": "https://wallstreetcn.com/livenews/3100868",
           "source": "华尔街见闻-快讯",
@@ -245,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
+          "url": "https://wallstreetcn.com/livenews/3100940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "据伊朗Press TV：伊朗外长阿拉格奇与英国外交大臣库珀通电话，就地区最新局势发展进行了讨论，并交换了意见。",
@@ -360,7 +394,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -370,8 +404,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -381,8 +415,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -392,33 +426,47 @@
             9,
             7,
             8,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
           "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
+          "url": "https://wallstreetcn.com/livenews/3100958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -443,6 +491,52 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“project freedom plus”。",
+          "url": "https://wallstreetcn.com/livenews/3100956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
+          "url": "https://wallstreetcn.com/livenews/3100955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉讨论了所有事，包括关税。",
+          "url": "https://wallstreetcn.com/livenews/3100954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 07时02分]"
+        },
+        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -453,18 +547,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时00分]"
         },
         {
           "title": "美国总统特朗普：去买台戴尔电脑吧。",
@@ -501,6 +583,28 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
+          "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
+          "url": "https://wallstreetcn.com/livenews/3100953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3100952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "特朗普称俄乌9日起停火三天并交换战俘",
           "url": "https://flash.jin10.com/detail/20260509024102423800",
           "source": "金十数据",
@@ -523,6 +627,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国总统特朗普：与波兰关系非常好。",
+          "url": "https://wallstreetcn.com/livenews/3100951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯与乌克兰之间将停火三天（5月9-11日）。",
           "url": "https://wallstreetcn.com/livenews/3100872",
           "source": "华尔街见闻-快讯",
@@ -532,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯与乌克兰的停火协议可能会超过三天。",
+          "url": "https://wallstreetcn.com/livenews/3100950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：关于结束这个重大冲突的磋商继续进行。",
@@ -625,7 +751,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -636,8 +762,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "美股信息科技指数收涨约4.2%",
+          "url": "https://wallstreetcn.com/livenews/3100957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 07时02分]"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 07时02分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
@@ -664,32 +823,32 @@
           "time_info": "[04时58分 ~ 06时00分]"
         },
         {
-          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260509040608974800",
-          "source": "金十数据",
+          "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时00分]"
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
         },
         {
-          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260509040559474800",
-          "source": "金十数据",
+          "title": "周五（5月8日），美股存储芯片与硬件供应链指数收涨8.05%，报188.37点，创收盘历史新高，本周累计上涨18.60%。 成分股悉数走高，Sandisk收涨16.60%，美光科技涨15.49%，应用材料、西部数据、拉姆研究、希捷科技、Rambus、泰瑞达TER涨6.04%-1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3100945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -714,6 +873,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/3100943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
           "url": "https://wallstreetcn.com/livenews/3100893",
           "source": "华尔街见闻-快讯",
@@ -735,11 +905,12 @@
           "url": "https://wallstreetcn.com/livenews/3100929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时02分]"
         }
       ]
     }
