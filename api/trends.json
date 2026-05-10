@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T10:42:57.730656+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-05-10T14:10:25.375199+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -28,6 +28,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时53分 ~ 10时42分]"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://wallstreetcn.com/livenews/3101078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            12,
+            13,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 14时10分]"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
@@ -65,21 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时57分 ~ 07时44分]"
-        },
-        {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://wallstreetcn.com/livenews/3101078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            12,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 10时42分]"
         },
         {
           "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
@@ -151,6 +152,21 @@
           "time_info": "[03时58分 ~ 07时44分]"
         },
         {
+          "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
+          "url": "https://wallstreetcn.com/livenews/3101088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时10分]"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯愿意再次尝试储存伊朗浓缩铀，最初各方都同意这一安排，但后来美国立场转趋强硬。",
           "url": "https://flash.jin10.com/detail/20260510025043675800",
           "source": "金十数据",
@@ -214,18 +230,34 @@
           "time_info": "[05时41分 ~ 07时44分]"
         },
         {
-          "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
-          "url": "https://wallstreetcn.com/livenews/3101088",
+          "title": "伊朗官员：提防美国“海盗式行动”",
+          "url": "https://wallstreetcn.com/livenews/3101089",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             6,
             7,
-            13
+            8,
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时42分]"
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
+          "url": "https://wallstreetcn.com/livenews/3101091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            9,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时10分]"
         },
         {
           "title": "伊朗准备全面接管通过霍尔木兹海峡的全部7条海底互联网光缆。",
@@ -251,55 +283,15 @@
           "time_info": "00时53分"
         },
         {
-          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3101094",
+          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
+          "url": "https://wallstreetcn.com/livenews/3101108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 10时42分]"
-        },
-        {
-          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3101098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "伊朗官员：提防美国“海盗式行动”",
-          "url": "https://wallstreetcn.com/livenews/3101089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时42分]"
-        },
-        {
-          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
-          "url": "https://wallstreetcn.com/livenews/3101091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时42分]"
+          "time_info": "14时10分"
         },
         {
           "title": "美军：继续执行对伊朗的海上封锁",
@@ -309,11 +301,36 @@
             8,
             9,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时42分]"
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时10分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方发言人表示，遵循美国对伊朗制裁的国家将“在穿越霍尔木兹海峡时面临困难”。",
+          "url": "https://flash.jin10.com/detail/20260510134323649800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3101094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 14时10分]"
         },
         {
           "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
@@ -365,6 +382,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时41分 ~ 07时44分]"
+        },
+        {
+          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3101098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 14时10分]"
         },
         {
           "title": "巴林外交大臣要求伊朗停止针对巴林及地区国家的侵略和挑衅行为，以及对其内政的恶劣干涉。",
@@ -470,6 +499,17 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
+          "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
           "url": "https://flash.jin10.com/detail/20260509230205331800",
           "source": "金十数据",
@@ -487,7 +527,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -498,7 +538,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -509,9 +549,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "据英国金融时报：由于伊朗冲突切断了霍尔木兹海峡的交通，巴拿马运河的收入增长了多达15%。巴拿马运河管理方表示，自2月下旬冲突爆发以来，巴拿马运河的每日通行量已增加了多达20%。",
+          "url": "https://flash.jin10.com/detail/20260510125558475800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
@@ -542,15 +593,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗特使：若美国理性行事，达成协议是有可能的",
+          "url": "https://flash.jin10.com/detail/20260510120113980800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -590,11 +652,12 @@
             4,
             5,
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时42分]"
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时10分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -646,6 +709,18 @@
           "time_info": "[02时57分 ~ 04时48分]"
         },
         {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 14时10分]"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -670,18 +745,6 @@
           "time_info": "[02时57分 ~ 03时58分]"
         },
         {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时42分]"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普告诉一名法国记者，他预计“很快”会收到伊朗方面的消息。",
           "url": "https://flash.jin10.com/detail/20260510012408954800",
           "source": "金十数据",
@@ -699,9 +762,74 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
+          "url": "https://flash.jin10.com/detail/20260510122534394800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 14时10分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 14时10分]"
+        },
+        {
+          "title": "Deepseek和阿里谈崩了？市场人士回应",
+          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 10时42分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
@@ -732,8 +860,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 10时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 14时10分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -766,49 +894,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 10时42分]"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时42分]"
-        },
-        {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -833,6 +920,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时41分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     }
