@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:25:05.715601+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-12T17:37:30.816940+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -88,11 +88,12 @@
           "ranks": [
             5,
             8,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 17时37分]"
         },
         {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
@@ -136,11 +137,12 @@
           "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时37分]"
         },
         {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
@@ -152,6 +154,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 17时37分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -170,11 +185,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时37分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -222,19 +238,6 @@
           "time_info": "[07时56分 ~ 14时25分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 14时25分]"
-        },
-        {
           "title": "美国总统特朗普：我们需要更多关税。",
           "url": "https://flash.jin10.com/detail/20260512042137003800",
           "source": "金十数据",
@@ -245,6 +248,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -272,17 +323,6 @@
           "time_info": "[00时32分 ~ 02时58分]"
         },
         {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
           "url": "https://www.zhihu.com/question/2037474314413238203",
           "source": "知乎",
@@ -305,28 +345,6 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
           "title": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从34%升至36%。",
           "url": "https://flash.jin10.com/detail/20260512021918353800",
           "source": "金十数据",
@@ -343,17 +361,6 @@
           "source": "知乎",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -767,6 +774,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的提议是一个愚蠢的方案。 我有一个对伊朗的计划。 重申伊朗不能拥有核武器。 伊朗封锁是“军事天才”的一部分。 （发动伊朗战争）是在为全球服务。 （我）根本没有压力，将全胜。 （伊朗的）领袖们被（美国和以色列）杀害了。",
           "url": "https://wallstreetcn.com/livenews/3101760",
           "source": "华尔街见闻-快讯",
@@ -814,7 +832,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -851,6 +869,18 @@
           "time_info": "[00时32分 ~ 10时45分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
+        },
+        {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
           "url": "https://news.ifeng.com/c/8t46R4Ygpuq",
           "source": "凤凰网",
@@ -873,15 +903,15 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
@@ -938,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，与一些西方媒体的说法相反，伊朗的文本中绝不含任何关于接受将浓缩核材料运出该国的内容。",
@@ -1120,6 +1161,17 @@
           "time_info": "[04时46分 ~ 04时47分]"
         },
         {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "伊朗议长：“14点提案”无可替代",
           "url": "https://wallstreetcn.com/livenews/3101863",
           "source": "华尔街见闻-快讯",
@@ -1173,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "伊朗革命卫队称一艘美舰遭伊方开火警告",
+          "url": "https://wallstreetcn.com/livenews/3102175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
@@ -1253,11 +1316,12 @@
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 17时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1279,8 +1343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时37分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -1307,24 +1371,24 @@
           "time_info": "[04时47分 ~ 06时05分]"
         },
         {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时25分]"
-        },
-        {
           "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
           "url": "https://www.cls.cn/detail/2368550",
           "source": "财联社热门",
           "ranks": [
             11,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时37分]"
+        },
+        {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1432,6 +1496,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "OpenAI预计：在与微软的最新协议下，到2030年公司将节省970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "Bain & Co.投资OpenAI Deployment Company。",
+          "url": "https://wallstreetcn.com/livenews/3101802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1478,45 +1592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
-          "url": "https://flash.jin10.com/detail/20260512065650611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
-        },
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
         }
       ]
     },
