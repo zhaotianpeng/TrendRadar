@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T10:50:11.006578+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-05-17T14:21:55.774624+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 10时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 14时21分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -68,6 +70,20 @@
           "time_info": "[00时58分 ~ 10时50分]"
         },
         {
+          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
+          "url": "https://wallstreetcn.com/livenews/3104818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 14时21分]"
+        },
+        {
           "title": "伊朗一机油工厂发生火灾",
           "url": "https://wallstreetcn.com/livenews/3104803",
           "source": "华尔街见闻-快讯",
@@ -80,19 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 10时50分]"
-        },
-        {
-          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
-          "url": "https://wallstreetcn.com/livenews/3104818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 10时50分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
@@ -154,11 +157,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时43分 ~ 10时50分]"
+          "appearance_count": 6,
+          "time_info": "[04时43分 ~ 14时21分]"
+        },
+        {
+          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
+          "url": "https://flash.jin10.com/detail/20260517141106720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "伊朗布什尔核电站二号机组恢复建设",
@@ -212,6 +227,17 @@
           "time_info": "[01时56分 ~ 03时02分]"
         },
         {
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：受霍尔木兹海峡中断的影响，沙特石油产量降至1990年以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260517001617335800",
           "source": "金十数据",
@@ -236,6 +262,42 @@
           "time_info": "[05时45分 ~ 07时51分]"
         },
         {
+          "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
+          "url": "https://wallstreetcn.com/articles/3772420",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
+        },
+        {
           "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
           "url": "https://flash.jin10.com/detail/20260517000542291800",
           "source": "金十数据",
@@ -258,50 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
-          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
-          "url": "https://wallstreetcn.com/articles/3772420",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
         },
         {
           "title": "德专家：美以对伊朗军事行动影响德国经济复苏",
@@ -335,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 10时50分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股市交易",
+          "url": "https://www.douyin.com/hot/2501755",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
@@ -373,7 +402,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -383,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "特朗普警告台独",
@@ -395,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -406,8 +435,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -432,8 +461,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -441,11 +470,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -454,11 +484,24 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
+          "url": "https://www.zhihu.com/question/2039077052658049213",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -473,17 +516,6 @@
           "time_info": "[00时58分 ~ 10时50分]"
         },
         {
-          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
-          "url": "https://www.zhihu.com/question/2039077052658049213",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
-        },
-        {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
           "source": "知乎",
@@ -491,8 +523,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
         },
         {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
@@ -530,17 +562,6 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
-          "title": "台舆论称特朗普不许台独视美为靠山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -553,6 +574,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普黄仁勋同款美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E4%BB%81%E5%8B%8B%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "台舆论称特朗普不许台独视美为靠山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -580,6 +624,18 @@
           "time_info": "[05时45分 ~ 07时51分]"
         },
         {
+          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
+          "url": "https://wallstreetcn.com/livenews/3104824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 14时21分]"
+        },
+        {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
           "url": "https://flash.jin10.com/detail/20260517093403715800",
           "source": "金十数据",
@@ -602,15 +658,26 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
-          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
-          "url": "https://wallstreetcn.com/livenews/3104824",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
+          "url": "https://flash.jin10.com/detail/20260517131605700800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -638,7 +705,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -664,8 +731,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 10时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时56分 ~ 14时21分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -678,19 +745,61 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时21分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 14时21分]"
+        },
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -766,24 +875,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 10时50分]"
         }
       ]
     }
