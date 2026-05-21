@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T15:48:06.285413+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-21T19:20:51.540234+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -35,11 +35,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 19时20分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -49,8 +50,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 19时20分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "time_info": "[15时47分 ~ 19时20分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
@@ -75,26 +87,62 @@
           "time_info": "[00时24分 ~ 11时24分]"
         },
         {
-          "title": "中方回应特朗普称将与赖清德对话",
-          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 19时20分]"
         },
         {
           "title": "特朗普：不要中国学生，那可太冒犯了",
           "url": "https://news.ifeng.com/c/8tIjMNQDlri",
           "source": "凤凰网",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 19时20分]"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "time_info": "[15时47分 ~ 19时20分]"
         },
         {
           "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
@@ -109,17 +157,6 @@
           "time_info": "[11时24分 ~ 15时48分]"
         },
         {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
           "url": "https://flash.jin10.com/detail/20260521024809837800",
           "source": "金十数据",
@@ -129,17 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时24分]"
-        },
-        {
-          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
-          "url": "https://www.cls.cn/detail/2377710",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
           "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
@@ -296,6 +322,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "特朗普特使强行访问格陵兰后称：美国是时候重新上岛了",
+          "url": "https://news.ifeng.com/c/8tJB4De0lqd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国总统特朗普：在伊朗问题上，美国受到广泛尊重。",
           "url": "https://flash.jin10.com/detail/20260520235218106800",
           "source": "金十数据",
@@ -409,8 +446,41 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐与巴基斯坦内政部长会晤，讨论间接的伊朗-美国谈判。",
+          "url": "https://flash.jin10.com/detail/20260521185430855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "【伊朗最高领袖下令：接近武器级的铀必须留在国内】记者获悉，当地时间21日下午，有消息人士表示，伊朗最高领袖已经下令，接近武器级的铀必须留在伊朗。消息人士还称，伊朗最高领袖的指示反映了伊朗当局的共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3107378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://flash.jin10.com/detail/20260521185251373800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
         {
           "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3106888",
@@ -514,6 +584,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "布伦特原油5分钟内上涨1.67美元/桶，报106.12美元/桶；WTI原油5分钟内上涨1.46美元/桶，报99.53美元/桶。据报道，伊朗最高领袖下令：接近武器级的铀必须留在国内。",
+          "url": "https://wallstreetcn.com/livenews/3107372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://wallstreetcn.com/livenews/3106881",
           "source": "华尔街见闻-快讯",
@@ -569,6 +650,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "市场消息：巴基斯坦内政部长在德黑兰与伊朗内政部长、国家安全委员会成员伊斯坎达尔·莫梅尼会面。",
+          "url": "https://flash.jin10.com/detail/20260521184047400800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
           "url": "https://wallstreetcn.com/livenews/3106829",
           "source": "华尔街见闻-快讯",
@@ -613,6 +705,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "美国股指期货下跌，美国标普500 E-Mini期货下跌0.25%，纳斯达克100期货下跌0.35%，道琼斯期货下跌0.09%。有报道称伊朗最高领袖下令近武器级铀必须留在伊朗。",
+          "url": "https://flash.jin10.com/detail/20260521183829684800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
           "url": "https://wallstreetcn.com/livenews/3106869",
           "source": "华尔街见闻-快讯",
@@ -622,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗媒体：伊朗“正在回应”美方谈判文本",
+          "url": "https://wallstreetcn.com/livenews/3107339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗国家队在土耳其备战2026年美加墨世界杯",
@@ -660,7 +774,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
@@ -708,6 +822,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时10分]"
+        },
+        {
+          "title": "礼来美股盘前跌近2%，礼来表示，使用Retatrutide最高剂量的患者体重减轻28.3%。",
+          "url": "https://wallstreetcn.com/livenews/3107376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -770,6 +895,17 @@
           "time_info": "[05时51分 ~ 07时10分]"
         },
         {
+          "title": "美股量子计算股盘前拉升，美国将向9家量子计算公司划拨20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3107366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3106963",
           "source": "华尔街见闻-快讯",
@@ -779,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
+          "url": "https://wallstreetcn.com/livenews/3107363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -834,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "Applied Digital Corp.（APLD）美股盘前涨近12%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3107332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
@@ -841,6 +999,17 @@
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 19时20分]"
+        },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
@@ -852,17 +1021,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时10分]"
-        },
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时48分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -998,7 +1156,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -1010,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
@@ -1037,7 +1206,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
@@ -1052,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时10分]"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
