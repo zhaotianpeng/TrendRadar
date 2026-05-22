@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T14:54:34.034105+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-05-22T18:23:15.824063+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时33分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 18时23分]"
         },
         {
           "title": "中方回应特朗普称将与赖清德对话",
@@ -65,15 +76,15 @@
           "time_info": "[10时59分 ~ 14时54分]"
         },
         {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时54分]"
+          "time_info": "[14时54分 ~ 18时23分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -112,6 +123,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定",
+          "url": "https://wallstreetcn.com/livenews/3107975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://flash.jin10.com/detail/20260522010503324800",
           "source": "金十数据",
@@ -123,15 +145,15 @@
           "time_info": "01时33分"
         },
         {
-          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
-          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
           "source": "凤凰网",
           "ranks": [
-            4
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 18时23分]"
         },
         {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
@@ -163,17 +185,6 @@
           "source": "财联社热门",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时54分]"
-        },
-        {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -238,6 +249,17 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普的“宫殿梦”还能撑多久",
           "url": "https://www.toutiao.com/trending/7642363020433165830/",
           "source": "今日头条",
@@ -247,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "特朗普拟建“凯旋门” 方案获批",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
@@ -376,7 +409,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -472,7 +505,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -482,11 +515,68 @@
             10,
             9,
             8,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时50分 ~ 18时23分]"
+        },
+        {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://flash.jin10.com/detail/20260522175044483800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：敌人应该知道，我们指挥官的殉难不仅不会在我们的队伍中造成任何裂痕，反而会让我们毁灭傲慢势力的决心更加坚定。",
+          "url": "https://flash.jin10.com/detail/20260522174905894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[03时50分 ~ 14时54分]"
+          "time_info": "[01时33分 ~ 18时23分]"
+        },
+        {
+          "title": "伊朗外长会见巴基斯坦内政部长",
+          "url": "https://wallstreetcn.com/livenews/3107971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
@@ -505,17 +595,6 @@
           "source": "百度热搜",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -557,6 +636,17 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
+          "title": "伊朗革命卫队：过去24小时有35艘船只通过海峡",
+          "url": "https://flash.jin10.com/detail/20260522172307176800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗总统佩泽希齐扬称，不会在谈判中退让。",
           "url": "https://flash.jin10.com/detail/20260522025123533800",
           "source": "金十数据",
@@ -566,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://wallstreetcn.com/livenews/3107962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "伊朗战争引发的化肥价格上涨威胁巴西农业经济",
@@ -692,7 +793,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -719,6 +820,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 18时23分]"
+        },
+        {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
@@ -743,15 +855,15 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
-          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
-          "url": "https://www.cls.cn/detail/2378668",
-          "source": "财联社热门",
+          "title": "美股盘前，美股存储芯片概念股走低，美光跌约1.8%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "18时23分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -807,6 +919,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "盈透证券美股盘前涨超9％，现报91美元。",
+          "url": "https://wallstreetcn.com/livenews/3107930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾40%，富途控股跌超30%。",
+          "url": "https://wallstreetcn.com/livenews/3107928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾33%，富途控股跌超25%。",
+          "url": "https://wallstreetcn.com/livenews/3107927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -948,6 +1093,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 18时23分]"
+        },
+        {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -958,17 +1114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时54分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -1026,7 +1171,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价又“坐过山车”",
@@ -1035,9 +1180,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 18时23分]"
+        },
+        {
+          "title": "黄金价格不断下跌 货币重置开始了吗",
+          "url": "https://www.toutiao.com/trending/7642595063947595305/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         }
       ]
     }
