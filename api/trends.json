@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:02:33.388597+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-26T17:49:52.645307+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
@@ -19,15 +19,60 @@
           "time_info": "[01时42分 ~ 08时10分]"
         },
         {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时49分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时49分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时49分]"
+        },
+        {
           "title": "伊朗最高领袖就医情况曝光",
           "url": "https://news.ifeng.com/c/8tQQymaYbMG",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
+          "url": "https://news.ifeng.com/c/8tRUm9hPRif",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -51,7 +96,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -67,37 +112,37 @@
           "time_info": "08时10分"
         },
         {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
-          "source": "凤凰网",
+          "title": "【伊朗媒体否认伊美达成谅解备忘录的说法】伊朗媒体否认伊美达成谅解备忘录的说法。伊朗伊斯兰共和国广播电视台26日报道，部分外国媒体报道称，伊朗与美国达成14点谅解备忘录，这“纯属捏造，毫无根据”。报道说，有媒体数小时前称已获得伊美谅解备忘录的最终草案，其中涉及开放霍尔木兹海峡、启动核问题谈判、解冻伊朗被冻结资金等问题，但这些说法均不属实。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时49分"
         },
         {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://www.cls.cn/detail/2381630",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时49分"
         },
         {
-          "title": "美军发动“自卫性”空袭伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
-          "source": "凤凰网",
+          "title": "据伊朗塔斯尼姆通讯社：接近谈判团队的消息人士称，若与美国达成潜在谅解备忘录，伊朗被冻结的240亿美元资金必须得以解冻。",
+          "url": "https://flash.jin10.com/detail/20260526172111489800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时49分"
         },
         {
           "title": "报道：美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
@@ -398,6 +443,39 @@
           "time_info": "08时10分"
         },
         {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗称击落一架美军无人机",
+          "url": "https://www.toutiao.com/trending/7644108014995164681/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "现货黄金亚盘小幅承压 美军在伊朗南部实施自卫打击",
           "url": "https://flash.jin10.com/detail/20260526075044100800",
           "source": "金十数据",
@@ -415,7 +493,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -442,13 +520,24 @@
           "time_info": "01时42分"
         },
         {
+          "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
+          "url": "https://www.cls.cn/detail/2381230",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美以袭击伊朗进入第 88 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2042404325343893398",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -528,6 +617,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗媒体否认伊美达成谅解备忘录的说法",
+          "url": "https://flash.jin10.com/detail/20260526170816536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
@@ -662,6 +773,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "伊朗最高领袖称伊朗及抵抗阵线取胜",
+          "url": "https://wallstreetcn.com/livenews/3109299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
           "url": "https://flash.jin10.com/detail/20260526064906747800",
           "source": "金十数据",
@@ -676,7 +798,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -707,9 +829,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时49分]"
         },
         {
           "title": "特朗普的“大棋局”：伊朗协议挨骂？那就把沙特、卡塔尔、巴基斯坦全拉进来",
@@ -718,7 +840,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -773,6 +895,18 @@
           "time_info": "[01时42分 ~ 05时04分]"
         },
         {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 17时49分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260526011223011800",
           "source": "金十数据",
@@ -797,16 +931,16 @@
           "time_info": "[03时26分 ~ 05时04分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 17时49分]"
         },
         {
           "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
@@ -845,15 +979,15 @@
           "time_info": "[06时59分 ~ 08时10分]"
         },
         {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
+          "title": "创纪录！特朗普最新民调曝光",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时49分"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -1017,6 +1151,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时10分]"
+        },
+        {
+          "title": "多家投行下调金价预判",
+          "url": "https://www.douyin.com/hot/2513019",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1025,11 +1188,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时49分]"
         }
       ]
     },
@@ -1044,24 +1208,6 @@
           "ranks": [
             5,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跳空高开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
