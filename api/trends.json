@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:02:41.232835+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-27T23:34:53.423957+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 58,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -90,6 +90,17 @@
           "time_info": "[00时41分 ~ 05时43分]"
         },
         {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://flash.jin10.com/detail/20260527002129253800",
           "source": "金十数据",
@@ -99,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -118,9 +140,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗南部发生能源设施装置事故致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3110168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "“星链”被指服务于美国针对伊朗的军事行动",
@@ -129,7 +173,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -153,7 +197,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -177,11 +221,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            11
+            11,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 23时34分]"
         },
         {
           "title": "伊朗局势“迷雾重重”震荡市场，新兴市场货币集体下挫",
@@ -213,7 +258,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -240,6 +285,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "伊朗总统：德黑兰寻求以“有尊严的框架”结束战争。",
           "url": "https://flash.jin10.com/detail/20260526235141891800",
           "source": "金十数据",
@@ -257,9 +313,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊朗总统：与卡塔尔埃米尔通了电话。",
@@ -328,13 +395,24 @@
           "time_info": "11时32分"
         },
         {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "“星链”被指服务于美国针对伊朗的军事行动",
           "url": "https://flash.jin10.com/detail/20260527154631399800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -356,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -389,7 +467,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -400,9 +478,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗副安全事务负责人巴盖里：美以是地区国家共同的敌人",
+          "url": "https://flash.jin10.com/detail/20260527224700188800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -427,6 +516,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "白宫官方账号“快速反应47”：伊朗媒体发布的谅解备忘录内容完全是捏造的",
+          "url": "https://flash.jin10.com/detail/20260527224509581800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "马汉航空：伊朗往返中国航线6月1日起增班",
           "url": "https://flash.jin10.com/detail/20260527111613844800",
           "source": "金十数据",
@@ -449,6 +549,28 @@
           "time_info": "00时41分"
         },
         {
+          "title": "白宫：伊朗国家媒体报道的谅解备忘录（MoU）系捏造，任何人都不应该相信。",
+          "url": "https://wallstreetcn.com/livenews/3110147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：德黑兰附近霍梅尼机场行政大楼发生火灾，消防员已扑灭火焰。",
+          "url": "https://flash.jin10.com/detail/20260527224048966800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。（黎巴嫩电视台Al-Mayadeen）",
           "url": "https://wallstreetcn.com/livenews/3109598",
           "source": "华尔街见闻-快讯",
@@ -458,6 +580,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "白宫间接否认伊朗国家电视台关于谅解备忘录草案的报道",
+          "url": "https://flash.jin10.com/detail/20260527223922617800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "伊朗南部一石化项目发生事故 已致1人死亡",
+          "url": "https://wallstreetcn.com/livenews/3110143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗南部波斯湾沿岸阿萨卢耶最大石化综合体阿萨鲁耶赫发生事故，至少一人遇难，二人受伤。",
+          "url": "https://flash.jin10.com/detail/20260527221615801800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊朗总统：伊方渴望加强与所有阿拉伯国家的兄弟情谊",
@@ -480,12 +635,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美军事力量将撤出伊朗周边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%BA%8B%E5%8A%9B%E9%87%8F%E5%B0%86%E6%92%A4%E5%87%BA%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "伊朗首都一机场办公楼发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3110132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普提了一个非分要求",
@@ -520,7 +697,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -535,6 +712,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
@@ -637,6 +825,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "土耳其总统埃尔多安称希望在足球世界杯期间与特朗普会面，讨论北约问题。",
+          "url": "https://flash.jin10.com/detail/20260527224805887800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
           "url": "https://wallstreetcn.com/livenews/3109650",
           "source": "华尔街见闻-快讯",
@@ -679,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "泽连斯基致信特朗普：乌克兰面临严峻的防空物资短缺",
+          "url": "https://flash.jin10.com/detail/20260527221655114800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普将27日内阁会议地点改回白宫",
@@ -728,7 +938,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -740,6 +950,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 16时02分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -764,6 +985,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 11时32分]"
+        },
+        {
+          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2383334",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "标普500指数是否已进入泡沫区间？资深策略师：美股这波行情靠的是盈利",
+          "url": "https://flash.jin10.com/detail/20260527225234355800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -805,7 +1048,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -845,7 +1088,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
