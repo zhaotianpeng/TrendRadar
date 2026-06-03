@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T11:48:23.631550+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-06-03T16:53:58.939468+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8teM8SFj90x",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 16时53分]"
         },
         {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
@@ -69,7 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -102,9 +103,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
@@ -129,6 +141,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 05时47分]"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 16时53分]"
         },
         {
           "title": "美军称袭击一艘伊朗相关油轮 使其失去航行能力",
@@ -197,6 +221,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "科威特外交部：科威特遭伊朗袭击，一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260603164756758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗战斗机袭击了位于伊拉克库尔德斯坦地区的武装团体总部，这些武装团体得到了欧洲、以色列和美国情报机构的支持。",
           "url": "https://flash.jin10.com/detail/20260603072934718800",
           "source": "金十数据",
@@ -225,9 +260,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "国际原子能机构总干事格罗西：伊朗此前开展的许多核活动现已停止。",
@@ -258,7 +304,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -269,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -296,17 +342,6 @@
           "time_info": "07时44分"
         },
         {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "科威特称拦截来袭导弹 伊朗格什姆岛传爆炸声",
           "url": "https://flash.jin10.com/detail/20260603070632195800",
           "source": "金十数据",
@@ -327,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "伊朗谴责美对伊油轮和格什姆岛的“侵略性袭击”",
+          "url": "https://wallstreetcn.com/livenews/3113640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "伊朗外交部：伊朗外长与埃及外长进行了通话，双方就地区最新局势以及旨在缓解西亚地区紧张局势、维护该地区稳定的正在进行的外交进程相关议题交换了意见。",
@@ -351,6 +397,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "伊朗谴责美对格什姆岛侵略性袭击",
+          "url": "https://wallstreetcn.com/livenews/3113635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：巴林传出警报声。",
           "url": "https://flash.jin10.com/detail/20260603065538627800",
           "source": "金十数据",
@@ -360,12 +417,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "伊朗谴责美国袭击伊朗油轮和电信站点。",
+          "url": "https://wallstreetcn.com/livenews/3113626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -436,6 +504,28 @@
           "time_info": "[02时38分 ~ 11时48分]"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "美国总统特朗普将于7月24日出席改期的记者晚宴。",
           "url": "https://wallstreetcn.com/livenews/3113229",
           "source": "华尔街见闻-快讯",
@@ -453,9 +543,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 16时53分]"
         },
         {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
@@ -481,17 +583,6 @@
           "time_info": "[05时46分 ~ 05时47分]"
         },
         {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "美国总统特朗普：我接受了白宫记者晚宴的邀请。",
           "url": "https://flash.jin10.com/detail/20260603015239464800",
           "source": "金十数据",
@@ -514,6 +605,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "美国总统特朗普：刚刚宣布，原定于4月25日举行却因突发事件被迫中断的白宫记者晚宴，将改期至7月24日举行。这一宣布非常好。",
           "url": "https://flash.jin10.com/detail/20260603015227482800",
           "source": "金十数据",
@@ -523,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
+          "url": "https://www.cls.cn/detail/2389030",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "美国总统特朗普：非常愉快在白宫椭圆形办公室接待了弗拉维奥·博索纳罗（巴西前总统博索纳罗的长子，目前为巴西联邦参议员）。",
@@ -561,7 +674,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -572,8 +685,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 16时53分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -631,6 +744,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "“巨无霸IPO”即将接踵而至，以史为鉴美股要崩了？一文看懂",
+          "url": "https://www.cls.cn/detail/2389038",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "美股现罕见盘面，历史级涨幅对标1987年崩盘前夕",
+          "url": "https://flash.jin10.com/detail/20260603164512752800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -702,7 +837,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
@@ -733,9 +868,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
@@ -799,11 +945,12 @@
           "url": "https://www.toutiao.com/trending/7646967437870747187/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 16时53分]"
         },
         {
           "title": "国内金价跌破980元每克",
@@ -812,7 +959,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -831,8 +978,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 16时53分]"
         }
       ]
     }
