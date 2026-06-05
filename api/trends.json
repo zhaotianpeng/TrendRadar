@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-05T08:05:16.767225+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-06-05T13:15:09.481242+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
           "url": "https://news.ifeng.com/c/8thJ3FRE17N",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时15分]"
         },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
@@ -85,6 +97,18 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时15分]"
+        },
+        {
           "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
           "url": "https://wallstreetcn.com/livenews/3114570",
           "source": "华尔街见闻-快讯",
@@ -95,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 04时02分]"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时15分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -109,26 +145,15 @@
           "time_info": "[01时44分 ~ 04时02分]"
         },
         {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
+          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
           "source": "凤凰网",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
@@ -605,8 +630,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 13时15分]"
+        },
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
@@ -619,19 +658,6 @@
           "time_info": "[01时44分 ~ 06时19分]"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 08时05分]"
-        },
-        {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
@@ -639,19 +665,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时15分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
           "url": "https://www.cls.cn/detail/2391272",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时15分]"
+        },
+        {
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -761,7 +800,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
