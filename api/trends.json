@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T10:52:45.722709+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-06T14:29:32.150952+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -19,15 +19,15 @@
           "time_info": "[01时52分 ~ 07时06分]"
         },
         {
-          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
-          "url": "https://wallstreetcn.com/livenews/3115408",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -77,17 +77,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "特朗普：将迅速结束伊朗战事",
-          "url": "https://news.ifeng.com/c/8tjENyLisNK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
           "url": "https://flash.jin10.com/detail/20260606060340835800",
           "source": "金十数据",
@@ -130,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
@@ -285,7 +286,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -307,7 +308,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -365,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
@@ -439,7 +451,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -461,7 +473,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -483,7 +495,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -538,7 +550,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -568,7 +580,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -588,7 +600,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -599,7 +611,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -610,7 +622,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -621,20 +633,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
         {
-          "title": "美军称拦截伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3115405",
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "14时29分"
         },
         {
           "title": "美军中央司令部称拦截了伊朗导弹和无人机",
@@ -643,7 +655,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -672,15 +684,38 @@
           "time_info": "[03时51分 ~ 05时24分]"
         },
         {
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美军中央司令部：目前没有关于美国人员受伤的报告，伊朗关于其破坏了位于巴林的美国第五舰队司令部的说法不实。",
           "url": "https://flash.jin10.com/detail/20260606101737832800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "美军称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3115405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "风水轮流转，轮到伊朗威胁美国了",
@@ -689,9 +724,33 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
+        },
+        {
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
+        },
+        {
+          "title": "伊朗革命卫队：中东地区美军基地遭袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "伊朗革命卫队表示，已对四艘试图未经其许可穿越霍尔木兹海峡的油轮开火。",
@@ -700,7 +759,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -716,26 +775,26 @@
           "time_info": "07时06分"
         },
         {
-          "title": "伊朗革命卫队称中东地区美军基地遭袭",
-          "url": "https://wallstreetcn.com/livenews/3115402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "美军中央司令部：拦截了伊朗发射的导弹与无人机。",
           "url": "https://flash.jin10.com/detail/20260606101448324800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
@@ -744,7 +803,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -755,7 +814,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -777,7 +836,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -788,7 +847,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -802,17 +861,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "伊朗革命卫队：中东地区美军基地遭袭",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
@@ -832,9 +880,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://flash.jin10.com/detail/20260606120510241800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
+          "url": "https://flash.jin10.com/detail/20260606120346153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐回应黎巴嫩总统称，如果黎巴嫩是“谈判筹码”，德黑兰早就可以与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260606115300156800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
@@ -862,8 +954,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 10时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 14时29分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -874,8 +966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 14时29分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -886,8 +978,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 14时29分]"
+        },
+        {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时06分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -899,17 +1002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
@@ -985,7 +1077,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -996,7 +1088,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1007,7 +1099,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1040,7 +1132,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1062,7 +1154,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
@@ -1115,22 +1207,24 @@
           "url": "https://wallstreetcn.com/livenews/3115400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
@@ -1139,7 +1233,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1161,7 +1255,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
@@ -1200,7 +1294,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1226,11 +1320,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时29分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1311,7 +1406,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -1323,6 +1418,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 07时06分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -1337,7 +1443,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
