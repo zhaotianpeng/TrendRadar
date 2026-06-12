@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:40:06.120384+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-06-12T16:24:35.105061+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
@@ -77,6 +77,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴的社交媒体账号12日发文称，穆杰塔巴将于当晚在库姆为一名宗教人士举行葬礼。（新华社） ​​​",
+          "url": "https://flash.jin10.com/detail/20260612155043517800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：鉴于美国已经接受了伊朗提出的文本，该文本获得伊朗方面批准的可能性很高。",
           "url": "https://flash.jin10.com/detail/20260612031236556800",
           "source": "金十数据",
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时01分 ~ 07时46分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社，与美国签署的谅解备忘录包含美方三项承诺，即解除对伊朗制裁、从伊朗周边撤军以及取消海上封锁。",
+          "url": "https://wallstreetcn.com/livenews/3118720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
@@ -183,22 +205,22 @@
           "time_info": "[00时53分 ~ 06时02分]"
         },
         {
-          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
-          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
           "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
           "url": "https://wallstreetcn.com/articles/3774438",
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 16时24分]"
+        },
+        {
+          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
+          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -370,6 +392,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "伊朗最高领袖将为一名宗教人士举行葬礼",
+          "url": "https://wallstreetcn.com/livenews/3118717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "联合国秘书长古特雷斯敦促各方恢复全面停火的实施，避免进一步恶化局势。呼吁美国和伊朗加倍努力达成和平、全面和持久的协议。",
           "url": "https://flash.jin10.com/detail/20260612002424375800",
           "source": "金十数据",
@@ -431,7 +464,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -489,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "伊朗大使馆发图讽刺世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%9B%BE%E8%AE%BD%E5%88%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
@@ -549,7 +593,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -561,8 +605,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 11时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 16时24分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 16时24分]"
         },
         {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
@@ -668,16 +725,16 @@
           "time_info": "[07时46分 ~ 11时40分]"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时46分 ~ 11时40分]"
+          "time_info": "[11时39分 ~ 16时24分]"
         },
         {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
@@ -714,6 +771,18 @@
           "time_info": "[06时02分 ~ 07时46分]"
         },
         {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 16时24分]"
+        },
+        {
           "title": "特朗普称取消打击伊朗行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -724,28 +793,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时01分 ~ 07时46分]"
-        },
-        {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
@@ -825,6 +872,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "林肯纪念堂倒影池翻新：成本飙升，承包给特朗普的熟人",
+          "url": "https://news.ifeng.com/c/8ttODxEJJNz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
           "url": "https://wallstreetcn.com/livenews/3118442",
           "source": "华尔街见闻-快讯",
@@ -845,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……",
+          "url": "https://www.cls.cn/detail/2397839",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
@@ -1015,7 +1084,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1037,8 +1106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 16时24分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -1096,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走低，美光科技跌超2%。美股太空概念股普涨，Rocket Lab涨超8%，ASTS涨超5%，回声星通信涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3118723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -1240,6 +1320,56 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月12日（周五）上海金早盘价为911.8元/克，较国际金价(912.09元/克)，低0.29元/克",
+          "url": "https://flash.jin10.com/detail/20260612110317340800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "金价连跌买一口价还是按克买",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E8%B7%8C%E4%B9%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E8%BF%98%E6%98%AF%E6%8C%89%E5%85%8B%E4%B9%B0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "金价连跌投资金柜台排长队 批发商集中补货",
+          "url": "https://wallstreetcn.com/livenews/3118694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1275,34 +1405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月12日（周五）上海金早盘价为911.8元/克，较国际金价(912.09元/克)，低0.29元/克",
-          "url": "https://flash.jin10.com/detail/20260612110317340800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "金价连跌买一口价还是按克买",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E8%B7%8C%E4%B9%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E8%BF%98%E6%98%AF%E6%8C%89%E5%85%8B%E4%B9%B0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
         }
       ]
     },
@@ -1361,6 +1463,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
