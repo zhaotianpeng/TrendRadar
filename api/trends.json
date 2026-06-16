@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T05:42:20.145625+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-17T07:23:42.462711+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -38,19 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
-        },
-        {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：任何违反行为将遭到果断、毁灭性的回应。",
@@ -62,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "海事情报公司称伊朗近两月来首次出口原油",
+          "url": "https://flash.jin10.com/detail/20260617071526827800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
@@ -105,19 +107,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -125,11 +140,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -140,8 +156,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
+        },
+        {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "time_info": "[05时42分 ~ 07时23分]"
         },
         {
           "title": "沙特阿拉比亚电视台发布了伊美14点谅解备忘录的条款，较伊朗迈赫尔通讯社发布版本更为详细。",
@@ -150,18 +178,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -183,7 +200,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -224,7 +241,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -249,26 +266,50 @@
           "time_info": "[02时04分 ~ 05时42分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "投资者权衡美伊协议，拉美股汇走势分化",
@@ -277,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -310,7 +351,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -321,7 +362,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -332,7 +373,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -343,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -362,7 +403,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -372,19 +413,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
-        },
-        {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -392,11 +422,24 @@
           "source": "今日头条",
           "ranks": [
             2,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
+        },
+        {
+          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
+          "url": "https://wallstreetcn.com/livenews/3120506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "time_info": "[05时42分 ~ 07时23分]"
         },
         {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
@@ -407,8 +450,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -418,19 +461,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "特朗普称美伊协议已签署",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -442,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普称没有美国以色列早不存在了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -483,39 +538,81 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
-        },
-        {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
             4,
-            15
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
+        },
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 07时23分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://flash.jin10.com/detail/20260617064209134800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://wallstreetcn.com/livenews/3120522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3120479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "05时42分"
         }
       ]
     },
@@ -541,7 +638,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
@@ -558,24 +655,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3120479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
