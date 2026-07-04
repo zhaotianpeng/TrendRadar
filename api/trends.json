@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T07:01:51.960502+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-04T12:33:47.363455+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 12时33分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 05时02分]"
+        },
+        {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -53,6 +65,17 @@
           "time_info": "[05时02分 ~ 07时01分]"
         },
         {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
@@ -75,6 +98,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
           "url": "https://flash.jin10.com/detail/20260704004150306800",
           "source": "金十数据",
@@ -84,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -166,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -176,8 +221,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 12时33分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -238,6 +294,17 @@
           "time_info": "[05时02分 ~ 07时01分]"
         },
         {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
           "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
@@ -247,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普：美国经济正强劲腾飞！",
+          "url": "https://flash.jin10.com/detail/20260704093740277800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
+          "url": "https://wallstreetcn.com/livenews/3128858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -306,7 +395,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -314,11 +403,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 12时33分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -331,6 +432,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
