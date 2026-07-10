@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T02:22:33.907772+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-11T04:21:24.951528+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -30,15 +30,15 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "美国发布针对伊朗的新制裁措施",
-          "url": "https://wallstreetcn.com/livenews/3132218",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗洛雷斯坦省工业园区公司安全负责人表示，埃克辛波尔多赫塔尔小型炼油厂发生的火灾已被控制。此次火灾仅波及装有废机油的油桶，并未蔓延至炼油厂设施和储油罐。",
+          "url": "https://flash.jin10.com/detail/20260711035149430800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "04时21分"
         },
         {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
@@ -47,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "卫星图像曝光：伊朗或在重建多处核设施",
+          "url": "https://wallstreetcn.com/livenews/3132233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "巴基斯坦总理：与伊朗总统通话，强调克制、对话与外交维护地区和平。",
@@ -58,20 +69,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "美国发布针对伊朗的新制裁措施",
+          "url": "https://wallstreetcn.com/livenews/3132218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 04时21分]"
         },
         {
           "title": "伊朗西部一座炼油厂发生大火",
           "url": "https://wallstreetcn.com/livenews/3132214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 04时21分]"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -94,8 +118,32 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
+          "url": "https://wallstreetcn.com/livenews/3132208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 04时21分]"
+        },
+        {
+          "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
+          "url": "https://wallstreetcn.com/livenews/3132207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 04时21分]"
         },
         {
           "title": "据伊朗媒体Fars News：知情人士否认有关伊朗与美国在伊斯兰堡举行谈判的筹备工作已完成的消息。",
@@ -126,31 +174,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
         {
-          "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
-          "url": "https://wallstreetcn.com/livenews/3132208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
-          "url": "https://wallstreetcn.com/livenews/3132207",
+          "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
+          "url": "https://wallstreetcn.com/livenews/3132224",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "04时21分"
+        },
+        {
+          "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
+          "url": "https://flash.jin10.com/detail/20260711031010328800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
+          "url": "https://wallstreetcn.com/livenews/3132222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "分析师：伊朗局势紧张威胁南美农户化肥供应",
@@ -170,9 +229,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260711025239161800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "伊朗议长放话：不会投降，若美方“背信”将全面防御",
@@ -181,7 +251,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -192,7 +262,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -203,9 +273,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗最高领袖陷入孤立，将继续施压切断伊朗领导层与全球金融体系联系。",
+          "url": "https://flash.jin10.com/detail/20260711024549926800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "CNN：卫星图像显示伊朗或正在重建核设施，疑违反美伊协议",
+          "url": "https://flash.jin10.com/detail/20260711024540682800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "据CNN：卫星图像显示，伊朗可能正在重建部分核设施。",
+          "url": "https://flash.jin10.com/detail/20260711024000715800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -218,11 +321,12 @@
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -232,8 +336,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -243,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -254,19 +358,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -276,8 +381,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -319,6 +424,28 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
+        },
+        {
           "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
           "url": "https://wallstreetcn.com/livenews/3132190",
           "source": "华尔街见闻-快讯",
@@ -331,28 +458,6 @@
           "time_info": "[00时55分 ~ 02时22分]"
         },
         {
-          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
-          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
-        },
-        {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
           "url": "https://www.toutiao.com/trending/7660909473094962730/",
           "source": "今日头条",
@@ -361,8 +466,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
@@ -382,7 +487,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -411,8 +516,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时21分]"
         }
       ]
     },
@@ -427,7 +532,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
