@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T07:53:50.933074+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-07-12T10:29:23.350469+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -25,22 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
-          "url": "https://wallstreetcn.com/livenews/3132368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 10时29分]"
         },
         {
           "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
@@ -134,6 +124,18 @@
           "time_info": "[04时07分 ~ 07时53分]"
         },
         {
+          "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
+          "url": "https://wallstreetcn.com/livenews/3132368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时29分]"
+        },
+        {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
@@ -145,6 +147,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时07分 ~ 07时53分]"
+        },
+        {
+          "title": "时间线丨美国对伊朗发动一周之内第三轮袭击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
@@ -170,6 +183,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 04时07分]"
+        },
+        {
+          "title": "美军持续打击，伊朗驻联合国大使发出警告",
+          "url": "https://news.ifeng.com/c/8uh6mNB6lah",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "阿曼同意与伊朗继续就霍尔木兹海峡问题举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3132374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡，美军称正在对伊朗发动打击、伊朗多地传出爆炸声",
+          "url": "https://wallstreetcn.com/articles/3776710",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家电视台：在南部霍尔木兹甘省的贾斯克市传出两声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712092847268800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -226,11 +283,221 @@
           "url": "https://www.toutiao.com/trending/7660473512151465993/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时29分]"
+        },
+        {
+          "title": "伊朗南部多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "10时29分"
+        },
+        {
+          "title": "美高级官员称美军成功打击伊朗军事目标",
+          "url": "https://flash.jin10.com/detail/20260712092650984800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "伊朗局势一片混乱，分析师：未来几周冲突未必能保持在可控范围内",
+          "url": "https://flash.jin10.com/detail/20260712092540939800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "美军称对伊朗发动本周第三轮袭击",
+          "url": "https://wallstreetcn.com/livenews/3132372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家媒体：阿巴斯港、锡里克和贾斯克目前局势平静。",
+          "url": "https://flash.jin10.com/detail/20260712091446618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据AXIOS：美国官员表示，伊朗革命卫队的导弹击中了霍尔木兹海峡的一艘商船。",
+          "url": "https://flash.jin10.com/detail/20260712090833097800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
+          "url": "https://flash.jin10.com/detail/20260712090500513800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "伊朗官员称美国对伊朗的袭击“不会没有回应”",
+          "url": "https://flash.jin10.com/detail/20260712084951484800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据《以色列今日报》（Israel Hayom）：阿曼已通知美国，伊朗拒绝接受有关霍尔木兹海峡的提议条款。这一外交僵局促使美国立即恢复制裁并重新实施海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260712084059146800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据半岛电视台：伊朗官员表示，美国（对伊朗）的打击“不会没有回应”。",
+          "url": "https://flash.jin10.com/detail/20260712083901925800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据AXIOS：美国一名官员表示，伊朗革命卫队袭击的货船当时正行驶在阿曼提议的、本应不受限制通行的南部航道上。",
+          "url": "https://flash.jin10.com/detail/20260712082827793800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家电视台：在贾斯克听到超过10次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712082743641800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家电视台：在南部城市布什尔、代尔、坎甘和阿斯卢伊亚听到爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712082714415800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗在阿瓦士南部的马赫舒尔港启用防空系统。",
+          "url": "https://flash.jin10.com/detail/20260712082515114800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部霍尔木兹甘省贾斯克市发生4次爆炸。",
+          "url": "https://flash.jin10.com/detail/20260712081937650800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "市场消息：伊朗在首都德黑兰启用空中防御系统。",
+          "url": "https://flash.jin10.com/detail/20260712081422671800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家电视台：在恰巴哈尔附近听到两声爆炸声，在布什尔省的迪尔地区听到五声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712080926057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "伊朗再关闭霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%8D%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
@@ -244,11 +511,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 10时29分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -320,11 +588,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时46分 ~ 07时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时46分 ~ 10时29分]"
         }
       ]
     },
@@ -364,8 +633,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 10时29分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
