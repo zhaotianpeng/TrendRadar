@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T14:14:42.661083+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-07-13T18:23:24.518367+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 64,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -146,6 +146,17 @@
           "time_info": "[02时02分 ~ 05时46分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 18时23分]"
+        },
+        {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
           "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
@@ -180,17 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 06时44分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
         },
         {
           "title": "伊朗否认布什尔核电站区域遭袭",
@@ -234,7 +234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -467,6 +467,18 @@
           "time_info": "[05时45分 ~ 06时44分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 18时23分]"
+        },
+        {
           "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
           "url": "https://www.cls.cn/detail/2423670",
           "source": "财联社热门",
@@ -549,17 +561,6 @@
           "time_info": "[06时44分 ~ 07时52分]"
         },
         {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
           "title": "伊朗称格什姆岛军事目标遭袭",
           "url": "https://wallstreetcn.com/livenews/3132447",
           "source": "华尔街见闻-快讯",
@@ -570,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时52分]"
+        },
+        {
+          "title": "巴林国防部：防空系统今天早上成功拦截了多起伊朗的空中袭击。",
+          "url": "https://flash.jin10.com/detail/20260713180104215800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
@@ -592,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗阿巴斯港和格什姆岛附近传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "伊朗对美国位于海湾地区的军事目标发动大规模袭击",
@@ -622,9 +645,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "伊朗取消收获季大米进口禁令",
+          "url": "https://flash.jin10.com/detail/20260713175433835800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。",
@@ -660,6 +694,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "也门警告伊朗与胡塞武装 耐心耗尽将回击",
+          "url": "https://flash.jin10.com/detail/20260713174541658800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美军袭击伊朗一水泵站 致1死4伤",
           "url": "https://wallstreetcn.com/livenews/3132512",
           "source": "华尔街见闻-快讯",
@@ -677,7 +722,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -691,12 +736,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗阿巴斯港和格什姆岛附近传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260713174156485800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "伊朗媒体公布13人“复仇”名单",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%85%AC%E5%B8%8313%E4%BA%BA%E2%80%9C%E5%A4%8D%E4%BB%87%E2%80%9D%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -710,6 +777,17 @@
           "time_info": "[00时59分 ~ 07时52分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 18时23分]"
+        },
+        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -719,17 +797,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时14分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -779,13 +846,24 @@
           "time_info": "[06时44分 ~ 07时52分]"
         },
         {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "特朗普命令全国降半旗",
           "url": "https://www.douyin.com/hot/2569217",
           "source": "抖音",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -807,7 +885,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -866,8 +944,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
           "url": "https://wallstreetcn.com/livenews/3132438",
@@ -887,7 +976,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
