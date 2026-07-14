@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:03:01.613764+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-07-14T19:40:35.105664+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时40分]"
         },
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时40分]"
         },
         {
           "title": "美国中央司令部确认恢复对伊朗港口的封锁",
@@ -207,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -697,6 +697,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://www.toutiao.com/trending/7662322212086484530/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "伊朗军方：打击美国资产和船只。（FARS）",
           "url": "https://wallstreetcn.com/livenews/3133088",
           "source": "华尔街见闻-快讯",
@@ -785,6 +796,28 @@
           "time_info": "10时09分"
         },
         {
+          "title": "伊朗最高领袖顾问雷扎伊：已经不再有谅解备忘录，敌人已正式进入战争状态。",
+          "url": "https://flash.jin10.com/detail/20260714191919866800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄方认为美国近期对伊朗发动的新一轮袭击违反了双方此前签署的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260714191704612800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "伊朗革命卫队：在霍尔木兹海峡击落一架美军MQ-1无人机。",
           "url": "https://flash.jin10.com/detail/20260714041749917800",
           "source": "金十数据",
@@ -843,21 +876,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
-        {
-          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
-          "url": "https://wallstreetcn.com/articles/3776814",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 18时03分]"
-        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -868,8 +888,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[07时52分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 19时40分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -890,11 +924,12 @@
             18,
             16,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 18时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 19时40分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -905,8 +940,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时40分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -981,7 +1016,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -1103,6 +1138,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
@@ -1253,17 +1300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时53分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -1475,6 +1511,28 @@
           "time_info": "05时54分"
         },
         {
+          "title": "不到一个月鲁比奥被特朗普“打脸”",
+          "url": "https://www.toutiao.com/trending/7661932781331660863/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "曝特朗普支持沙特对胡塞采取军事行动",
+          "url": "https://www.toutiao.com/trending/7662172518904365062/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
           "url": "https://wallstreetcn.com/livenews/3132978",
           "source": "华尔街见闻-快讯",
@@ -1489,7 +1547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1500,8 +1558,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[07时52分 ~ 19时40分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -1528,17 +1586,6 @@
           "time_info": "[06时54分 ~ 15时59分]"
         },
         {
-          "title": "美股半导体大跌！闪迪跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时54分]"
-        },
-        {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
           "url": "https://wallstreetcn.com/articles/3776816",
           "source": "华尔街见闻",
@@ -1549,8 +1596,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[07时52分 ~ 19时40分]"
+        },
+        {
+          "title": "美股半导体大跌！闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时54分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -1584,6 +1642,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时40分]"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -1633,15 +1703,26 @@
           "time_info": "[02时42分 ~ 02时43分]"
         },
         {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
+          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3133630",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时40分"
+        },
+        {
+          "title": "IBM美股盘前跌超14%，公司第二财季初步营收不及预期",
+          "url": "https://wallstreetcn.com/livenews/3133624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
@@ -1666,6 +1747,28 @@
           "time_info": "05时54分"
         },
         {
+          "title": "美国银行第二季度净利息收入为160.0亿美元，预期为159.2亿美元。 第二季度每股收益为1.21美元。 第二季度FICC交易收入（不含DVA）为35.4亿美元，预期为35.3亿美元。 第二季度股票交易收入（不含DVA）为36.2亿美元，预期为26.9亿美元。 美国银行美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "摩根大通第二季度调整后营收为580.2亿美元，预期为513.9亿美元。 第二季度每股收益为7.70美元；第二季度调整后每股收益为6.14美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为60.5亿美元，预期为62.9亿美元。 第二季度股票销售与交易收入为60.3亿美元，预期为39.8亿美元。 摩根大通预计全财年净利息收入约为1055亿美元，此前预期约为1030亿美元。 摩根大通预计全财年调整后支出约1075亿美元，此前预期约1050亿美元。 摩根大通美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
           "url": "https://wallstreetcn.com/livenews/3133072",
           "source": "华尔街见闻-快讯",
@@ -1675,6 +1778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
@@ -1732,11 +1846,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时40分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -1789,11 +1904,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时40分]"
         }
       ]
     },
@@ -1810,8 +1926,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时40分]"
         }
       ]
     }
