@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:51:08.226315+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-18T10:09:06.844502+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 57,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时51分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时51分 ~ 07时51分]"
+          "time_info": "[07时50分 ~ 10时09分]"
         },
         {
           "title": "伊朗称击落一架美军MQ-9无人机",
@@ -80,15 +91,15 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
-          "source": "凤凰网",
+          "title": "美中央司令部：结束连续第七晚对伊朗的打击行动",
+          "url": "https://flash.jin10.com/detail/20260718094142790800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。",
+          "url": "https://flash.jin10.com/detail/20260718094009737800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一艘泰国籍船只因未经伊朗革命卫队许可驶经霍尔木兹海峡，遭到袭击。",
@@ -124,28 +146,6 @@
           "time_info": "[02时03分 ~ 02时04分]"
         },
         {
-          "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3135937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3135936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
           "url": "https://flash.jin10.com/detail/20260718055951272800",
           "source": "金十数据",
@@ -156,17 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时47分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗交通基础设施遭美军袭击",
-          "url": "https://wallstreetcn.com/livenews/3135935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
@@ -193,15 +182,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
-          "url": "https://wallstreetcn.com/livenews/3135933",
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时09分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -210,23 +199,12 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时51分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗称击落一架美军MQ-9无人机",
-          "url": "https://wallstreetcn.com/livenews/3135928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 10时09分]"
         },
         {
           "title": "伊朗多地传出爆炸声",
@@ -235,11 +213,73 @@
           "ranks": [
             4,
             11,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗称击落一架美军MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3135928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时51分 ~ 07时51分]"
+          "time_info": "[06时47分 ~ 10时09分]"
+        },
+        {
+          "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3135937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗发射巡航导弹打击美军舰艇",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗交通基础设施遭美军袭击",
+          "url": "https://wallstreetcn.com/livenews/3135935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -253,6 +293,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时51分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
+          "url": "https://wallstreetcn.com/livenews/3135933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
         },
         {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
@@ -320,6 +372,19 @@
           "time_info": "[05时51分 ~ 07时51分]"
         },
         {
+          "title": "伊朗梅赫尔通讯社（MEHR）援引当地官员的话称，“敌方”发射的弹药落在了伊朗中部城市亚兹德市郊外，目前未报告有人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3135929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 10时09分]"
+        },
+        {
           "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
           "url": "https://wallstreetcn.com/livenews/3135910",
           "source": "华尔街见闻-快讯",
@@ -346,17 +411,6 @@
           "time_info": "[05时51分 ~ 07时51分]"
         },
         {
-          "title": "伊朗发射巡航导弹打击美军舰艇",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
-        },
-        {
           "title": "伊朗第一副总统：任何侵犯伊朗领土的行为都将遭到坚决、出其不意且超常规的回应。",
           "url": "https://flash.jin10.com/detail/20260718012216809800",
           "source": "金十数据",
@@ -368,16 +422,59 @@
           "time_info": "[02时03分 ~ 02时04分]"
         },
         {
-          "title": "伊朗梅赫尔通讯社（MEHR）援引当地官员的话称，“敌方”发射的弹药落在了伊朗中部城市亚兹德市郊外，目前未报告有人员伤亡。",
-          "url": "https://wallstreetcn.com/livenews/3135929",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊通社（IRNA）：阿拉伯媒体报道称，伊朗导弹成功突破约旦防空系统，声称“爱国者”导弹防御系统未能有效拦截。",
+          "url": "https://flash.jin10.com/detail/20260718085751276800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时51分]"
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗军方声称，最新的攻击瞄准了科威特的美国弹药库、桥梁以及约旦的燃料储备。",
+          "url": "https://flash.jin10.com/detail/20260718085336636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "美官方数据显示七月以来美军对伊朗行动受伤人数增加14人",
+          "url": "https://flash.jin10.com/detail/20260718085312777800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗霍尔木兹甘省副省长表示，通信基础设施正在修复中。",
+          "url": "https://flash.jin10.com/detail/20260718084837191800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：阿巴斯港（Bandar Abbas）附近一处地点遭到美国军方袭击。",
+          "url": "https://flash.jin10.com/detail/20260718084737738800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -390,6 +487,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
+          "title": "美军袭击伊朗霍尔木兹甘省致3死8伤",
+          "url": "https://flash.jin10.com/detail/20260718081411305800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方消息称，已对美国在科威特和约旦的营地及基地进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718075831060800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -412,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -549,7 +679,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -560,8 +690,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 10时09分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -585,6 +715,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -672,11 +813,12 @@
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 10时09分]"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -770,7 +912,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -800,11 +942,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时51分]"
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 10时09分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -857,6 +1000,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 07时51分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.douyin.com/hot/2575548",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.toutiao.com/trending/7663631586239188521/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "资深财富管理人士：美股或回调40%",
+          "url": "https://www.toutiao.com/trending/7662685956433330227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -915,11 +1102,12 @@
           "ranks": [
             3,
             10,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时51分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 10时09分]"
         },
         {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
@@ -943,11 +1131,12 @@
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 10时09分]"
         }
       ]
     },
@@ -995,11 +1184,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 10时09分]"
         }
       ]
     },
