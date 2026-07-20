@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T03:49:08.104743+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-21T05:10:30.115205+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 25,
       "titles": [
         {
           "title": "专家：美国不具备摧毁伊朗的能力",
@@ -52,6 +52,28 @@
           "time_info": "[03时48分 ~ 03时49分]"
         },
         {
+          "title": "伊朗启动位于Bushehr核电站周边的防空系统。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3137084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
+          "url": "https://wallstreetcn.com/livenews/3137083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
           "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
           "source": "凤凰网",
@@ -59,8 +81,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
+        },
+        {
+          "title": "美国参议院Graham对参议院宣称：上周，伊朗导弹命中美国在约旦军事基地的兵营。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 05时10分]"
         },
         {
           "title": "伊朗一名省级安全官员称，伊朗武装部队于周一凌晨在法尔斯省代什库德市附近侦测并摧毁了一枚美方射弹。 该官员并未透露这枚射弹的型号，也未说明残骸是否造成损毁或人员伤亡。",
@@ -141,15 +175,81 @@
           "time_info": "[03时48分 ~ 03时49分]"
         },
         {
-          "title": "美国参议院Graham对参议院宣称：上周，伊朗导弹命中美国在约旦军事基地的兵营。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3137055",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊通社（IRNA）：伊朗恰巴哈尔和科纳拉克地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260721044511474800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "05时10分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，当地防空系统已启动，以应对敌对飞行器威胁。截至目前，布什尔地区尚未发生任何袭击命中事件。",
+          "url": "https://flash.jin10.com/detail/20260721043939359800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美军称对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3137080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔核电站附近传来防空系统启动的声音。",
+          "url": "https://flash.jin10.com/detail/20260721042636328800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
+          "url": "https://flash.jin10.com/detail/20260721042444342800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260721042443802800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国中央司令部：美东时间周一下午4时，美军对伊朗发动新一轮打击。此次行动旨在进一步削弱伊朗用于攻击霍尔木兹海峡商业船只的军事能力。",
+          "url": "https://flash.jin10.com/detail/20260721041724576800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "美军称对伊朗海上封锁期间已迫使7艘商船改道",
@@ -161,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗锡里克附近传出爆炸声，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260721035212416800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "伊媒：伊朗南部两省传出爆炸声",
@@ -177,7 +288,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -187,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 05时10分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复",
@@ -202,26 +313,27 @@
           "time_info": "[03时48分 ~ 03时49分]"
         },
         {
-          "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
-          "url": "https://wallstreetcn.com/livenews/3137065",
+          "title": "特朗普政府出新招：到美国建厂铝关税打对折",
+          "url": "https://wallstreetcn.com/livenews/3137085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "05时10分"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -231,8 +343,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -242,8 +354,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
+          "url": "https://wallstreetcn.com/livenews/3137065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://wallstreetcn.com/livenews/3137059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 05时10分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -290,15 +426,15 @@
           "time_info": "[01时59分 ~ 02时00分]"
         },
         {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复",
-          "url": "https://wallstreetcn.com/livenews/3137059",
-          "source": "华尔街见闻-快讯",
+          "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
+          "url": "https://flash.jin10.com/detail/20260721040706607800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "05时10分"
         },
         {
           "title": "美国总统特朗普声称：以色列总理内塔尼亚胡无论如何都不会在美国被逮捕。",
@@ -310,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
+          "url": "https://flash.jin10.com/detail/20260721040321137800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
@@ -326,18 +473,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -347,8 +495,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -358,8 +506,74 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3137079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3137072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260721040540843800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260721040538600800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
+          "url": "https://flash.jin10.com/detail/20260721040127333800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -384,11 +598,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时10分]"
         }
       ]
     },
@@ -401,11 +616,12 @@
           "url": "https://wallstreetcn.com/livenews/3137064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 05时10分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
@@ -421,6 +637,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -431,7 +664,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
