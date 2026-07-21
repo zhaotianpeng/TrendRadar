@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T21:42:38.455812+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-07-21T23:42:06.806032+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 64,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时42分]"
         },
         {
           "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "伊朗还有两大杀手锏",
+          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "“全面战争”！伊朗总统最新发声",
@@ -347,6 +358,28 @@
           "time_info": "[03时48分 ~ 03时49分]"
         },
         {
+          "title": "科威特召见伊朗大使 抗议该国船只遭袭",
+          "url": "https://flash.jin10.com/detail/20260721230813844800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "传伊朗主动提出停火，抄底资金涌入科技股大反弹",
+          "url": "https://flash.jin10.com/detail/20260721230709082800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗恰巴哈尔和科纳拉克地区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260721044511474800",
           "source": "金十数据",
@@ -408,7 +441,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -430,7 +463,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -466,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "科威特召见伊朗大使 抗议该国船只遭袭",
+          "url": "https://wallstreetcn.com/livenews/3137661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -556,6 +600,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "科威特借油轮遇袭事件召见伊朗大使。",
+          "url": "https://wallstreetcn.com/livenews/3137653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "科威特军方表示，防空系统目前正在拦截伊朗的导弹和无人机。",
           "url": "https://flash.jin10.com/detail/20260721052530774800",
           "source": "金十数据",
@@ -578,6 +633,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "伊朗部长会见巴基斯坦陆军元帅和总理。",
+          "url": "https://wallstreetcn.com/livenews/3137652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "伊朗迈赫尔通讯社：伊朗中部伊斯法罕传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260721051715347800",
           "source": "金十数据",
@@ -587,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "美军连续第十晚打击伊朗 调解方提议美伊停火十日",
+          "url": "https://wallstreetcn.com/livenews/3137651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "伊朗革命卫队称打击约旦和巴林境内的美国目标",
@@ -631,12 +708,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "PRESS TV：伊朗伊斯兰革命卫队击中科威特贾比尔基地的美军雷达。",
+          "url": "https://wallstreetcn.com/livenews/3137646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -710,6 +798,28 @@
           "time_info": "[10时32分 ~ 21时42分]"
         },
         {
+          "title": "美国总统特朗普：如果红海被封锁，将不得不处理相关业务。",
+          "url": "https://flash.jin10.com/detail/20260721231902762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。",
+          "url": "https://flash.jin10.com/detail/20260721231816030800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
           "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
@@ -720,6 +830,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时32分 ~ 16时24分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及胡塞封锁）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260721231753948800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复",
@@ -744,6 +865,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "美国总统特朗普宣称：伊朗想要见面，但我们没兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3137671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
           "url": "https://flash.jin10.com/detail/20260721073043061800",
           "source": "金十数据",
@@ -764,6 +896,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
+          "url": "https://wallstreetcn.com/livenews/3137667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时06分 ~ 23时42分]"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -789,16 +945,15 @@
           "time_info": "[16时24分 ~ 19时07分]"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
+          "title": "黎巴嫩总统奥恩感谢美国总统特朗普在签署框架协议方面取得的历史性成就。",
+          "url": "https://flash.jin10.com/detail/20260721231555478800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -837,6 +992,17 @@
           "time_info": "[06时58分 ~ 07时58分]"
         },
         {
+          "title": "美国总统特朗普：将妥善对待黎巴嫩，给予应有的尊重。",
+          "url": "https://flash.jin10.com/detail/20260721231518766800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美国总统特朗普：与英国新任首相进行了非常好的交谈。",
           "url": "https://flash.jin10.com/detail/20260721061943905800",
           "source": "金十数据",
@@ -860,6 +1026,28 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将大力帮助黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260721231438448800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
           "url": "https://flash.jin10.com/detail/20260721005257690800",
           "source": "金十数据",
@@ -869,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "美国总统特朗普：将与黎巴嫩的黎巴嫩总统奥恩取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260721231419836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "美国总统特朗普声称：与英国首相伯纳姆关系非常不错。 我们讨论了北海石油和贸易问题。 将在不久的将来与伯纳姆会见。",
@@ -883,6 +1082,28 @@
           "time_info": "[06时58分 ~ 07时58分]"
         },
         {
+          "title": "美国总统特朗普：黎巴嫩遭受重创已达数十年之久。",
+          "url": "https://flash.jin10.com/detail/20260721231410402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "美国总统特朗普：与黎巴嫩的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260721231407346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美国总统特朗普：每当伊朗杀死一名美国士兵，都将为此付出数倍的代价。",
           "url": "https://flash.jin10.com/detail/20260721004236435800",
           "source": "金十数据",
@@ -892,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "美国总统特朗普：我们对黎巴嫩的情况感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20260721231244822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
@@ -914,6 +1146,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩总统奥恩备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260721230922065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在白宫接见黎巴嫩总统，准备举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721230909971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们对黎巴嫩感觉良好。 以色列正从黎巴嫩“撤军”。",
+          "url": "https://wallstreetcn.com/livenews/3137666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "以色列称伊朗将数千台离心机转移至“镐山”，特朗普盯上目标",
@@ -958,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
+          "url": "https://wallstreetcn.com/livenews/3137656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
@@ -1032,7 +1308,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
@@ -1040,7 +1316,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -1052,8 +1328,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 21时42分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 23时42分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -1106,6 +1382,17 @@
           "time_info": "[06时58分 ~ 13时49分]"
         },
         {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -1123,7 +1410,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1158,9 +1445,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时42分]"
         },
         {
           "title": "花旗策略师称美股头寸平仓可能还未结束",
@@ -1180,7 +1479,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1208,6 +1507,17 @@
           "time_info": "[19时06分 ~ 19时07分]"
         },
         {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美银全球研究：将美光科技(MU.O)纳入美股首选名单“US 1 List”。",
           "url": "https://flash.jin10.com/detail/20260721184528884800",
           "source": "金十数据",
@@ -1219,24 +1529,13 @@
           "time_info": "[19时06分 ~ 19时07分]"
         },
         {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1247,7 +1546,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1272,6 +1571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
+          "url": "https://wallstreetcn.com/livenews/3137664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。 光通信板块上涨，迈威尔科技涨超6%，Credo涨超5%，Coherent涨5%，Lumentum、康宁涨4.5%。",
@@ -1335,7 +1645,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1376,7 +1686,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -1421,11 +1731,12 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时06分 ~ 23时42分]"
         },
         {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
@@ -1438,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时58分]"
+        },
+        {
+          "title": "113家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://wallstreetcn.com/livenews/3137648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "Kimi K3创造另一个“DeepSeek时刻”",
@@ -1454,7 +1776,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -1466,8 +1788,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时42分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -1479,6 +1801,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 13时49分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
+          "url": "https://wallstreetcn.com/livenews/3137668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -1498,6 +1831,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            15,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 23时42分]"
+        },
+        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -1510,20 +1858,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时32分 ~ 19时07分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            15,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 21时42分]"
         }
       ]
     },
@@ -1549,7 +1883,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
@@ -1566,7 +1900,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
