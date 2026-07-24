@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T07:58:57.566956+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-07-24T10:46:34.534435+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2063259853338972886",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 10时46分]"
+        },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
           "url": "https://flash.jin10.com/detail/20260724011726266800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2063259853338972886",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时58分]"
         },
         {
           "title": "据以色列时报：以色列国防部长卡茨今天在安全评估中表示，以色列“已为各种可能性做好准备”，以应对与伊朗的紧张局势。",
@@ -53,13 +53,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260724072812353800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -85,6 +96,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时46分]"
         },
         {
           "title": "科威特外交部：谴责伊朗及其代理人持续对科威特发动的袭击，阿卜代利边境口岸受到影响。",
@@ -137,7 +160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -153,24 +176,13 @@
           "time_info": "05时01分"
         },
         {
-          "title": "伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "美军称连续第13晚袭击伊朗",
           "url": "https://flash.jin10.com/detail/20260724071454563800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -192,7 +204,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -214,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -288,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -306,11 +318,36 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 10时46分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时58分]"
+          "time_info": "[07时58分 ~ 10时46分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时46分]"
         },
         {
           "title": "美股",
@@ -325,26 +362,15 @@
           "time_info": "[01时19分 ~ 07时58分]"
         },
         {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时46分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -392,6 +418,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时46分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -449,15 +487,15 @@
           "time_info": "05时01分"
         },
         {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时46分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
@@ -496,7 +534,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -515,11 +553,38 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 10时46分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -544,27 +609,13 @@
           "time_info": "03时11分"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 07时58分]"
-        },
-        {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
           "url": "https://wallstreetcn.com/livenews/3139120",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -622,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
@@ -682,7 +744,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -770,9 +832,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
@@ -824,8 +897,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 10时46分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -871,7 +944,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -890,7 +963,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价四连涨深圳水贝又挤爆了",
@@ -916,6 +989,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）上海金早盘价为882.94元/克，较国际金价(881.5元/克)，高1.44元/克",
+          "url": "https://flash.jin10.com/detail/20260724101959310800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
