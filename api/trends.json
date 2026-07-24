@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T13:49:33.354556+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-07-24T16:23:48.060040+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -42,24 +42,13 @@
           "time_info": "[01时19分 ~ 01时20分]"
         },
         {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时49分]"
-        },
-        {
           "title": "伊朗袭击约旦和巴林境内美军基地",
           "url": "https://flash.jin10.com/detail/20260724132809850800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -73,6 +62,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时23分]"
         },
         {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
@@ -165,13 +166,24 @@
           "time_info": "[01时19分 ~ 01时20分]"
         },
         {
+          "title": "伊朗司法总监埃杰伊：伊朗对其邻国没有敌意或仇恨，并将其视为朋友。",
+          "url": "https://flash.jin10.com/detail/20260724161515487800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "据报伊朗防空系统击落一飞行器",
           "url": "https://wallstreetcn.com/livenews/3139236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -185,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗司法总监埃杰伊：美国及其总统唯一的出路是放弃过分的诉求和霸凌行径，永远不要幻想伊朗人民会屈服。",
+          "url": "https://flash.jin10.com/detail/20260724161507553800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
@@ -209,6 +232,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊拉克总理扎伊迪会见了伊朗司法总监埃杰伊。埃杰伊表示，在过去47年里，美国对伊朗人民施加了各种形式的敌意，从宣传和心理战到经济恐怖主义以及安全和军事阴谋。",
+          "url": "https://flash.jin10.com/detail/20260724161433214800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3139021",
           "source": "华尔街见闻-快讯",
@@ -226,7 +260,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -248,7 +282,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -270,7 +304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -286,13 +320,24 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊朗称对驻科威特美军基地发动新一轮无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3139315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "伊朗称伊斯法罕省遭美国袭击",
           "url": "https://wallstreetcn.com/livenews/3139214",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -366,7 +411,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -387,11 +432,12 @@
             17,
             18,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 13时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 16时23分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -405,8 +451,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时11分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[03时11分 ~ 16时23分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -416,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时23分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -426,9 +472,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "根据美国国防部伤亡分析系统的数据，五角大楼在一天之内将伊朗战争的官方死亡人数从18人下调至14人。《纽约时报》称，其中一个原因是，他们的死亡发生在特朗普4月份宣布停火之后。",
+          "url": "https://flash.jin10.com/detail/20260724161751642800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -480,11 +537,35 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时23分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时49分]"
+          "time_info": "[13时49分 ~ 16时23分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
@@ -498,17 +579,6 @@
           "time_info": "03时11分"
         },
         {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
           "title": "美国总统特朗普：我们在应对伊朗方面进展非常顺利，表现非常好。",
           "url": "https://flash.jin10.com/detail/20260724025052494800",
           "source": "金十数据",
@@ -518,17 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         },
         {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
@@ -597,6 +656,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "【外交部：愿在人工智能领域落实好中美元首重要共识】就有报道称美国总统特朗普表示美中两国领导人将讨论人工智能相关议题，外交部发言人林剑24日在例行记者会上答问时表示，元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道，在人工智能领域落实好两国元首的重要共识。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3139307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
           "url": "https://wallstreetcn.com/livenews/3139043",
           "source": "华尔街见闻-快讯",
@@ -611,8 +681,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时11分 ~ 16时23分]"
+        },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -625,18 +707,6 @@
           "time_info": "[01时19分 ~ 06时11分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时11分 ~ 13时49分]"
-        },
-        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
@@ -645,8 +715,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 16时23分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时58分 ~ 13时49分]"
+          "time_info": "[10时46分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -659,18 +741,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时58分 ~ 13时49分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时49分]"
         },
         {
           "title": "美股",
@@ -777,6 +847,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美股盘前，英特尔涨约5%，公司Q2营收增25%大超预期，指引保持高增。 Amkor涨约9%，英伟达与Amkor签署价值15亿美元的芯片封装协议。",
+          "url": "https://wallstreetcn.com/livenews/3139324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260724040548081800",
           "source": "金十数据",
@@ -846,18 +927,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "百度热搜",
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "16时23分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时23分]"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -967,7 +1060,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -1122,8 +1215,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时23分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）上海金早盘价为882.94元/克，较国际金价(881.5元/克)，高1.44元/克",
@@ -1135,6 +1228,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -1164,23 +1285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
         }
       ]
     }
