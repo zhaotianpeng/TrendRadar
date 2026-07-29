@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T13:50:03.896666+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-07-29T16:36:21.587404+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,29 @@
           "time_info": "[00时07分 ~ 06时08分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 16时36分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 16时36分]"
+        },
+        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
@@ -91,15 +114,16 @@
           "time_info": "[00时07分 ~ 06时08分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 16时36分]"
         },
         {
           "title": "美以领导人会晤，聚焦伊朗核问题",
@@ -112,29 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 04时15分]"
-        },
-        {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时50分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时50分]"
         },
         {
           "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
@@ -549,7 +550,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
@@ -574,17 +575,6 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
-        },
-        {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
           "url": "https://flash.jin10.com/detail/20260729014235848800",
           "source": "金十数据",
@@ -594,6 +584,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 16时36分]"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -716,6 +718,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "乌克兰总统泽连斯基发布的照片显示，美国国务卿鲁比奥出席了与美国总统特朗普的会议，但未见美国副总统万斯的身影。",
@@ -842,7 +866,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -855,8 +879,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 16时36分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -876,11 +900,12 @@
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时36分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -889,11 +914,12 @@
           "ranks": [
             11,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -978,6 +1004,17 @@
           "time_info": "[04时15分 ~ 06时08分]"
         },
         {
+          "title": "美股盘前，存储概念股延续跌势，美光科技、SK海力士均跌超1%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3141563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260729040547613800",
           "source": "金十数据",
@@ -1009,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "SK海力士(SKHY.O)美股盘前跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260729162856277800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美股收盘：美光海力士跌约9%，闪迪较高点腰斩",
@@ -1094,7 +1142,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
