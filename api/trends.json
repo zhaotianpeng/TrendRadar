@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T10:27:06.834192+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-07-29T13:50:03.896666+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -61,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -91,6 +91,17 @@
           "time_info": "[00时07分 ~ 06时08分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时50分]"
+        },
+        {
           "title": "美以领导人会晤，聚焦伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3141150",
           "source": "华尔街见闻-快讯",
@@ -101,6 +112,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 04时15分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时50分]"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时50分]"
         },
         {
           "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
@@ -126,17 +160,6 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
-        },
-        {
           "title": "美以领导人会晤 聚焦伊朗核问题",
           "url": "https://flash.jin10.com/detail/20260729012940573800",
           "source": "金十数据",
@@ -160,17 +183,6 @@
           "time_info": "[02时13分 ~ 04时15分]"
         },
         {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
-        },
-        {
           "title": "伊朗副外长：若阿曼拒绝我方条件，将不会承认霍尔木兹海峡的南侧航线。",
           "url": "https://flash.jin10.com/detail/20260729011604870800",
           "source": "金十数据",
@@ -180,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧航线的一部分。（外媒更正阿曼管理“另一侧航线的一部分”而非“全部”）",
@@ -246,6 +247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：科威特方面表示，伊朗在伊拉克的民兵组织持续实施袭击，反映出其坚持继续升级局势。",
+          "url": "https://flash.jin10.com/detail/20260729132511563800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "伊朗副外长：我们在霍尔木兹海峡的目标，既包括行使主权，也包括获取收入。如果说从霍尔木兹海峡获取收入不是我们的优先事项，那是错误的。",
@@ -408,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -537,7 +549,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
@@ -560,6 +572,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
@@ -588,11 +611,12 @@
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时50分]"
         },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -615,6 +639,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A4%BC%E6%89%93%E7%9E%8C%E7%9D%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
@@ -700,7 +746,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -733,7 +779,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -796,8 +842,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 13时50分]"
+        },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
@@ -812,18 +872,40 @@
           "time_info": "[00时07分 ~ 10时27分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 10时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 13时50分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 13时50分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 13时50分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -835,40 +917,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时27分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 10时27分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时27分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -914,8 +962,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时50分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -1038,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -1191,11 +1250,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 10时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 13时50分]"
         }
       ]
     },
