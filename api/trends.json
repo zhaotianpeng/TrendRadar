@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:32:57.838520+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-08-03T14:20:29.245964+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 07时57分]"
+        },
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 14时20分]"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗看到了美国的3个软肋",
-          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
@@ -64,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -464,13 +464,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
           "url": "https://www.cls.cn/detail/2443408",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -511,7 +522,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -521,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 14时20分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -573,6 +584,18 @@
           "time_info": "[00时07分 ~ 06时54分]"
         },
         {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 14时20分]"
+        },
+        {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
           "url": "https://wallstreetcn.com/livenews/3143717",
           "source": "华尔街见闻-快讯",
@@ -598,6 +621,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时00分 ~ 04时52分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时20分]"
         },
         {
           "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
@@ -637,15 +672,15 @@
           "time_info": "[02时00分 ~ 03时20分]"
         },
         {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时20分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
@@ -658,18 +693,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时54分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时32分]"
         },
         {
           "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
@@ -817,6 +840,28 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "特朗普称美伊3日将举行谈判",
           "url": "https://flash.jin10.com/detail/20260803055834448800",
           "source": "金十数据",
@@ -826,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "摩洛哥国王决定以特朗普名字命名公路",
+          "url": "https://www.toutiao.com/trending/7669384893911973894/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
@@ -856,7 +912,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -911,7 +967,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -933,6 +989,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 14时20分]"
+        },
+        {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
           "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
@@ -946,19 +1016,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 06时54分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 10时32分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -977,6 +1034,64 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 07时57分]"
+        },
+        {
+          "title": "通胀“过山车”难挡美股牛市？小摩押注标普500明年冲击8200点",
+          "url": "https://flash.jin10.com/detail/20260803140546061800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -985,11 +1100,12 @@
           "url": "https://www.zhihu.com/question/2065724643378570793",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 14时20分]"
         }
       ]
     },
@@ -1004,47 +1120,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 14时20分]"
         }
       ]
     }
