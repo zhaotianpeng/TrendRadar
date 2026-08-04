@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:37:00.677978+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-08-04T18:36:01.175604+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 15时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 18时36分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -79,6 +79,43 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时36分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 18时36分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 18时36分]"
+        },
+        {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
           "url": "https://flash.jin10.com/detail/20260804001514489800",
           "source": "金十数据",
@@ -135,30 +172,6 @@
           "time_info": "[12时11分 ~ 15时37分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时37分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时37分]"
-        },
-        {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
@@ -171,6 +184,17 @@
           "time_info": "[12时11分 ~ 15时37分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "特朗普称“正在谈判”，霍尔木兹可能明天就重开！伊朗打脸：根本没谈",
           "url": "https://flash.jin10.com/detail/20260804065528410800",
           "source": "金十数据",
@@ -180,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "特朗普威胁对伊朗采取“斩首”行动",
-          "url": "https://www.douyin.com/hot/2596526",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
         },
         {
           "title": "美议员痛批特朗普行事反复无常",
@@ -592,7 +605,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 38,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -604,6 +617,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
+          "url": "https://flash.jin10.com/detail/20260804181312602800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "伊朗总统佩泽希基扬表示，伊朗无意加剧西亚紧张局势，但在捍卫领土完整问题上绝不妥协。",
@@ -626,6 +672,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "伊朗领袖顾问称美军决策水平大滑坡",
+          "url": "https://wallstreetcn.com/livenews/3144678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.toutiao.com/trending/7668954284482134058/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时36分]"
         },
         {
           "title": "伊朗公布遇袭船只画面：错信美国",
@@ -651,15 +720,15 @@
           "time_info": "[04时25分 ~ 08时07分]"
         },
         {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.toutiao.com/trending/7668954284482134058/",
-          "source": "今日头条",
+          "title": "据路透社：消息人士称，美国陆军在伊朗战争期间已消耗了大量远程陆基导弹。",
+          "url": "https://flash.jin10.com/detail/20260804180253910800",
+          "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
@@ -672,6 +741,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗与阿曼讨论的海峡临时方案或给予伊对入境船运的完全控制权",
+          "url": "https://flash.jin10.com/detail/20260804175624888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，伊朗不太可能接受重新开放霍尔木兹海峡的任何其他替代方案。",
+          "url": "https://flash.jin10.com/detail/20260804174925041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，该计划将使伊朗能够掌握霍尔木兹海峡出港交通的动态，并在必要时具备干预能力。",
+          "url": "https://flash.jin10.com/detail/20260804174845912800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，对于霍尔木兹海峡出港航道，阿曼将在通知伊朗后为离港船只放行。",
+          "url": "https://flash.jin10.com/detail/20260804174807161800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，霍尔木兹海峡出港航道将采用伊朗与阿曼之间的路线。",
+          "url": "https://flash.jin10.com/detail/20260804174723571800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，与阿曼讨论的霍尔木兹海峡临时方案将赋予德黑兰对进港航运的完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260804174641311800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "伊朗放话让美军回到石器时代",
@@ -752,6 +887,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://wallstreetcn.com/livenews/3144655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "伊朗公布所袭船只画面指其错信美国",
           "url": "https://wallstreetcn.com/livenews/3144239",
           "source": "华尔街见闻-快讯",
@@ -780,7 +926,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -796,13 +942,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美军被曝征集“创造性”打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3144651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "巴基斯坦外长邀请伊朗外长尽早访巴",
           "url": "https://wallstreetcn.com/livenews/3144563",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -876,7 +1033,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -887,8 +1044,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 18时36分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -1030,6 +1187,17 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
+          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3144672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
           "url": "https://wallstreetcn.com/livenews/3144358",
           "source": "华尔街见闻-快讯",
@@ -1132,7 +1300,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -1171,6 +1339,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 08时07分]"
+        },
+        {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 18时36分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -1214,18 +1395,6 @@
           "time_info": "[02时49分 ~ 08时07分]"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时37分]"
-        },
-        {
           "title": "DeepSeek斩杀线",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1249,6 +1418,17 @@
           "time_info": "[02时49分 ~ 06时06分]"
         },
         {
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -1258,6 +1438,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     },
@@ -1273,11 +1464,12 @@
             7,
             9,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 15时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 18时36分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -1359,6 +1551,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时36分]"
+        },
+        {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
           "url": "https://flash.jin10.com/detail/20260804113530933800",
           "source": "金十数据",
@@ -1368,17 +1572,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
         }
       ]
     },
