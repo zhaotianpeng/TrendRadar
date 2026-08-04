@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T18:36:01.175604+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-04T21:01:26.901560+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 21时01分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -57,6 +57,19 @@
           "time_info": "[12时11分 ~ 15时37分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 21时01分]"
+        },
+        {
           "title": "特朗普怒批石油巨头“赚太多”：要求利润回馈公众，汽油价格必须降！",
           "url": "https://flash.jin10.com/detail/20260804073840550800",
           "source": "金十数据",
@@ -89,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时36分 ~ 18时36分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 18时36分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
@@ -172,6 +173,18 @@
           "time_info": "[12时11分 ~ 15时37分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 21时01分]"
+        },
+        {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时11分 ~ 15时37分]"
-        },
-        {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "特朗普称“正在谈判”，霍尔木兹可能明天就重开！伊朗打脸：根本没谈",
@@ -605,7 +607,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -619,6 +621,18 @@
           "time_info": "[00时22分 ~ 08时07分]"
         },
         {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 21时01分]"
+        },
+        {
           "title": "伊朗总统否认辞职传闻",
           "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
           "source": "凤凰网",
@@ -630,15 +644,26 @@
           "time_info": "[18时35分 ~ 18时36分]"
         },
         {
-          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
-          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "title": "美财长：或8月5日与伊朗达成协议",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
@@ -680,7 +705,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -718,6 +743,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 08时07分]"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "据路透社：消息人士称，美国陆军在伊朗战争期间已消耗了大量远程陆基导弹。",
@@ -832,6 +868,17 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
+          "title": "知情人士：对伊朗袭击使美耗尽“几乎所有”高精度远程导弹",
+          "url": "https://wallstreetcn.com/livenews/3144756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "伊朗革命卫队称具备全面情报掌控力",
           "url": "https://wallstreetcn.com/livenews/3144255",
           "source": "华尔街见闻-快讯",
@@ -841,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗沙姆萨巴德工业区发生爆炸，18人受伤",
+          "url": "https://wallstreetcn.com/livenews/3144752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "【伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线】伊朗最高领袖军事顾问穆赫辛·雷扎伊在接受媒体采访时表示，伊朗决不允许美国在霍尔木兹海峡开辟任何非伊朗的航线，即使美国在霍尔木兹海峡的非法航线上部署军舰，伊朗也会将其作为目标。雷扎伊还表示，伊朗此前已准备好攻击乌克兰的三个地点，但是由于乌克兰道歉，伊朗取消了攻击。（央视）",
@@ -893,7 +951,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -948,7 +1006,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1019,6 +1077,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美财长：可能明日与伊朗达成协议以开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3144735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "伊朗公布遇袭船只画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%81%87%E8%A2%AD%E8%88%B9%E5%8F%AA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
@@ -1044,8 +1113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时06分 ~ 18时36分]"
+          "appearance_count": 10,
+          "time_info": "[08时06分 ~ 21时01分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -1193,7 +1262,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1300,7 +1369,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -1329,6 +1398,20 @@
           "time_info": "[00时22分 ~ 08时07分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 21时01分]"
+        },
+        {
           "title": "DeepSeek 斩杀线",
           "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
           "source": "百度热搜",
@@ -1339,19 +1422,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 08时07分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 18时36分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -1393,6 +1463,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时49分 ~ 08时07分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 21时01分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -1440,15 +1521,15 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "time_info": "[21时00分 ~ 21时01分]"
         }
       ]
     },
@@ -1465,11 +1546,12 @@
             9,
             13,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 21时01分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -1559,8 +1641,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 21时01分]"
         },
         {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
