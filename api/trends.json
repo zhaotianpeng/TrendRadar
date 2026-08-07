@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T08:40:52.985023+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-07T11:49:00.202799+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -48,19 +60,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
+          "url": "https://www.cls.cn/detail/2447865",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "美伊战争弹药消耗真相藏不住了？特朗普紧急追查泄密",
+          "url": "https://flash.jin10.com/detail/20260807105403364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -116,23 +161,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3146368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
           "url": "https://wallstreetcn.com/articles/3778857",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -157,33 +225,46 @@
           "time_info": "08时40分"
         },
         {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "梁文锋投了宇树",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E4%BA%86%E5%AE%87%E6%A0%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -211,11 +292,12 @@
           "url": "https://www.cls.cn/detail/2447874",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
@@ -253,47 +335,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "美股三大指数集体收跌 西数跌超13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -307,11 +350,62 @@
           "time_info": "08时40分"
         },
         {
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 西数跌超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -344,6 +438,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         }
       ]
     }
