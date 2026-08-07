@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T20:56:52.445061+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-08-07T22:13:00.835346+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -18,21 +18,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时40分 ~ 18时57分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时48分 ~ 20时56分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -55,6 +40,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时40分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 22时13分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -111,7 +112,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -267,7 +268,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -414,8 +415,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 22时13分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -438,6 +439,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时13分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -509,17 +522,6 @@
           "time_info": "08时40分"
         },
         {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -534,18 +536,33 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 22时13分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 22时13分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -560,29 +577,61 @@
           "time_info": "[08时40分 ~ 15时11分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
-            8,
-            3,
-            2,
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 20时56分]"
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
           "url": "https://www.cls.cn/detail/2448478",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时13分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260807214234632800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
+          "title": "美国7月非农超预期下降，美股三大股指集体高开",
+          "url": "https://wallstreetcn.com/livenews/3146763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "22时13分"
         },
         {
           "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
@@ -594,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3146757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -632,7 +692,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -643,8 +703,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 22时13分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -658,6 +718,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时40分 ~ 15时11分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "伊朗发视频隐喻美国国运衰落原因",
@@ -705,13 +776,24 @@
           "time_info": "08时40分"
         },
         {
+          "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
+          "url": "https://wallstreetcn.com/livenews/3146751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
           "url": "https://flash.jin10.com/detail/20260807195826499800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -730,7 +812,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -753,6 +835,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -839,7 +932,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -864,6 +957,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3146770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     }
