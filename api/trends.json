@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:26:18.371842+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-08-08T20:41:20.114505+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -52,8 +52,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时41分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -68,16 +80,15 @@
           "time_info": "[03时51分 ~ 07时31分]"
         },
         {
-          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
-          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时26分]"
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -106,18 +117,6 @@
           "time_info": "[07时31分 ~ 14时46分]"
         },
         {
-          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
-          "url": "https://wallstreetcn.com/livenews/3146991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时26分]"
-        },
-        {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
           "url": "https://flash.jin10.com/detail/20260808032152103800",
           "source": "金十数据",
@@ -143,15 +142,17 @@
           "time_info": "[15时47分 ~ 18时30分]"
         },
         {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2,
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时41分]"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
@@ -165,26 +166,56 @@
           "time_info": "01时47分"
         },
         {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://wallstreetcn.com/livenews/3146994",
-          "source": "华尔街见闻-快讯",
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
           "ranks": [
-            1
+            7,
+            12,
+            19,
+            25,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时41分]"
         },
         {
-          "title": "阿联酋外交部：将霍尔木兹海峡作为施压或勒索的工具是伊朗革命卫队的海盗行为。",
-          "url": "https://flash.jin10.com/detail/20260808184619844800",
-          "source": "金十数据",
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            9,
+            13,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 20时41分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
@@ -192,22 +223,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时26分]"
-        },
-        {
-          "title": "阿联酋外交部：我们强烈谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮进行袭击。",
-          "url": "https://flash.jin10.com/detail/20260808184608286800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时41分]"
         },
         {
           "title": "美国财长贝森特：伊朗的影子银行体系正在“经济狂怒”行动下陷入困境，该政权可用于转移资金的渠道正在耗尽。美国财政部将继续曝光这些网络，并切断它们与美国金融体系的联系。",
@@ -221,43 +242,29 @@
           "time_info": "02时52分"
         },
         {
-          "title": "伊朗：同阿曼的谈判与霍尔木兹海峡能否重开无关",
-          "url": "https://flash.jin10.com/detail/20260808184038506800",
-          "source": "金十数据",
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
-          "url": "https://wallstreetcn.com/livenews/3146979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 19时26分]"
-        },
-        {
-          "title": "曝美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://www.toutiao.com/trending/7671436241469538350/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12,
-            19,
-            25
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时26分]"
+          "time_info": "[17时35分 ~ 20时41分]"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时41分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -273,18 +280,6 @@
           "time_info": "[03时52分 ~ 05时36分]"
         },
         {
-          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
-          "url": "https://wallstreetcn.com/livenews/3146989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时26分]"
-        },
-        {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
           "url": "https://wallstreetcn.com/livenews/3146838",
           "source": "华尔街见闻-快讯",
@@ -298,6 +293,18 @@
           "time_info": "[00时52分 ~ 02时52分]"
         },
         {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
+        },
+        {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146859",
           "source": "华尔街见闻-快讯",
@@ -308,6 +315,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时52分]"
+        },
+        {
+          "title": "阿联酋外交部：将霍尔木兹海峡作为施压或勒索的工具是伊朗革命卫队的海盗行为。",
+          "url": "https://flash.jin10.com/detail/20260808184619844800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
+        },
+        {
+          "title": "阿联酋外交部：我们强烈谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮进行袭击。",
+          "url": "https://flash.jin10.com/detail/20260808184608286800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗：同阿曼的谈判与霍尔木兹海峡能否重开无关",
+          "url": "https://flash.jin10.com/detail/20260808184038506800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
@@ -336,17 +379,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时51分 ~ 07时31分]"
-        },
-        {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时26分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -567,6 +599,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
+          "url": "https://www.zhihu.com/question/2069421184177763676",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "以媒称伊朗最高领袖穆杰塔巴病危",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E7%97%85%E5%8D%B1%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -589,6 +632,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "伊朗接近与阿曼达成管理海峡协议",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。 美国财长贝森特声称：“伊朗政权对数字资产与影子银行网络的依赖，进一步证明经济制裁正在奏效。我们将继续加大经济施压力度。无论是美元、里亚尔还是加密货币，财政部都将追查并瓦解维系该政权运转的非法金融网络。”",
           "url": "https://wallstreetcn.com/livenews/3146860",
           "source": "华尔街见闻-快讯",
@@ -598,6 +652,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡原有航道分隔方案已失效，需重新划定航线。",
+          "url": "https://flash.jin10.com/detail/20260808193134166800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "伊朗总统佩泽希其扬：伊朗无意将邻国作为打击目标，但被用来发起针对伊朗袭击的地点本身或将成为打击对象。 在与法国为阻止快速恢复制裁机制而开展的谈判中，我们曾达成共识，但遭到美国阻挠。欧洲没有作出独立决策的权限。",
@@ -614,7 +701,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -641,8 +728,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 20时41分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -657,8 +744,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时51分 ~ 19时26分]"
+          "appearance_count": 19,
+          "time_info": "[03时51分 ~ 20时41分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -685,6 +772,19 @@
           "time_info": "[00时51分 ~ 05时36分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 20时41分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
           "url": "https://flash.jin10.com/detail/20260808001738444800",
           "source": "金十数据",
@@ -705,19 +805,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时26分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -793,6 +880,17 @@
           "time_info": "[04时38分 ~ 09时19分]"
         },
         {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时41分]"
+        },
+        {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
           "url": "https://wallstreetcn.com/livenews/3146874",
           "source": "华尔街见闻-快讯",
@@ -827,17 +925,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时19分 ~ 13时41分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -875,6 +962,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
+          "url": "https://flash.jin10.com/detail/20260808183100642800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -991,17 +1090,6 @@
           "time_info": "[03时51分 ~ 03时52分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
-          "url": "https://flash.jin10.com/detail/20260808183100642800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：日本当局与特朗普政府干预过后，8月4日当周，对冲基金将日元空头仓位砍半。 杠杆基金将墨西哥比索净多头头寸推升至2025年12月以来最高水平。",
           "url": "https://wallstreetcn.com/livenews/3146902",
           "source": "华尔街见闻-快讯",
@@ -1011,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -1102,11 +1201,12 @@
           "ranks": [
             4,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时41分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1131,8 +1231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1146,8 +1246,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时32分 ~ 19时26分]"
+          "appearance_count": 15,
+          "time_info": "[06时32分 ~ 20时41分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -1299,11 +1399,12 @@
             5,
             7,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时41分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1335,8 +1436,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时51分 ~ 19时26分]"
+          "appearance_count": 19,
+          "time_info": "[03时51分 ~ 20时41分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1394,6 +1495,18 @@
           "time_info": "[12时54分 ~ 14时46分]"
         },
         {
+          "title": "黄金价格走势或反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时41分]"
+        },
+        {
           "title": "油价金价银价都涨了",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
           "source": "百度热搜",
@@ -1406,17 +1519,6 @@
           "time_info": "[11时23分 ~ 12时54分]"
         },
         {
-          "title": "黄金价格走势或反转",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
           "url": "https://wallstreetcn.com/livenews/3146816",
           "source": "华尔街见闻-快讯",
@@ -1426,6 +1528,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            17,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 20时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     },
@@ -1474,37 +1623,31 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            20,
-            22,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 19时26分]"
-        },
-        {
-          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
-          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
           "source": "金十数据",
           "ranks": [
-            26
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
+          "url": "https://wallstreetcn.com/livenews/3146873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "time_info": "[02时52分 ~ 03时52分]"
         }
       ]
     },
@@ -1522,24 +1665,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时45分 ~ 19时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
-          "url": "https://wallstreetcn.com/livenews/3146873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时52分]"
         }
       ]
     },
