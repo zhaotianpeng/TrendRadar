@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:46:01.119203+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-08-08T15:47:40.754682+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时47分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时51分 ~ 14时46分]"
+          "appearance_count": 13,
+          "time_info": "[03时51分 ~ 15时47分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -52,11 +52,26 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            11
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时47分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时46分]"
+          "time_info": "[12时54分 ~ 15时47分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -79,19 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时46分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -445,7 +447,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -478,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时47分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -540,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "美国财长贝森特：伊朗的影子银行体系正在“经济狂怒”行动下陷入困境，该政权可用于转移资金的渠道正在耗尽。美国财政部将继续曝光这些网络，并切断它们与美国金融体系的联系。",
@@ -882,8 +895,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时47分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -903,22 +916,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时46分]"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时52分]"
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 15时47分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -930,8 +933,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时47分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时46分]"
+          "time_info": "[00时51分 ~ 03时52分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -1058,6 +1072,19 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时47分]"
+        },
+        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -1069,8 +1096,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时51分 ~ 14时46分]"
+          "appearance_count": 13,
+          "time_info": "[03时51分 ~ 15时47分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1082,18 +1109,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时46分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -1225,8 +1240,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时47分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
