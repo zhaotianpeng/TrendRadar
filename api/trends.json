@@ -1,11 +1,187 @@
 {
-  "generated_at": "2026-08-11T00:56:03.068752+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-11T01:50:49.196500+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
+          "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3147641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
+          "url": "https://flash.jin10.com/detail/20260811011430495800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普要求伊朗赔偿",
+          "url": "https://wallstreetcn.com/livenews/3147621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时50分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
+          "url": "https://flash.jin10.com/detail/20260811003934129800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
+          "url": "https://flash.jin10.com/detail/20260811003419512800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "特朗普：将赔偿问题纳入未来的谈判",
+          "url": "https://wallstreetcn.com/livenews/3147619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时50分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
+          "url": "https://flash.jin10.com/detail/20260811011059897800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
+          "url": "https://flash.jin10.com/detail/20260811010308412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
+          "url": "https://wallstreetcn.com/livenews/3147630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -15,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -26,30 +202,55 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
+          "url": "https://flash.jin10.com/detail/20260811011553614800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
           "url": "https://flash.jin10.com/detail/20260811003027747800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
           "url": "https://flash.jin10.com/detail/20260811001859720800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
+          "url": "https://wallstreetcn.com/livenews/3147616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "time_info": "[00时56分 ~ 01时50分]"
         },
         {
           "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
@@ -85,24 +286,13 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
-          "url": "https://wallstreetcn.com/livenews/3147616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
           "url": "https://wallstreetcn.com/livenews/3147604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -113,7 +303,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -124,123 +314,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
-          "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "特朗普要求伊朗赔偿",
-          "url": "https://wallstreetcn.com/livenews/3147621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
-          "url": "https://flash.jin10.com/detail/20260811003934129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
-          "url": "https://flash.jin10.com/detail/20260811003419512800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "特朗普：将赔偿问题纳入未来的谈判",
-          "url": "https://wallstreetcn.com/livenews/3147619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时56分"
         }
@@ -248,51 +322,77 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
+          "url": "https://flash.jin10.com/detail/20260811012108617800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
+          "url": "https://wallstreetcn.com/livenews/3147639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
           "url": "https://flash.jin10.com/detail/20260811005217914800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
           "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
           "url": "https://flash.jin10.com/detail/20260811005131000800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
           "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -302,8 +402,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        },
+        {
+          "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
+          "url": "https://wallstreetcn.com/livenews/3147635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
+          "url": "https://wallstreetcn.com/livenews/3147627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         }
       ]
     },
@@ -319,41 +452,61 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
           "url": "https://flash.jin10.com/detail/20260811004521998800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260811004311524800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260811004202641800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         }
       ]
     }
