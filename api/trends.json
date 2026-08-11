@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:39:18.673512+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-08-12T07:37:30.094693+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -31,20 +45,6 @@
           "time_info": "[00时59分 ~ 03时09分]"
         },
         {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
           "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
@@ -56,17 +56,6 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
-          "url": "https://flash.jin10.com/detail/20260812063020231800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "据伊朗媒体FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
           "url": "https://flash.jin10.com/detail/20260812013243718800",
           "source": "金十数据",
@@ -76,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
+          "url": "https://flash.jin10.com/detail/20260812070423579800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -125,6 +125,18 @@
           "time_info": "[02时01分 ~ 03时09分]"
         },
         {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：也门武装部队在曼德海峡袭击一艘载有沙特军事装备的船只。",
           "url": "https://wallstreetcn.com/livenews/3148202",
           "source": "华尔街见闻-快讯",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
@@ -262,7 +285,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -272,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -296,8 +319,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%。",
@@ -309,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -324,6 +358,19 @@
           "time_info": "[04时40分 ~ 06时39分]"
         },
         {
+          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
+          "url": "https://wallstreetcn.com/livenews/3148253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时37分]"
+        },
+        {
           "title": "超微电脑第四财季净销售111.2亿美元，分析师预期112.6亿美元。 第四财季调整后每股收益（EPS）为1.70美元，分析师预期1.59美元。 预计第一财季净销售145亿-155亿美元，分析师预期119.9亿美元。 预计第一财季调整后EPS为1.01-1.10美元，分析师预期0.74美元。 超微电脑美股盘后涨8%。",
           "url": "https://wallstreetcn.com/livenews/3148236",
           "source": "华尔街见闻-快讯",
@@ -335,18 +382,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 06时39分]"
-        },
-        {
-          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
-          "url": "https://wallstreetcn.com/livenews/3148253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
         },
         {
           "title": "Lumentum第四财季净营收10.1亿美元，分析师预期9.90亿美元，上年同期4.807亿美元。 第四财季组件与零部件营收6.494亿美元，分析师预期6.369亿美元，上年同期3.204亿美元。 第四财季系统营收3.569亿美元，分析师预期3.504亿美元，上年同期1.603亿美元。 Lumentum美股盘后跌5%。",
@@ -456,7 +491,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -467,8 +502,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -478,8 +513,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -487,11 +522,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 07时37分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -522,11 +558,23 @@
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -557,7 +605,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -634,17 +682,6 @@
           "time_info": "00时59分"
         },
         {
-          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
-          "url": "https://wallstreetcn.com/livenews/3148266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3148238",
           "source": "华尔街见闻-快讯",
@@ -658,15 +695,28 @@
           "time_info": "[04时40分 ~ 06时39分]"
         },
         {
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
         },
         {
           "title": "Brad Lightcap宣布从OpenAI离职，称：将向前看，将“尝试一些新的东西”。",
@@ -734,11 +784,12 @@
           "url": "https://wallstreetcn.com/livenews/3148264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -821,8 +872,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时37分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -830,11 +881,12 @@
           "source": "微博",
           "ranks": [
             28,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 07时37分]"
         }
       ]
     },
