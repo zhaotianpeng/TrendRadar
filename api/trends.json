@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:42:51.486639+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-08-13T09:44:21.908599+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,19 @@
           "time_info": "[00时55分 ~ 05时42分]"
         },
         {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 09时44分]"
+        },
+        {
           "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
           "url": "https://flash.jin10.com/detail/20260813033919055800",
           "source": "金十数据",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时42分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。",
@@ -174,7 +175,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -196,7 +197,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -207,7 +208,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -229,7 +230,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -248,8 +249,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 09时44分]"
+        },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
@@ -257,17 +270,6 @@
           "ranks": [
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时42分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -282,8 +284,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 09时44分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -293,30 +295,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时42分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 09时44分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -328,8 +308,52 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 09时44分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
@@ -355,12 +379,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时42分]"
+        },
+        {
+          "title": "DeepSeek最新版本藏了一个大招",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -385,6 +453,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "美股三大指数集体高开",
@@ -427,7 +517,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -438,7 +528,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -449,7 +539,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -460,15 +550,124 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时42分]"
+        },
+        {
+          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
+          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+          "url": "https://flash.jin10.com/detail/20260813035429492800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时42分]"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+          "url": "https://wallstreetcn.com/livenews/3148750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时42分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260813033525851800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
+          "url": "https://flash.jin10.com/detail/20260813044926176800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：格什姆岛沿岸近日出现石油污染，初步调查显示污染源可能为一艘外国散货船，已有多个沿海区域及部分海面受影响。",
+          "url": "https://flash.jin10.com/detail/20260813044915142800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
+          "url": "https://flash.jin10.com/detail/20260813030442991800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
@@ -552,93 +751,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗：目前使用武器都是自主研发的",
-          "url": "https://www.toutiao.com/trending/7672229042539888694/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时42分]"
         },
         {
-          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-          "url": "https://flash.jin10.com/detail/20260813035429492800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时42分]"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-          "url": "https://wallstreetcn.com/livenews/3148750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时42分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260813033525851800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
-          "url": "https://flash.jin10.com/detail/20260813044926176800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：格什姆岛沿岸近日出现石油污染，初步调查显示污染源可能为一艘外国散货船，已有多个沿海区域及部分海面受影响。",
-          "url": "https://flash.jin10.com/detail/20260813044915142800",
-          "source": "金十数据",
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时42分"
-        },
+          "time_info": "09时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
-          "url": "https://flash.jin10.com/detail/20260813030442991800",
-          "source": "金十数据",
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 09时44分]"
+        },
+        {
+          "title": "金价油价全涨了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E6%B6%A8%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "09时44分"
         }
       ]
     },
@@ -664,7 +815,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
@@ -693,26 +844,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
-          "url": "https://www.cls.cn/detail/2452735",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时42分]"
         }
       ]
     }
