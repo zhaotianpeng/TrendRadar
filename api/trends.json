@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T16:19:07.106576+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-08-13T19:08:20.745716+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -78,6 +78,19 @@
           "time_info": "[00时55分 ~ 05时42分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 19时08分]"
+        },
+        {
           "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
           "url": "https://flash.jin10.com/detail/20260813033919055800",
           "source": "金十数据",
@@ -87,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
@@ -100,16 +124,26 @@
           "time_info": "04时02分"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813183204608800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 16时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
@@ -177,19 +211,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时08分]"
         },
         {
           "title": "特朗普：我想谋求第三任期，但美国法律太严",
           "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时08分]"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -295,7 +330,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -322,18 +357,6 @@
           "time_info": "[00时55分 ~ 05时42分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 16时19分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
@@ -353,11 +376,25 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 19时08分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 19时08分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -431,6 +468,30 @@
           "time_info": "[00时56分 ~ 02时59分]"
         },
         {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时08分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时08分]"
+        },
+        {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
@@ -455,28 +516,6 @@
           "time_info": "[09时44分 ~ 12时09分]"
         },
         {
-          "title": "快把真正的DeepSeek V4 Pro还给我",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
           "title": "DeepSeek最新版本藏了一个大招",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
           "source": "百度热搜",
@@ -486,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
@@ -502,18 +552,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -550,6 +601,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "Tapestry第四季度净销售额18.8亿美元，预期18.7亿美元。 第四季度调整后每股收益1.32美元，预期1.27美元。 第四季度调整后营业利润3.62亿美元，同比增长25%。 Tapestry预计2027财年调整后每股收益为7.80至7.90美元，市场预期7.87美元。 Tapestry美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美股三大指数集体高开",
@@ -597,15 +659,37 @@
           "time_info": "[00时56分 ~ 01时57分]"
         },
         {
+          "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
+          "url": "https://wallstreetcn.com/livenews/3149117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美股盘前，Coherent跌约4%，Cerebras跌约17%，思科跌约4%",
           "url": "https://wallstreetcn.com/livenews/3149023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "京东美股盘前跌幅扩大至逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3149113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -617,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "京东集团 第二季度净营收3,464.0亿元人民币，同比下降2.9%，市场预估3,421亿元人民币。 第二季度调整后EBITDA 79亿元人民币，上年同期30亿元人民币，市场预估77亿元人民币。 第二季度调整后每ADS收益6.29元人民币，市场预估5.40元人民币。 截至2026年6月30日，股票回购计划剩余金额为10亿美元。 京东集团美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3149104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -655,7 +750,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -727,8 +822,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时08分]"
         },
         {
           "title": "伊朗外长阿拉格齐：美国长期以来因情报失误而误判形势。典型例子就是对伊朗的战争。如今，在霍尔木兹海峡问题上，美国又犯下了一个更大的误判。",
@@ -762,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
@@ -803,7 +909,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -1000,6 +1106,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "IBM与OpenAI就企业AI部署达成合作",
+          "url": "https://wallstreetcn.com/livenews/3149109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "IBM股价在盘前交易中上涨1.6%，因公司宣布与OpenAI建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260813181116002800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
